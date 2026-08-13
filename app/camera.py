@@ -52,7 +52,7 @@ def camera_producer(video_path, camera_id, frame_queue, config, camera_metrics, 
 
     while True:
 
-        if not is_camera and pushed >= max_frames:
+        if not is_camera and frame_number >= max_frames:
             break
         ret, frame = cap.read()
 
@@ -78,9 +78,9 @@ def camera_producer(video_path, camera_id, frame_queue, config, camera_metrics, 
         now = time.time()
         camera_metrics[camera_id] = {"last_frame_received": now, "frame_number": frame_number}
 
-        if frame_number % frame_interval == 0:
-            total_sampled += 1
-
+        if frame_number % frame_interval != 0:
+            frame_number += 1
+            continue
         try:
             frame_queue.put_nowait(Frame(camera_id, frame_number, frame, now))
             pushed += 1
