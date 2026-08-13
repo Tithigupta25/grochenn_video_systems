@@ -60,7 +60,7 @@ Monitoring Summary + Dashboard
 ### Pipeline Components
 
 1. **Source Discovery:** Selects configured video files or camera devices.
-2. **Producer Threads:** Read and sample frames from each source and attach camera/timestamp information.
+2. **Producer Threads:** Read frames from each source and attach camera/timestamp information.
 3. **Bounded Queue:** Buffers frames between ingestion and detection. Frames are counted as dropped when the queue is full.
 4. **Detection Workers:** Consume queued frames and run YOLO inference.
 5. **Logging:** Stores structured pipeline events in JSONL format.
@@ -92,7 +92,7 @@ and processing bottlenecks.
 |---|---|
 | **Frames Pushed** | Number of sampled frames successfully queued |
 | **Frames Dropped** | Frames discarded when the queue is full |
-| **Frame Drop Rate** | Measures the proportion of dropped frames |
+| **Frame Drop Rate** | Measures the proportion of sampled frames that were dropped |
 | **Queue Size** | Current number of frames waiting for processing |
 | **Queue Fullness** | Indicates queue saturation |
 | **Processing Lag** | Time between frame capture/ingestion and worker processing |
