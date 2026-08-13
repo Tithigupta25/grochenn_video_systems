@@ -1,0 +1,29 @@
+{
+    "model": {
+        "name": "yolov8s-worldv2.pt"
+    },
+
+    "detection": {
+        "confidence_threshold": 0.3,
+        "frame_interval": 5
+    },
+
+    "pipeline": {
+        "max_frames_per_camera": 500,
+        "max_retries": 3,
+        "queue_maxsize": 100,
+        "num_workers": 1
+    },
+
+    "output": {
+        "detections_dir": "results/detections",
+        "log_file": "results/pipeline_events.jsonl",
+        "dashboard_file": "results/pipeline_monitoring_dashboard.png"
+    },
+    
+    "input": {
+        "mode": "auto",
+        "video_dir": "videos",
+        "camera_indices": [1]
+    }
+}
