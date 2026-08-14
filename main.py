@@ -25,15 +25,17 @@ def get_video_sources(config):
         return video_sources
 
     detected_cameras = []
+    preferred_cameras = input_config.get("camera_indices", [])
+    cameras_to_check = preferred_cameras if preferred_cameras else range(5)
 
-    for index in range(5):
+    for index in cameras_to_check:
         cap = cv2.VideoCapture(index)
 
         if cap.isOpened():
             detected_cameras.append(index)
 
         cap.release()
-
+        
     if detected_cameras:
         preferred_cameras = input_config.get("camera_indices", [])
     
