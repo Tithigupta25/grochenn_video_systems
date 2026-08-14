@@ -4,9 +4,9 @@ import threading
 import json
 from collections import defaultdict
 
-from app.camera import camera_producer
-from app.detector import detection_worker
-from app.dashboard import create_dashboard
+from core.camera import camera_producer
+from core.detector import detection_worker
+from core.dashboard import create_dashboard
 
 
 def build_camera_data(log_file):

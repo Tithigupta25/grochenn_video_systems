@@ -5,8 +5,8 @@ import queue
 import cv2
 from ultralytics import YOLO
 
-from app.logger import log_event
-from app.camera import Frame
+from core.logger import log_event
+from core.camera import Frame
 
 
 def detection_worker(worker_id, frame_queue, producers_done_event, model_path, object_classes, confidence_threshold, queue_maxsize, output_dir, log_file,):

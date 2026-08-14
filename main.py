@@ -1,7 +1,7 @@
 import os
 
-from app.config import load_config, load_classes
-from app.pipeline import run_pipeline
+from core.config import load_config, load_classes
+from core.pipeline import run_pipeline
 import cv2
 
 

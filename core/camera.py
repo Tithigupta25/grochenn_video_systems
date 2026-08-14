@@ -3,7 +3,7 @@ import time
 from dataclasses import dataclass
 import queue
 
-from app.logger import log_event
+from core.logger import log_event
 
 
 @dataclass
