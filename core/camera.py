@@ -81,6 +81,7 @@ def camera_producer(video_path, camera_id, frame_queue, config, camera_metrics, 
         if frame_number % frame_interval != 0:
             frame_number += 1
             continue
+        total_sampled += 1
         try:
             frame_queue.put_nowait(Frame(camera_id, frame_number, frame, now))
             pushed += 1

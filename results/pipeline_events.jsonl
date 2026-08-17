@@ -1,498 +1,489 @@
-{"level": "INFO", "camera_id": 3, "msg": "Stream ended or frame read failed", "ts": "2026-08-15T00:22:31"}
-{"level": "METRIC", "camera_id": 3, "frames_pushed": 35, "frames_dropped": 0, "total_sampled": 0, "frame_drop_rate": 0, "ts": "2026-08-15T00:22:32"}
-{"level": "METRIC", "camera_id": 1, "frame": 30, "frame_dropped": 1, "frames_dropped": 1, "queue_size": 100, "ts": "2026-08-15T00:22:34"}
-{"level": "METRIC", "camera_id": 4, "frame": 265, "frame_dropped": 1, "frames_dropped": 1, "queue_size": 100, "ts": "2026-08-15T00:22:34"}
-{"level": "METRIC", "camera_id": 4, "frame": 270, "frame_dropped": 1, "frames_dropped": 2, "queue_size": 100, "ts": "2026-08-15T00:22:34"}
-{"level": "METRIC", "camera_id": 4, "frame": 275, "frame_dropped": 1, "frames_dropped": 3, "queue_size": 100, "ts": "2026-08-15T00:22:34"}
-{"level": "METRIC", "camera_id": 2, "frame": 30, "frame_dropped": 1, "frames_dropped": 1, "queue_size": 100, "ts": "2026-08-15T00:22:34"}
-{"level": "METRIC", "camera_id": 4, "frame": 280, "frame_dropped": 1, "frames_dropped": 4, "queue_size": 100, "ts": "2026-08-15T00:22:34"}
-{"level": "METRIC", "camera_id": 4, "frame": 285, "frame_dropped": 1, "frames_dropped": 5, "queue_size": 100, "ts": "2026-08-15T00:22:34"}
-{"level": "METRIC", "camera_id": 4, "frame": 290, "frame_dropped": 1, "frames_dropped": 6, "queue_size": 100, "ts": "2026-08-15T00:22:34"}
-{"level": "METRIC", "camera_id": 4, "frame": 295, "frame_dropped": 1, "frames_dropped": 7, "queue_size": 100, "ts": "2026-08-15T00:22:34"}
-{"level": "METRIC", "camera_id": 1, "frame": 35, "frame_dropped": 1, "frames_dropped": 2, "queue_size": 100, "ts": "2026-08-15T00:22:35"}
-{"level": "METRIC", "camera_id": 4, "frame": 300, "frame_dropped": 1, "frames_dropped": 8, "queue_size": 100, "ts": "2026-08-15T00:22:35"}
-{"level": "METRIC", "camera_id": 4, "frame": 305, "frame_dropped": 1, "frames_dropped": 9, "queue_size": 100, "ts": "2026-08-15T00:22:35"}
-{"level": "METRIC", "camera_id": 4, "frame": 310, "frame_dropped": 1, "frames_dropped": 10, "queue_size": 100, "ts": "2026-08-15T00:22:35"}
-{"level": "METRIC", "camera_id": 2, "frame": 35, "frame_dropped": 1, "frames_dropped": 2, "queue_size": 100, "ts": "2026-08-15T00:22:35"}
-{"level": "METRIC", "camera_id": 4, "frame": 315, "frame_dropped": 1, "frames_dropped": 11, "queue_size": 100, "ts": "2026-08-15T00:22:35"}
-{"level": "METRIC", "camera_id": 4, "frame": 320, "frame_dropped": 1, "frames_dropped": 12, "queue_size": 100, "ts": "2026-08-15T00:22:35"}
-{"level": "METRIC", "camera_id": 4, "frame": 325, "frame_dropped": 1, "frames_dropped": 13, "queue_size": 100, "ts": "2026-08-15T00:22:35"}
-{"level": "METRIC", "camera_id": 4, "frame": 330, "frame_dropped": 1, "frames_dropped": 14, "queue_size": 100, "ts": "2026-08-15T00:22:35"}
-{"level": "METRIC", "camera_id": 4, "frame": 335, "frame_dropped": 1, "frames_dropped": 15, "queue_size": 100, "ts": "2026-08-15T00:22:35"}
-{"level": "METRIC", "camera_id": 1, "frame": 40, "frame_dropped": 1, "frames_dropped": 3, "queue_size": 100, "ts": "2026-08-15T00:22:35"}
-{"level": "METRIC", "camera_id": 4, "frame": 340, "frame_dropped": 1, "frames_dropped": 16, "queue_size": 100, "ts": "2026-08-15T00:22:35"}
-{"level": "METRIC", "camera_id": 4, "frame": 345, "frame_dropped": 1, "frames_dropped": 17, "queue_size": 100, "ts": "2026-08-15T00:22:36"}
-{"level": "METRIC", "camera_id": 2, "frame": 40, "frame_dropped": 1, "frames_dropped": 3, "queue_size": 100, "ts": "2026-08-15T00:22:36"}
-{"level": "METRIC", "camera_id": 4, "frame": 350, "frame_dropped": 1, "frames_dropped": 18, "queue_size": 100, "ts": "2026-08-15T00:22:36"}
-{"level": "METRIC", "camera_id": 4, "frame": 355, "frame_dropped": 1, "frames_dropped": 19, "queue_size": 100, "ts": "2026-08-15T00:22:36"}
-{"level": "METRIC", "camera_id": 4, "frame": 360, "frame_dropped": 1, "frames_dropped": 20, "queue_size": 100, "ts": "2026-08-15T00:22:36"}
-{"level": "METRIC", "camera_id": 4, "frame": 365, "frame_dropped": 1, "frames_dropped": 21, "queue_size": 100, "ts": "2026-08-15T00:22:36"}
-{"level": "METRIC", "camera_id": 4, "frame": 370, "frame_dropped": 1, "frames_dropped": 22, "queue_size": 100, "ts": "2026-08-15T00:22:36"}
-{"level": "METRIC", "camera_id": 4, "frame": 375, "frame_dropped": 1, "frames_dropped": 23, "queue_size": 100, "ts": "2026-08-15T00:22:36"}
-{"level": "METRIC", "camera_id": 1, "frame": 45, "frame_dropped": 1, "frames_dropped": 4, "queue_size": 100, "ts": "2026-08-15T00:22:36"}
-{"level": "METRIC", "camera_id": 4, "frame": 380, "frame_dropped": 1, "frames_dropped": 24, "queue_size": 100, "ts": "2026-08-15T00:22:36"}
-{"level": "METRIC", "camera_id": 4, "frame": 385, "frame_dropped": 1, "frames_dropped": 25, "queue_size": 100, "ts": "2026-08-15T00:22:37"}
-{"level": "METRIC", "camera_id": 2, "frame": 45, "frame_dropped": 1, "frames_dropped": 4, "queue_size": 100, "ts": "2026-08-15T00:22:37"}
-{"level": "METRIC", "camera_id": 4, "frame": 390, "frame_dropped": 1, "frames_dropped": 26, "queue_size": 100, "ts": "2026-08-15T00:22:37"}
-{"level": "METRIC", "camera_id": 4, "frame": 395, "frame_dropped": 1, "frames_dropped": 27, "queue_size": 100, "ts": "2026-08-15T00:22:37"}
-{"level": "METRIC", "camera_id": 4, "frame": 400, "frame_dropped": 1, "frames_dropped": 28, "queue_size": 100, "ts": "2026-08-15T00:22:37"}
-{"level": "INFO", "camera_id": 4, "msg": "Stream ended or frame read failed", "ts": "2026-08-15T00:22:37"}
-{"level": "METRIC", "camera_id": 4, "frames_pushed": 53, "frames_dropped": 28, "total_sampled": 0, "frame_drop_rate": 0, "ts": "2026-08-15T00:22:37"}
-{"level": "METRIC", "camera_id": 1, "frame": 50, "frame_dropped": 1, "frames_dropped": 5, "queue_size": 100, "ts": "2026-08-15T00:22:37"}
-{"level": "METRIC", "camera_id": 2, "frame": 50, "frame_dropped": 1, "frames_dropped": 5, "queue_size": 100, "ts": "2026-08-15T00:22:38"}
-{"level": "METRIC", "camera_id": 1, "frame": 55, "frame_dropped": 1, "frames_dropped": 6, "queue_size": 100, "ts": "2026-08-15T00:22:38"}
-{"level": "METRIC", "camera_id": 2, "frame": 55, "frame_dropped": 1, "frames_dropped": 6, "queue_size": 100, "ts": "2026-08-15T00:22:39"}
-{"level": "METRIC", "camera_id": 1, "frame": 60, "frame_dropped": 1, "frames_dropped": 7, "queue_size": 100, "ts": "2026-08-15T00:22:39"}
-{"level": "METRIC", "camera_id": 2, "frame": 60, "frame_dropped": 1, "frames_dropped": 7, "queue_size": 100, "ts": "2026-08-15T00:22:40"}
-{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 0, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-15T00:22:40"}
-{"level": "METRIC", "camera_id": 3, "frame": 0, "worker": 1, "processing_lag_sec": 12.639, "ts": "2026-08-15T00:22:40"}
-{"level": "METRIC", "camera_id": 2, "frame": 65, "frame_dropped": 1, "frames_dropped": 8, "queue_size": 100, "ts": "2026-08-15T00:22:41"}
-{"level": "METRIC", "camera_id": 1, "frame": 70, "frame_dropped": 1, "frames_dropped": 8, "queue_size": 100, "ts": "2026-08-15T00:22:41"}
-{"level": "METRIC", "camera_id": 2, "frame": 70, "frame_dropped": 1, "frames_dropped": 9, "queue_size": 100, "ts": "2026-08-15T00:22:42"}
-{"level": "METRIC", "camera_id": 1, "frame": 75, "frame_dropped": 1, "frames_dropped": 9, "queue_size": 100, "ts": "2026-08-15T00:22:43"}
-{"level": "METRIC", "camera_id": 2, "frame": 75, "frame_dropped": 1, "frames_dropped": 10, "queue_size": 100, "ts": "2026-08-15T00:22:43"}
-{"level": "METRIC", "camera_id": 1, "frame": 80, "frame_dropped": 1, "frames_dropped": 10, "queue_size": 100, "ts": "2026-08-15T00:22:44"}
-{"level": "METRIC", "camera_id": 2, "frame": 80, "frame_dropped": 1, "frames_dropped": 11, "queue_size": 100, "ts": "2026-08-15T00:22:45"}
-{"level": "METRIC", "camera_id": 1, "frame": 85, "frame_dropped": 1, "frames_dropped": 11, "queue_size": 100, "ts": "2026-08-15T00:22:45"}
-{"level": "METRIC", "camera_id": 2, "frame": 85, "frame_dropped": 1, "frames_dropped": 12, "queue_size": 100, "ts": "2026-08-15T00:22:45"}
-{"level": "METRIC", "camera_id": 1, "frame": 90, "frame_dropped": 1, "frames_dropped": 12, "queue_size": 100, "ts": "2026-08-15T00:22:46"}
-{"level": "METRIC", "camera_id": 2, "frame": 90, "frame_dropped": 1, "frames_dropped": 13, "queue_size": 100, "ts": "2026-08-15T00:22:46"}
-{"level": "METRIC", "camera_id": 1, "frame": 95, "frame_dropped": 1, "frames_dropped": 13, "queue_size": 100, "ts": "2026-08-15T00:22:47"}
-{"level": "METRIC", "camera_id": 2, "frame": 95, "frame_dropped": 1, "frames_dropped": 14, "queue_size": 100, "ts": "2026-08-15T00:22:47"}
-{"level": "METRIC", "camera_id": 1, "frame": 100, "frame_dropped": 1, "frames_dropped": 14, "queue_size": 100, "ts": "2026-08-15T00:22:47"}
-{"level": "METRIC", "camera_id": 2, "frame": 100, "frame_dropped": 1, "frames_dropped": 15, "queue_size": 100, "ts": "2026-08-15T00:22:47"}
-{"level": "METRIC", "camera_id": 1, "frame": 105, "frame_dropped": 1, "frames_dropped": 15, "queue_size": 100, "ts": "2026-08-15T00:22:48"}
-{"level": "METRIC", "camera_id": 2, "frame": 105, "frame_dropped": 1, "frames_dropped": 16, "queue_size": 100, "ts": "2026-08-15T00:22:49"}
-{"level": "METRIC", "camera_id": 1, "frame": 110, "frame_dropped": 1, "frames_dropped": 16, "queue_size": 100, "ts": "2026-08-15T00:22:49"}
-{"level": "METRIC", "camera_id": 2, "frame": 110, "frame_dropped": 1, "frames_dropped": 17, "queue_size": 100, "ts": "2026-08-15T00:22:49"}
-{"level": "METRIC", "camera_id": 1, "frame": 115, "frame_dropped": 1, "frames_dropped": 17, "queue_size": 100, "ts": "2026-08-15T00:22:50"}
-{"level": "METRIC", "camera_id": 2, "frame": 115, "frame_dropped": 1, "frames_dropped": 18, "queue_size": 100, "ts": "2026-08-15T00:22:50"}
-{"level": "METRIC", "camera_id": 1, "frame": 120, "frame_dropped": 1, "frames_dropped": 18, "queue_size": 100, "ts": "2026-08-15T00:22:50"}
-{"level": "METRIC", "camera_id": 2, "frame": 120, "frame_dropped": 1, "frames_dropped": 19, "queue_size": 100, "ts": "2026-08-15T00:22:50"}
-{"level": "METRIC", "camera_id": 1, "frame": 125, "frame_dropped": 1, "frames_dropped": 19, "queue_size": 100, "ts": "2026-08-15T00:22:51"}
-{"level": "METRIC", "camera_id": 2, "frame": 125, "frame_dropped": 1, "frames_dropped": 20, "queue_size": 100, "ts": "2026-08-15T00:22:51"}
-{"level": "METRIC", "camera_id": 1, "frame": 130, "frame_dropped": 1, "frames_dropped": 20, "queue_size": 100, "ts": "2026-08-15T00:22:51"}
-{"level": "METRIC", "camera_id": 2, "frame": 130, "frame_dropped": 1, "frames_dropped": 21, "queue_size": 100, "ts": "2026-08-15T00:22:51"}
-{"level": "METRIC", "camera_id": 1, "frame": 135, "frame_dropped": 1, "frames_dropped": 21, "queue_size": 100, "ts": "2026-08-15T00:22:52"}
-{"level": "METRIC", "camera_id": 2, "frame": 135, "frame_dropped": 1, "frames_dropped": 22, "queue_size": 100, "ts": "2026-08-15T00:22:52"}
-{"level": "METRIC", "camera_id": 1, "frame": 140, "frame_dropped": 1, "frames_dropped": 22, "queue_size": 100, "ts": "2026-08-15T00:22:52"}
-{"level": "METRIC", "camera_id": 2, "frame": 140, "frame_dropped": 1, "frames_dropped": 23, "queue_size": 100, "ts": "2026-08-15T00:22:53"}
-{"level": "METRIC", "camera_id": 1, "frame": 145, "frame_dropped": 1, "frames_dropped": 23, "queue_size": 100, "ts": "2026-08-15T00:22:53"}
-{"level": "METRIC", "camera_id": 2, "frame": 145, "frame_dropped": 1, "frames_dropped": 24, "queue_size": 100, "ts": "2026-08-15T00:22:53"}
-{"level": "METRIC", "camera_id": 1, "frame": 150, "frame_dropped": 1, "frames_dropped": 24, "queue_size": 100, "ts": "2026-08-15T00:22:53"}
-{"level": "METRIC", "camera_id": 2, "frame": 150, "frame_dropped": 1, "frames_dropped": 25, "queue_size": 100, "ts": "2026-08-15T00:22:54"}
-{"level": "METRIC", "camera_id": 1, "frame": 155, "frame_dropped": 1, "frames_dropped": 25, "queue_size": 100, "ts": "2026-08-15T00:22:54"}
-{"level": "METRIC", "camera_id": 2, "frame": 155, "frame_dropped": 1, "frames_dropped": 26, "queue_size": 100, "ts": "2026-08-15T00:22:55"}
-{"level": "METRIC", "camera_id": 1, "frame": 160, "frame_dropped": 1, "frames_dropped": 26, "queue_size": 100, "ts": "2026-08-15T00:22:55"}
-{"level": "METRIC", "camera_id": 2, "frame": 160, "frame_dropped": 1, "frames_dropped": 27, "queue_size": 100, "ts": "2026-08-15T00:22:56"}
-{"level": "METRIC", "camera_id": 1, "frame": 165, "frame_dropped": 1, "frames_dropped": 27, "queue_size": 100, "ts": "2026-08-15T00:22:56"}
-{"level": "METRIC", "camera_id": 2, "frame": 165, "frame_dropped": 1, "frames_dropped": 28, "queue_size": 100, "ts": "2026-08-15T00:22:56"}
-{"level": "METRIC", "camera_id": 1, "frame": 170, "frame_dropped": 1, "frames_dropped": 28, "queue_size": 100, "ts": "2026-08-15T00:22:57"}
-{"level": "METRIC", "camera_id": 2, "frame": 170, "frame_dropped": 1, "frames_dropped": 29, "queue_size": 100, "ts": "2026-08-15T00:22:57"}
-{"level": "METRIC", "camera_id": 1, "frame": 175, "frame_dropped": 1, "frames_dropped": 29, "queue_size": 100, "ts": "2026-08-15T00:22:57"}
-{"level": "METRIC", "camera_id": 2, "frame": 175, "frame_dropped": 1, "frames_dropped": 30, "queue_size": 100, "ts": "2026-08-15T00:22:58"}
-{"level": "METRIC", "camera_id": 1, "frame": 180, "frame_dropped": 1, "frames_dropped": 30, "queue_size": 100, "ts": "2026-08-15T00:22:58"}
-{"level": "METRIC", "camera_id": 2, "frame": 180, "frame_dropped": 1, "frames_dropped": 31, "queue_size": 100, "ts": "2026-08-15T00:22:58"}
-{"level": "METRIC", "camera_id": 1, "frame": 185, "frame_dropped": 1, "frames_dropped": 31, "queue_size": 100, "ts": "2026-08-15T00:22:59"}
-{"level": "METRIC", "camera_id": 2, "frame": 185, "frame_dropped": 1, "frames_dropped": 32, "queue_size": 100, "ts": "2026-08-15T00:22:59"}
-{"level": "METRIC", "camera_id": 1, "frame": 190, "frame_dropped": 1, "frames_dropped": 32, "queue_size": 100, "ts": "2026-08-15T00:22:59"}
-{"level": "METRIC", "camera_id": 2, "frame": 190, "frame_dropped": 1, "frames_dropped": 33, "queue_size": 100, "ts": "2026-08-15T00:22:59"}
-{"level": "METRIC", "camera_id": 1, "frame": 195, "frame_dropped": 1, "frames_dropped": 33, "queue_size": 100, "ts": "2026-08-15T00:23:00"}
-{"level": "METRIC", "camera_id": 2, "frame": 195, "frame_dropped": 1, "frames_dropped": 34, "queue_size": 100, "ts": "2026-08-15T00:23:00"}
-{"level": "METRIC", "camera_id": 1, "frame": 200, "frame_dropped": 1, "frames_dropped": 34, "queue_size": 100, "ts": "2026-08-15T00:23:00"}
-{"level": "METRIC", "camera_id": 2, "frame": 200, "frame_dropped": 1, "frames_dropped": 35, "queue_size": 100, "ts": "2026-08-15T00:23:01"}
-{"level": "METRIC", "camera_id": 1, "frame": 205, "frame_dropped": 1, "frames_dropped": 35, "queue_size": 100, "ts": "2026-08-15T00:23:02"}
-{"level": "METRIC", "camera_id": 2, "frame": 205, "frame_dropped": 1, "frames_dropped": 36, "queue_size": 100, "ts": "2026-08-15T00:23:02"}
-{"level": "METRIC", "camera_id": 1, "frame": 210, "frame_dropped": 1, "frames_dropped": 36, "queue_size": 100, "ts": "2026-08-15T00:23:02"}
-{"level": "METRIC", "camera_id": 2, "frame": 210, "frame_dropped": 1, "frames_dropped": 37, "queue_size": 100, "ts": "2026-08-15T00:23:03"}
-{"level": "METRIC", "camera_id": 1, "frame": 215, "frame_dropped": 1, "frames_dropped": 37, "queue_size": 100, "ts": "2026-08-15T00:23:03"}
-{"level": "METRIC", "camera_id": 2, "frame": 215, "frame_dropped": 1, "frames_dropped": 38, "queue_size": 100, "ts": "2026-08-15T00:23:03"}
-{"level": "METRIC", "camera_id": 1, "frame": 220, "frame_dropped": 1, "frames_dropped": 38, "queue_size": 100, "ts": "2026-08-15T00:23:04"}
-{"level": "METRIC", "camera_id": 2, "frame": 220, "frame_dropped": 1, "frames_dropped": 39, "queue_size": 100, "ts": "2026-08-15T00:23:04"}
-{"level": "METRIC", "camera_id": 1, "frame": 225, "frame_dropped": 1, "frames_dropped": 39, "queue_size": 100, "ts": "2026-08-15T00:23:05"}
-{"level": "METRIC", "camera_id": 2, "frame": 225, "frame_dropped": 1, "frames_dropped": 40, "queue_size": 100, "ts": "2026-08-15T00:23:06"}
-{"level": "METRIC", "camera_id": 1, "frame": 230, "frame_dropped": 1, "frames_dropped": 40, "queue_size": 100, "ts": "2026-08-15T00:23:06"}
-{"level": "METRIC", "camera_id": 2, "frame": 230, "frame_dropped": 1, "frames_dropped": 41, "queue_size": 100, "ts": "2026-08-15T00:23:06"}
-{"level": "METRIC", "camera_id": 1, "frame": 235, "frame_dropped": 1, "frames_dropped": 41, "queue_size": 100, "ts": "2026-08-15T00:23:06"}
-{"level": "METRIC", "camera_id": 2, "frame": 235, "frame_dropped": 1, "frames_dropped": 42, "queue_size": 100, "ts": "2026-08-15T00:23:07"}
-{"level": "METRIC", "camera_id": 1, "frame": 240, "frame_dropped": 1, "frames_dropped": 42, "queue_size": 100, "ts": "2026-08-15T00:23:07"}
-{"level": "METRIC", "camera_id": 2, "frame": 240, "frame_dropped": 1, "frames_dropped": 43, "queue_size": 100, "ts": "2026-08-15T00:23:08"}
-{"level": "METRIC", "camera_id": 1, "frame": 245, "frame_dropped": 1, "frames_dropped": 43, "queue_size": 100, "ts": "2026-08-15T00:23:08"}
-{"level": "EVENT", "camera_id": 3, "frame": 0, "detections": [{"label": "bench", "confidence": 0.75, "bbox": [607, 636, 788, 720]}, {"label": "truck", "confidence": 0.64, "bbox": [7, 490, 216, 631]}, {"label": "car", "confidence": 0.5, "bbox": [0, 570, 81, 654]}], "worker": 1, "ts": "2026-08-15T00:23:09"}
-{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 5, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-15T00:23:09"}
-{"level": "METRIC", "camera_id": 3, "frame": 5, "worker": 1, "processing_lag_sec": 41.417, "ts": "2026-08-15T00:23:09"}
-{"level": "METRIC", "camera_id": 1, "frame": 250, "frame_dropped": 1, "frames_dropped": 44, "queue_size": 100, "ts": "2026-08-15T00:23:09"}
-{"level": "METRIC", "camera_id": 2, "frame": 250, "frame_dropped": 1, "frames_dropped": 44, "queue_size": 100, "ts": "2026-08-15T00:23:09"}
-{"level": "METRIC", "camera_id": 1, "frame": 255, "frame_dropped": 1, "frames_dropped": 45, "queue_size": 100, "ts": "2026-08-15T00:23:10"}
-{"level": "EVENT", "camera_id": 3, "frame": 5, "detections": [{"label": "bench", "confidence": 0.65, "bbox": [608, 636, 789, 720]}, {"label": "car", "confidence": 0.55, "bbox": [212, 545, 307, 594]}, {"label": "truck", "confidence": 0.44, "bbox": [0, 490, 186, 640]}, {"label": "car", "confidence": 0.37, "bbox": [0, 577, 58, 655]}], "worker": 1, "ts": "2026-08-15T00:23:10"}
-{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 10, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-15T00:23:10"}
-{"level": "METRIC", "camera_id": 3, "frame": 10, "worker": 1, "processing_lag_sec": 42.546, "ts": "2026-08-15T00:23:10"}
-{"level": "METRIC", "camera_id": 1, "frame": 260, "frame_dropped": 1, "frames_dropped": 46, "queue_size": 100, "ts": "2026-08-15T00:23:10"}
-{"level": "METRIC", "camera_id": 2, "frame": 260, "frame_dropped": 1, "frames_dropped": 45, "queue_size": 100, "ts": "2026-08-15T00:23:11"}
-{"level": "METRIC", "camera_id": 1, "frame": 265, "frame_dropped": 1, "frames_dropped": 47, "queue_size": 100, "ts": "2026-08-15T00:23:11"}
-{"level": "EVENT", "camera_id": 3, "frame": 10, "detections": [{"label": "truck", "confidence": 0.83, "bbox": [0, 488, 164, 644]}, {"label": "bench", "confidence": 0.7, "bbox": [604, 634, 786, 719]}, {"label": "car", "confidence": 0.5, "bbox": [186, 545, 297, 595]}], "worker": 1, "ts": "2026-08-15T00:23:12"}
-{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 15, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-15T00:23:12"}
-{"level": "METRIC", "camera_id": 3, "frame": 15, "worker": 1, "processing_lag_sec": 44.357, "ts": "2026-08-15T00:23:12"}
-{"level": "METRIC", "camera_id": 1, "frame": 270, "frame_dropped": 1, "frames_dropped": 48, "queue_size": 100, "ts": "2026-08-15T00:23:13"}
-{"level": "METRIC", "camera_id": 2, "frame": 270, "frame_dropped": 1, "frames_dropped": 46, "queue_size": 100, "ts": "2026-08-15T00:23:13"}
-{"level": "EVENT", "camera_id": 3, "frame": 15, "detections": [{"label": "truck", "confidence": 0.68, "bbox": [0, 485, 135, 651]}, {"label": "bench", "confidence": 0.61, "bbox": [596, 633, 778, 720]}, {"label": "bench", "confidence": 0.5, "bbox": [648, 634, 778, 719]}, {"label": "car", "confidence": 0.38, "bbox": [168, 545, 277, 598]}, {"label": "person", "confidence": 0.36, "bbox": [965, 433, 1000, 547]}], "worker": 1, "ts": "2026-08-15T00:23:13"}
-{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 20, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-15T00:23:13"}
-{"level": "METRIC", "camera_id": 3, "frame": 20, "worker": 1, "processing_lag_sec": 45.693, "ts": "2026-08-15T00:23:13"}
-{"level": "INFO", "camera_id": 1, "msg": "Stream ended or frame read failed", "ts": "2026-08-15T00:23:14"}
-{"level": "METRIC", "camera_id": 2, "frame": 275, "frame_dropped": 1, "frames_dropped": 47, "queue_size": 100, "ts": "2026-08-15T00:23:14"}
-{"level": "METRIC", "camera_id": 1, "frames_pushed": 8, "frames_dropped": 48, "total_sampled": 0, "frame_drop_rate": 0, "ts": "2026-08-15T00:23:14"}
-{"level": "EVENT", "camera_id": 3, "frame": 20, "detections": [{"label": "truck", "confidence": 0.83, "bbox": [0, 484, 109, 648]}, {"label": "bench", "confidence": 0.65, "bbox": [635, 633, 772, 720]}, {"label": "car", "confidence": 0.45, "bbox": [143, 546, 257, 602]}], "worker": 1, "ts": "2026-08-15T00:23:14"}
-{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 25, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-15T00:23:14"}
-{"level": "METRIC", "camera_id": 3, "frame": 25, "worker": 1, "processing_lag_sec": 46.241, "ts": "2026-08-15T00:23:14"}
-{"level": "EVENT", "camera_id": 3, "frame": 25, "detections": [{"label": "bench", "confidence": 0.71, "bbox": [586, 635, 767, 720]}, {"label": "truck", "confidence": 0.65, "bbox": [0, 481, 82, 644]}, {"label": "car", "confidence": 0.5, "bbox": [128, 548, 242, 603]}, {"label": "person", "confidence": 0.36, "bbox": [952, 433, 989, 549]}, {"label": "bench", "confidence": 0.33, "bbox": [661, 664, 765, 719]}, {"label": "car", "confidence": 0.31, "bbox": [262, 543, 314, 579]}], "worker": 1, "ts": "2026-08-15T00:23:14"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 0, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-15T00:23:14"}
-{"level": "METRIC", "camera_id": 4, "frame": 0, "worker": 1, "processing_lag_sec": 46.8, "ts": "2026-08-15T00:23:14"}
-{"level": "METRIC", "camera_id": 2, "frame": 290, "frame_dropped": 1, "frames_dropped": 48, "queue_size": 100, "ts": "2026-08-15T00:23:15"}
-{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 30, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-15T00:23:15"}
-{"level": "METRIC", "camera_id": 3, "frame": 30, "worker": 1, "processing_lag_sec": 47.249, "ts": "2026-08-15T00:23:15"}
-{"level": "EVENT", "camera_id": 3, "frame": 30, "detections": [{"label": "bench", "confidence": 0.75, "bbox": [584, 637, 765, 720]}, {"label": "car", "confidence": 0.5, "bbox": [112, 550, 230, 611]}, {"label": "truck", "confidence": 0.34, "bbox": [0, 484, 55, 647]}], "worker": 1, "ts": "2026-08-15T00:23:16"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 5, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-15T00:23:16"}
-{"level": "METRIC", "camera_id": 4, "frame": 5, "worker": 1, "processing_lag_sec": 47.828, "ts": "2026-08-15T00:23:16"}
-{"level": "METRIC", "camera_id": 2, "frame": 305, "frame_dropped": 1, "frames_dropped": 49, "queue_size": 100, "ts": "2026-08-15T00:23:16"}
-{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 35, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-15T00:23:16"}
-{"level": "METRIC", "camera_id": 3, "frame": 35, "worker": 1, "processing_lag_sec": 48.207, "ts": "2026-08-15T00:23:16"}
-{"level": "EVENT", "camera_id": 3, "frame": 35, "detections": [{"label": "bench", "confidence": 0.65, "bbox": [604, 639, 769, 720]}, {"label": "car", "confidence": 0.62, "bbox": [100, 552, 225, 617]}, {"label": "car", "confidence": 0.43, "bbox": [242, 548, 312, 587]}], "worker": 1, "ts": "2026-08-15T00:23:17"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 10, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-15T00:23:17"}
-{"level": "METRIC", "camera_id": 4, "frame": 10, "worker": 1, "processing_lag_sec": 48.877, "ts": "2026-08-15T00:23:17"}
-{"level": "METRIC", "camera_id": 2, "frame": 320, "frame_dropped": 1, "frames_dropped": 50, "queue_size": 100, "ts": "2026-08-15T00:23:18"}
-{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 40, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-15T00:23:18"}
-{"level": "METRIC", "camera_id": 3, "frame": 40, "worker": 1, "processing_lag_sec": 49.6, "ts": "2026-08-15T00:23:18"}
-{"level": "EVENT", "camera_id": 3, "frame": 40, "detections": [{"label": "car", "confidence": 0.6, "bbox": [93, 553, 219, 618]}, {"label": "car", "confidence": 0.57, "bbox": [239, 549, 314, 589]}, {"label": "bench", "confidence": 0.53, "bbox": [594, 640, 773, 720]}], "worker": 1, "ts": "2026-08-15T00:23:19"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 15, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-15T00:23:19"}
-{"level": "METRIC", "camera_id": 4, "frame": 15, "worker": 1, "processing_lag_sec": 50.22, "ts": "2026-08-15T00:23:19"}
-{"level": "METRIC", "camera_id": 2, "frame": 335, "frame_dropped": 1, "frames_dropped": 51, "queue_size": 100, "ts": "2026-08-15T00:23:19"}
-{"level": "METRIC", "worker": 1, "camera_id": 1, "frame": 0, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-15T00:23:19"}
-{"level": "METRIC", "camera_id": 1, "frame": 0, "worker": 1, "processing_lag_sec": 51.015, "ts": "2026-08-15T00:23:19"}
-{"level": "METRIC", "camera_id": 2, "frame": 345, "frame_dropped": 1, "frames_dropped": 52, "queue_size": 100, "ts": "2026-08-15T00:23:20"}
-{"level": "EVENT", "camera_id": 1, "frame": 0, "detections": [{"label": "person", "confidence": 0.88, "bbox": [331, 1638, 701, 2766]}, {"label": "person", "confidence": 0.84, "bbox": [0, 1558, 297, 2753]}, {"label": "person", "confidence": 0.84, "bbox": [1902, 1915, 2160, 3290]}, {"label": "person", "confidence": 0.81, "bbox": [1158, 1655, 1383, 2424]}, {"label": "person", "confidence": 0.8, "bbox": [1738, 1694, 1909, 2147]}, {"label": "person", "confidence": 0.77, "bbox": [982, 1710, 1175, 2370]}, {"label": "person", "confidence": 0.69, "bbox": [891, 1721, 1010, 2125]}, {"label": "person", "confidence": 0.65, "bbox": [709, 1703, 853, 2082]}, {"label": "backpack", "confidence": 0.56, "bbox": [999, 1816, 1157, 2029]}, {"label": "person", "confidence": 0.51, "bbox": [604, 1706, 709, 2039]}, {"label": "backpack", "confidence": 0.51, "bbox": [1221, 1771, 1357, 2041]}, {"label": "person", "confidence": 0.45, "bbox": [1858, 1706, 1920, 1923]}, {"label": "person", "confidence": 0.34, "bbox": [1660, 1720, 1709, 1853]}, {"label": "person", "confidence": 0.33, "bbox": [190, 1731, 340, 2138]}, {"label": "person", "confidence": 0.31, "bbox": [293, 1684, 395, 2113]}], "worker": 1, "ts": "2026-08-15T00:23:20"}
-{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 45, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-15T00:23:20"}
-{"level": "METRIC", "camera_id": 3, "frame": 45, "worker": 1, "processing_lag_sec": 51.962, "ts": "2026-08-15T00:23:20"}
-{"level": "METRIC", "camera_id": 2, "frame": 355, "frame_dropped": 1, "frames_dropped": 53, "queue_size": 100, "ts": "2026-08-15T00:23:22"}
-{"level": "EVENT", "camera_id": 3, "frame": 45, "detections": [{"label": "bench", "confidence": 0.67, "bbox": [599, 641, 778, 720]}, {"label": "car", "confidence": 0.66, "bbox": [77, 553, 212, 619]}, {"label": "car", "confidence": 0.48, "bbox": [233, 550, 319, 590]}, {"label": "traffic light", "confidence": 0.4, "bbox": [0, 428, 13, 487]}], "worker": 1, "ts": "2026-08-15T00:23:22"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 20, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-15T00:23:22"}
-{"level": "METRIC", "camera_id": 4, "frame": 20, "worker": 1, "processing_lag_sec": 53.147, "ts": "2026-08-15T00:23:22"}
-{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 50, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-15T00:23:23"}
-{"level": "METRIC", "camera_id": 3, "frame": 50, "worker": 1, "processing_lag_sec": 53.94, "ts": "2026-08-15T00:23:23"}
-{"level": "EVENT", "camera_id": 3, "frame": 50, "detections": [{"label": "bench", "confidence": 0.64, "bbox": [603, 639, 783, 720]}, {"label": "car", "confidence": 0.53, "bbox": [63, 553, 201, 629]}, {"label": "bus", "confidence": 0.34, "bbox": [0, 511, 284, 636]}], "worker": 1, "ts": "2026-08-15T00:23:23"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 25, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-15T00:23:23"}
-{"level": "METRIC", "camera_id": 4, "frame": 25, "worker": 1, "processing_lag_sec": 54.642, "ts": "2026-08-15T00:23:23"}
-{"level": "METRIC", "camera_id": 2, "frame": 375, "frame_dropped": 1, "frames_dropped": 54, "queue_size": 100, "ts": "2026-08-15T00:23:24"}
-{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 55, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-15T00:23:24"}
-{"level": "METRIC", "camera_id": 3, "frame": 55, "worker": 1, "processing_lag_sec": 55.249, "ts": "2026-08-15T00:23:24"}
-{"level": "METRIC", "camera_id": 2, "frame": 385, "frame_dropped": 1, "frames_dropped": 55, "queue_size": 100, "ts": "2026-08-15T00:23:25"}
-{"level": "EVENT", "camera_id": 3, "frame": 55, "detections": [{"label": "car", "confidence": 0.7, "bbox": [46, 550, 196, 633]}, {"label": "bench", "confidence": 0.67, "bbox": [607, 639, 787, 720]}, {"label": "bus", "confidence": 0.43, "bbox": [0, 510, 288, 641]}, {"label": "car", "confidence": 0.37, "bbox": [216, 549, 303, 591]}], "worker": 1, "ts": "2026-08-15T00:23:25"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 30, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-15T00:23:25"}
-{"level": "METRIC", "camera_id": 4, "frame": 30, "worker": 1, "processing_lag_sec": 55.839, "ts": "2026-08-15T00:23:25"}
-{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 0, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-15T00:23:25"}
-{"level": "METRIC", "camera_id": 2, "frame": 0, "worker": 1, "processing_lag_sec": 56.263, "ts": "2026-08-15T00:23:25"}
-{"level": "METRIC", "camera_id": 2, "frame": 400, "frame_dropped": 1, "frames_dropped": 56, "queue_size": 100, "ts": "2026-08-15T00:23:26"}
-{"level": "METRIC", "camera_id": 2, "frame": 405, "frame_dropped": 1, "frames_dropped": 57, "queue_size": 100, "ts": "2026-08-15T00:23:26"}
-{"level": "EVENT", "camera_id": 2, "frame": 0, "detections": [{"label": "car", "confidence": 0.34, "bbox": [1448, 2074, 1611, 2200]}, {"label": "car", "confidence": 0.3, "bbox": [1444, 2845, 1664, 2980]}], "worker": 1, "ts": "2026-08-15T00:23:26"}
-{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 60, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-15T00:23:26"}
-{"level": "METRIC", "camera_id": 3, "frame": 60, "worker": 1, "processing_lag_sec": 57.057, "ts": "2026-08-15T00:23:26"}
-{"level": "EVENT", "camera_id": 3, "frame": 60, "detections": [{"label": "car", "confidence": 0.66, "bbox": [28, 551, 185, 637]}, {"label": "bench", "confidence": 0.51, "bbox": [611, 639, 790, 720]}, {"label": "bus", "confidence": 0.41, "bbox": [0, 509, 280, 620]}, {"label": "car", "confidence": 0.4, "bbox": [204, 549, 300, 594]}], "worker": 1, "ts": "2026-08-15T00:23:26"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 35, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-15T00:23:26"}
-{"level": "METRIC", "camera_id": 4, "frame": 35, "worker": 1, "processing_lag_sec": 57.504, "ts": "2026-08-15T00:23:26"}
-{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 65, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-15T00:23:27"}
-{"level": "METRIC", "camera_id": 3, "frame": 65, "worker": 1, "processing_lag_sec": 57.959, "ts": "2026-08-15T00:23:27"}
-{"level": "METRIC", "camera_id": 2, "frame": 425, "frame_dropped": 1, "frames_dropped": 58, "queue_size": 100, "ts": "2026-08-15T00:23:27"}
-{"level": "EVENT", "camera_id": 3, "frame": 65, "detections": [{"label": "bench", "confidence": 0.61, "bbox": [645, 641, 794, 719]}, {"label": "car", "confidence": 0.61, "bbox": [7, 551, 179, 642]}, {"label": "car", "confidence": 0.45, "bbox": [196, 550, 296, 597]}, {"label": "bus", "confidence": 0.33, "bbox": [2, 509, 286, 601]}], "worker": 1, "ts": "2026-08-15T00:23:27"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 40, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-15T00:23:27"}
-{"level": "METRIC", "camera_id": 4, "frame": 40, "worker": 1, "processing_lag_sec": 58.377, "ts": "2026-08-15T00:23:27"}
-{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 70, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-15T00:23:28"}
-{"level": "METRIC", "camera_id": 3, "frame": 70, "worker": 1, "processing_lag_sec": 58.748, "ts": "2026-08-15T00:23:28"}
-{"level": "EVENT", "camera_id": 3, "frame": 70, "detections": [{"label": "car", "confidence": 0.55, "bbox": [0, 552, 166, 643]}, {"label": "car", "confidence": 0.49, "bbox": [188, 551, 289, 600]}, {"label": "bench", "confidence": 0.43, "bbox": [617, 642, 797, 720]}], "worker": 1, "ts": "2026-08-15T00:23:28"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 45, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-15T00:23:28"}
-{"level": "METRIC", "camera_id": 4, "frame": 45, "worker": 1, "processing_lag_sec": 59.162, "ts": "2026-08-15T00:23:28"}
-{"level": "METRIC", "camera_id": 2, "frame": 445, "frame_dropped": 1, "frames_dropped": 59, "queue_size": 100, "ts": "2026-08-15T00:23:29"}
-{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 75, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-15T00:23:29"}
-{"level": "METRIC", "camera_id": 3, "frame": 75, "worker": 1, "processing_lag_sec": 59.655, "ts": "2026-08-15T00:23:29"}
-{"level": "EVENT", "camera_id": 3, "frame": 75, "detections": [{"label": "bench", "confidence": 0.75, "bbox": [620, 645, 802, 719]}, {"label": "car", "confidence": 0.62, "bbox": [177, 553, 284, 604]}, {"label": "car", "confidence": 0.36, "bbox": [0, 553, 155, 640]}], "worker": 1, "ts": "2026-08-15T00:23:30"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 50, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-15T00:23:30"}
-{"level": "METRIC", "camera_id": 4, "frame": 50, "worker": 1, "processing_lag_sec": 60.125, "ts": "2026-08-15T00:23:30"}
-{"level": "EVENT", "camera_id": 4, "frame": 50, "detections": [{"label": "cow", "confidence": 0.55, "bbox": [88, 519, 152, 563]}, {"label": "horse", "confidence": 0.43, "bbox": [87, 518, 153, 562]}, {"label": "bench", "confidence": 0.37, "bbox": [351, 476, 720, 978]}], "worker": 1, "ts": "2026-08-15T00:23:30"}
-{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 80, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-15T00:23:30"}
-{"level": "METRIC", "camera_id": 3, "frame": 80, "worker": 1, "processing_lag_sec": 60.586, "ts": "2026-08-15T00:23:30"}
-{"level": "METRIC", "camera_id": 2, "frame": 465, "frame_dropped": 1, "frames_dropped": 60, "queue_size": 100, "ts": "2026-08-15T00:23:31"}
-{"level": "EVENT", "camera_id": 3, "frame": 80, "detections": [{"label": "bench", "confidence": 0.77, "bbox": [622, 648, 804, 720]}, {"label": "car", "confidence": 0.61, "bbox": [164, 555, 275, 608]}, {"label": "car", "confidence": 0.32, "bbox": [0, 556, 120, 644]}], "worker": 1, "ts": "2026-08-15T00:23:31"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 55, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-15T00:23:31"}
-{"level": "METRIC", "camera_id": 4, "frame": 55, "worker": 1, "processing_lag_sec": 61.064, "ts": "2026-08-15T00:23:31"}
-{"level": "EVENT", "camera_id": 4, "frame": 55, "detections": [{"label": "horse", "confidence": 0.43, "bbox": [96, 530, 162, 572]}, {"label": "cow", "confidence": 0.43, "bbox": [95, 529, 162, 571]}], "worker": 1, "ts": "2026-08-15T00:23:31"}
-{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 85, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-15T00:23:31"}
-{"level": "METRIC", "camera_id": 3, "frame": 85, "worker": 1, "processing_lag_sec": 61.619, "ts": "2026-08-15T00:23:31"}
-{"level": "EVENT", "camera_id": 3, "frame": 85, "detections": [{"label": "car", "confidence": 0.65, "bbox": [150, 557, 264, 614]}, {"label": "bench", "confidence": 0.64, "bbox": [625, 649, 805, 720]}, {"label": "car", "confidence": 0.53, "bbox": [0, 558, 95, 647]}, {"label": "bus", "confidence": 0.49, "bbox": [0, 511, 246, 625]}, {"label": "car", "confidence": 0.36, "bbox": [308, 547, 359, 578]}], "worker": 1, "ts": "2026-08-15T00:23:32"}
-{"level": "METRIC", "worker": 1, "camera_id": 1, "frame": 5, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-15T00:23:32"}
-{"level": "METRIC", "camera_id": 1, "frame": 5, "worker": 1, "processing_lag_sec": 62.279, "ts": "2026-08-15T00:23:32"}
-{"level": "METRIC", "camera_id": 2, "frame": 485, "frame_dropped": 1, "frames_dropped": 61, "queue_size": 100, "ts": "2026-08-15T00:23:32"}
-{"level": "METRIC", "camera_id": 2, "frame": 490, "frame_dropped": 1, "frames_dropped": 62, "queue_size": 100, "ts": "2026-08-15T00:23:33"}
-{"level": "EVENT", "camera_id": 1, "frame": 5, "detections": [{"label": "person", "confidence": 0.87, "bbox": [1744, 1707, 1929, 2153]}, {"label": "person", "confidence": 0.84, "bbox": [334, 1649, 687, 2698]}, {"label": "person", "confidence": 0.82, "bbox": [0, 1615, 325, 2612]}, {"label": "person", "confidence": 0.8, "bbox": [1151, 1676, 1377, 2446]}, {"label": "person", "confidence": 0.73, "bbox": [994, 1741, 1179, 2400]}, {"label": "person", "confidence": 0.72, "bbox": [881, 1725, 1012, 2135]}, {"label": "person", "confidence": 0.68, "bbox": [705, 1704, 851, 2089]}, {"label": "backpack", "confidence": 0.6, "bbox": [1004, 1827, 1164, 2053]}, {"label": "person", "confidence": 0.48, "bbox": [154, 1697, 346, 2151]}, {"label": "person", "confidence": 0.4, "bbox": [275, 1715, 366, 1968]}, {"label": "person", "confidence": 0.35, "bbox": [580, 1727, 683, 2051]}, {"label": "person", "confidence": 0.33, "bbox": [1882, 1693, 1949, 1828]}], "worker": 1, "ts": "2026-08-15T00:23:33"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 60, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-15T00:23:33"}
-{"level": "METRIC", "camera_id": 4, "frame": 60, "worker": 1, "processing_lag_sec": 63.292, "ts": "2026-08-15T00:23:33"}
-{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 90, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-15T00:23:33"}
-{"level": "METRIC", "camera_id": 3, "frame": 90, "worker": 1, "processing_lag_sec": 63.759, "ts": "2026-08-15T00:23:33"}
-{"level": "METRIC", "camera_id": 2, "frames_pushed": 38, "frames_dropped": 62, "total_sampled": 0, "frame_drop_rate": 0, "ts": "2026-08-15T00:23:34"}
-{"level": "EVENT", "camera_id": 3, "frame": 90, "detections": [{"label": "bench", "confidence": 0.86, "bbox": [628, 652, 807, 720]}, {"label": "car", "confidence": 0.72, "bbox": [136, 557, 257, 614]}, {"label": "car", "confidence": 0.53, "bbox": [300, 549, 362, 584]}, {"label": "car", "confidence": 0.46, "bbox": [0, 558, 66, 655]}, {"label": "bus", "confidence": 0.38, "bbox": [0, 511, 238, 627]}], "worker": 1, "ts": "2026-08-15T00:23:34"}
-{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 95, "queue_size": 98, "queue_capacity": 100, "queue_fullness": 0.98, "ts": "2026-08-15T00:23:34"}
-{"level": "METRIC", "camera_id": 3, "frame": 95, "worker": 1, "processing_lag_sec": 63.959, "ts": "2026-08-15T00:23:34"}
-{"level": "EVENT", "camera_id": 3, "frame": 95, "detections": [{"label": "bench", "confidence": 0.69, "bbox": [629, 653, 809, 720]}, {"label": "car", "confidence": 0.69, "bbox": [122, 558, 247, 615]}, {"label": "car", "confidence": 0.45, "bbox": [290, 549, 361, 586]}, {"label": "car", "confidence": 0.45, "bbox": [0, 556, 42, 647]}, {"label": "bus", "confidence": 0.33, "bbox": [0, 509, 235, 635]}], "worker": 1, "ts": "2026-08-15T00:23:34"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 65, "queue_size": 97, "queue_capacity": 100, "queue_fullness": 0.97, "ts": "2026-08-15T00:23:34"}
-{"level": "METRIC", "camera_id": 4, "frame": 65, "worker": 1, "processing_lag_sec": 64.182, "ts": "2026-08-15T00:23:34"}
-{"level": "EVENT", "camera_id": 4, "frame": 65, "detections": [{"label": "train", "confidence": 0.41, "bbox": [340, 890, 720, 1088]}], "worker": 1, "ts": "2026-08-15T00:23:34"}
-{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 100, "queue_size": 96, "queue_capacity": 100, "queue_fullness": 0.96, "ts": "2026-08-15T00:23:34"}
-{"level": "METRIC", "camera_id": 3, "frame": 100, "worker": 1, "processing_lag_sec": 64.28, "ts": "2026-08-15T00:23:34"}
-{"level": "EVENT", "camera_id": 3, "frame": 100, "detections": [{"label": "car", "confidence": 0.77, "bbox": [104, 558, 236, 617]}, {"label": "bench", "confidence": 0.76, "bbox": [631, 655, 810, 720]}, {"label": "car", "confidence": 0.43, "bbox": [276, 548, 355, 589]}, {"label": "traffic light", "confidence": 0.32, "bbox": [44, 423, 63, 482]}], "worker": 1, "ts": "2026-08-15T00:23:34"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 70, "queue_size": 95, "queue_capacity": 100, "queue_fullness": 0.95, "ts": "2026-08-15T00:23:34"}
-{"level": "METRIC", "camera_id": 4, "frame": 70, "worker": 1, "processing_lag_sec": 64.493, "ts": "2026-08-15T00:23:34"}
-{"level": "EVENT", "camera_id": 4, "frame": 70, "detections": [{"label": "train", "confidence": 0.68, "bbox": [319, 894, 720, 1094]}], "worker": 1, "ts": "2026-08-15T00:23:35"}
-{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 5, "queue_size": 94, "queue_capacity": 100, "queue_fullness": 0.94, "ts": "2026-08-15T00:23:35"}
-{"level": "METRIC", "camera_id": 2, "frame": 5, "worker": 1, "processing_lag_sec": 64.614, "ts": "2026-08-15T00:23:35"}
-{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 105, "queue_size": 93, "queue_capacity": 100, "queue_fullness": 0.93, "ts": "2026-08-15T00:23:35"}
-{"level": "METRIC", "camera_id": 3, "frame": 105, "worker": 1, "processing_lag_sec": 64.962, "ts": "2026-08-15T00:23:35"}
-{"level": "EVENT", "camera_id": 3, "frame": 105, "detections": [{"label": "bench", "confidence": 0.73, "bbox": [633, 656, 812, 720]}, {"label": "car", "confidence": 0.71, "bbox": [85, 558, 225, 628]}, {"label": "bus", "confidence": 0.64, "bbox": [0, 509, 212, 641]}, {"label": "car", "confidence": 0.49, "bbox": [261, 550, 348, 591]}], "worker": 1, "ts": "2026-08-15T00:23:35"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 75, "queue_size": 92, "queue_capacity": 100, "queue_fullness": 0.92, "ts": "2026-08-15T00:23:35"}
-{"level": "METRIC", "camera_id": 4, "frame": 75, "worker": 1, "processing_lag_sec": 65.173, "ts": "2026-08-15T00:23:35"}
-{"level": "EVENT", "camera_id": 4, "frame": 75, "detections": [{"label": "train", "confidence": 0.83, "bbox": [301, 898, 720, 1107]}], "worker": 1, "ts": "2026-08-15T00:23:35"}
-{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 110, "queue_size": 91, "queue_capacity": 100, "queue_fullness": 0.91, "ts": "2026-08-15T00:23:35"}
-{"level": "METRIC", "camera_id": 3, "frame": 110, "worker": 1, "processing_lag_sec": 65.256, "ts": "2026-08-15T00:23:35"}
-{"level": "EVENT", "camera_id": 3, "frame": 110, "detections": [{"label": "bench", "confidence": 0.63, "bbox": [634, 657, 813, 720]}, {"label": "car", "confidence": 0.61, "bbox": [65, 558, 212, 630]}, {"label": "bus", "confidence": 0.46, "bbox": [0, 509, 192, 637]}, {"label": "car", "confidence": 0.45, "bbox": [249, 552, 342, 592]}], "worker": 1, "ts": "2026-08-15T00:23:36"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 80, "queue_size": 90, "queue_capacity": 100, "queue_fullness": 0.9, "ts": "2026-08-15T00:23:36"}
-{"level": "METRIC", "camera_id": 4, "frame": 80, "worker": 1, "processing_lag_sec": 65.448, "ts": "2026-08-15T00:23:36"}
-{"level": "EVENT", "camera_id": 4, "frame": 80, "detections": [{"label": "train", "confidence": 0.4, "bbox": [248, 889, 720, 1115]}, {"label": "train", "confidence": 0.31, "bbox": [36, 881, 720, 1117]}], "worker": 1, "ts": "2026-08-15T00:23:36"}
-{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 115, "queue_size": 89, "queue_capacity": 100, "queue_fullness": 0.89, "ts": "2026-08-15T00:23:36"}
-{"level": "METRIC", "camera_id": 3, "frame": 115, "worker": 1, "processing_lag_sec": 65.534, "ts": "2026-08-15T00:23:36"}
-{"level": "EVENT", "camera_id": 3, "frame": 115, "detections": [{"label": "car", "confidence": 0.61, "bbox": [42, 559, 197, 636]}, {"label": "bench", "confidence": 0.52, "bbox": [637, 660, 818, 720]}, {"label": "car", "confidence": 0.38, "bbox": [235, 552, 341, 594]}], "worker": 1, "ts": "2026-08-15T00:23:36"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 85, "queue_size": 88, "queue_capacity": 100, "queue_fullness": 0.88, "ts": "2026-08-15T00:23:36"}
-{"level": "METRIC", "camera_id": 4, "frame": 85, "worker": 1, "processing_lag_sec": 65.742, "ts": "2026-08-15T00:23:36"}
-{"level": "EVENT", "camera_id": 4, "frame": 85, "detections": [{"label": "train", "confidence": 0.7, "bbox": [243, 897, 720, 1121]}], "worker": 1, "ts": "2026-08-15T00:23:36"}
-{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 120, "queue_size": 87, "queue_capacity": 100, "queue_fullness": 0.87, "ts": "2026-08-15T00:23:36"}
-{"level": "METRIC", "camera_id": 3, "frame": 120, "worker": 1, "processing_lag_sec": 65.842, "ts": "2026-08-15T00:23:36"}
-{"level": "EVENT", "camera_id": 3, "frame": 120, "detections": [{"label": "bench", "confidence": 0.73, "bbox": [638, 662, 817, 720]}, {"label": "car", "confidence": 0.67, "bbox": [17, 561, 180, 639]}, {"label": "car", "confidence": 0.41, "bbox": [218, 553, 313, 602]}], "worker": 1, "ts": "2026-08-15T00:23:36"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 90, "queue_size": 86, "queue_capacity": 100, "queue_fullness": 0.86, "ts": "2026-08-15T00:23:36"}
-{"level": "METRIC", "camera_id": 4, "frame": 90, "worker": 1, "processing_lag_sec": 66.025, "ts": "2026-08-15T00:23:36"}
-{"level": "EVENT", "camera_id": 4, "frame": 90, "detections": [{"label": "train", "confidence": 0.7, "bbox": [208, 899, 720, 1124]}], "worker": 1, "ts": "2026-08-15T00:23:37"}
-{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 125, "queue_size": 85, "queue_capacity": 100, "queue_fullness": 0.85, "ts": "2026-08-15T00:23:37"}
-{"level": "METRIC", "camera_id": 3, "frame": 125, "worker": 1, "processing_lag_sec": 66.139, "ts": "2026-08-15T00:23:37"}
-{"level": "EVENT", "camera_id": 3, "frame": 125, "detections": [{"label": "car", "confidence": 0.62, "bbox": [0, 563, 162, 642]}, {"label": "car", "confidence": 0.46, "bbox": [205, 555, 303, 604]}, {"label": "bench", "confidence": 0.31, "bbox": [637, 664, 818, 719]}], "worker": 1, "ts": "2026-08-15T00:23:37"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 95, "queue_size": 84, "queue_capacity": 100, "queue_fullness": 0.84, "ts": "2026-08-15T00:23:37"}
-{"level": "METRIC", "camera_id": 4, "frame": 95, "worker": 1, "processing_lag_sec": 66.302, "ts": "2026-08-15T00:23:37"}
-{"level": "EVENT", "camera_id": 4, "frame": 95, "detections": [{"label": "train", "confidence": 0.82, "bbox": [186, 901, 719, 1132]}], "worker": 1, "ts": "2026-08-15T00:23:37"}
-{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 130, "queue_size": 83, "queue_capacity": 100, "queue_fullness": 0.83, "ts": "2026-08-15T00:23:37"}
-{"level": "METRIC", "camera_id": 3, "frame": 130, "worker": 1, "processing_lag_sec": 66.45, "ts": "2026-08-15T00:23:37"}
-{"level": "EVENT", "camera_id": 3, "frame": 130, "detections": [{"label": "car", "confidence": 0.6, "bbox": [0, 568, 136, 648]}, {"label": "car", "confidence": 0.52, "bbox": [185, 559, 292, 613]}], "worker": 1, "ts": "2026-08-15T00:23:37"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 100, "queue_size": 82, "queue_capacity": 100, "queue_fullness": 0.82, "ts": "2026-08-15T00:23:37"}
-{"level": "METRIC", "camera_id": 4, "frame": 100, "worker": 1, "processing_lag_sec": 66.578, "ts": "2026-08-15T00:23:37"}
-{"level": "METRIC", "worker": 1, "camera_id": 1, "frame": 10, "queue_size": 81, "queue_capacity": 100, "queue_fullness": 0.81, "ts": "2026-08-15T00:23:38"}
-{"level": "METRIC", "camera_id": 1, "frame": 10, "worker": 1, "processing_lag_sec": 66.763, "ts": "2026-08-15T00:23:38"}
-{"level": "EVENT", "camera_id": 1, "frame": 10, "detections": [{"label": "person", "confidence": 0.85, "bbox": [0, 1592, 294, 2654]}, {"label": "person", "confidence": 0.84, "bbox": [1154, 1656, 1390, 2394]}, {"label": "person", "confidence": 0.83, "bbox": [1747, 1700, 1931, 2130]}, {"label": "person", "confidence": 0.8, "bbox": [335, 1666, 703, 2758]}, {"label": "person", "confidence": 0.77, "bbox": [695, 1703, 850, 2097]}, {"label": "person", "confidence": 0.73, "bbox": [874, 1723, 1008, 2138]}, {"label": "person", "confidence": 0.69, "bbox": [998, 1727, 1188, 2375]}, {"label": "backpack", "confidence": 0.57, "bbox": [1013, 1822, 1161, 2045]}, {"label": "person", "confidence": 0.39, "bbox": [256, 1709, 344, 1973]}, {"label": "handbag", "confidence": 0.36, "bbox": [666, 1910, 735, 2040]}, {"label": "person", "confidence": 0.36, "bbox": [1892, 1689, 1962, 1841]}, {"label": "person", "confidence": 0.31, "bbox": [349, 1701, 469, 2114]}, {"label": "backpack", "confidence": 0.31, "bbox": [1215, 1777, 1341, 2041]}], "worker": 1, "ts": "2026-08-15T00:23:38"}
-{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 135, "queue_size": 80, "queue_capacity": 100, "queue_fullness": 0.8, "ts": "2026-08-15T00:23:38"}
-{"level": "METRIC", "camera_id": 3, "frame": 135, "worker": 1, "processing_lag_sec": 67.109, "ts": "2026-08-15T00:23:38"}
-{"level": "EVENT", "camera_id": 3, "frame": 135, "detections": [{"label": "car", "confidence": 0.68, "bbox": [0, 570, 114, 653]}, {"label": "car", "confidence": 0.54, "bbox": [169, 563, 277, 617]}, {"label": "bench", "confidence": 0.43, "bbox": [638, 668, 742, 719]}], "worker": 1, "ts": "2026-08-15T00:23:38"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 105, "queue_size": 79, "queue_capacity": 100, "queue_fullness": 0.79, "ts": "2026-08-15T00:23:38"}
-{"level": "METRIC", "camera_id": 4, "frame": 105, "worker": 1, "processing_lag_sec": 67.237, "ts": "2026-08-15T00:23:38"}
-{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 140, "queue_size": 78, "queue_capacity": 100, "queue_fullness": 0.78, "ts": "2026-08-15T00:23:38"}
-{"level": "METRIC", "camera_id": 3, "frame": 140, "worker": 1, "processing_lag_sec": 67.446, "ts": "2026-08-15T00:23:38"}
-{"level": "EVENT", "camera_id": 3, "frame": 140, "detections": [{"label": "car", "confidence": 0.64, "bbox": [0, 576, 94, 653]}, {"label": "car", "confidence": 0.56, "bbox": [148, 567, 270, 623]}, {"label": "bench", "confidence": 0.37, "bbox": [639, 672, 744, 719]}], "worker": 1, "ts": "2026-08-15T00:23:39"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 110, "queue_size": 77, "queue_capacity": 100, "queue_fullness": 0.77, "ts": "2026-08-15T00:23:39"}
-{"level": "METRIC", "camera_id": 4, "frame": 110, "worker": 1, "processing_lag_sec": 67.557, "ts": "2026-08-15T00:23:39"}
-{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 145, "queue_size": 76, "queue_capacity": 100, "queue_fullness": 0.76, "ts": "2026-08-15T00:23:39"}
-{"level": "METRIC", "camera_id": 3, "frame": 145, "worker": 1, "processing_lag_sec": 67.756, "ts": "2026-08-15T00:23:39"}
-{"level": "EVENT", "camera_id": 3, "frame": 145, "detections": [{"label": "car", "confidence": 0.72, "bbox": [130, 570, 258, 633]}, {"label": "car", "confidence": 0.66, "bbox": [0, 581, 63, 666]}, {"label": "bench", "confidence": 0.38, "bbox": [642, 675, 742, 720]}], "worker": 1, "ts": "2026-08-15T00:23:39"}
-{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 10, "queue_size": 75, "queue_capacity": 100, "queue_fullness": 0.75, "ts": "2026-08-15T00:23:39"}
-{"level": "METRIC", "camera_id": 2, "frame": 10, "worker": 1, "processing_lag_sec": 67.843, "ts": "2026-08-15T00:23:39"}
-{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 150, "queue_size": 74, "queue_capacity": 100, "queue_fullness": 0.74, "ts": "2026-08-15T00:23:39"}
-{"level": "METRIC", "camera_id": 3, "frame": 150, "worker": 1, "processing_lag_sec": 68.155, "ts": "2026-08-15T00:23:39"}
-{"level": "EVENT", "camera_id": 3, "frame": 150, "detections": [{"label": "car", "confidence": 0.82, "bbox": [109, 575, 246, 648]}, {"label": "car", "confidence": 0.62, "bbox": [0, 578, 41, 664]}], "worker": 1, "ts": "2026-08-15T00:23:39"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 115, "queue_size": 73, "queue_capacity": 100, "queue_fullness": 0.73, "ts": "2026-08-15T00:23:39"}
-{"level": "METRIC", "camera_id": 4, "frame": 115, "worker": 1, "processing_lag_sec": 68.353, "ts": "2026-08-15T00:23:39"}
-{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 155, "queue_size": 72, "queue_capacity": 100, "queue_fullness": 0.72, "ts": "2026-08-15T00:23:40"}
-{"level": "METRIC", "camera_id": 3, "frame": 155, "worker": 1, "processing_lag_sec": 68.452, "ts": "2026-08-15T00:23:40"}
-{"level": "EVENT", "camera_id": 3, "frame": 155, "detections": [{"label": "car", "confidence": 0.77, "bbox": [89, 579, 233, 648]}, {"label": "person", "confidence": 0.68, "bbox": [42, 577, 64, 624]}], "worker": 1, "ts": "2026-08-15T00:23:40"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 120, "queue_size": 71, "queue_capacity": 100, "queue_fullness": 0.71, "ts": "2026-08-15T00:23:40"}
-{"level": "METRIC", "camera_id": 4, "frame": 120, "worker": 1, "processing_lag_sec": 68.658, "ts": "2026-08-15T00:23:40"}
-{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 160, "queue_size": 70, "queue_capacity": 100, "queue_fullness": 0.7, "ts": "2026-08-15T00:23:40"}
-{"level": "METRIC", "camera_id": 3, "frame": 160, "worker": 1, "processing_lag_sec": 68.772, "ts": "2026-08-15T00:23:40"}
-{"level": "EVENT", "camera_id": 3, "frame": 160, "detections": [{"label": "car", "confidence": 0.76, "bbox": [66, 581, 221, 659]}, {"label": "person", "confidence": 0.58, "bbox": [51, 576, 73, 625]}], "worker": 1, "ts": "2026-08-15T00:23:40"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 125, "queue_size": 69, "queue_capacity": 100, "queue_fullness": 0.69, "ts": "2026-08-15T00:23:40"}
-{"level": "METRIC", "camera_id": 4, "frame": 125, "worker": 1, "processing_lag_sec": 69.015, "ts": "2026-08-15T00:23:40"}
-{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 165, "queue_size": 68, "queue_capacity": 100, "queue_fullness": 0.68, "ts": "2026-08-15T00:23:41"}
-{"level": "METRIC", "camera_id": 3, "frame": 165, "worker": 1, "processing_lag_sec": 69.347, "ts": "2026-08-15T00:23:41"}
-{"level": "EVENT", "camera_id": 3, "frame": 165, "detections": [{"label": "car", "confidence": 0.76, "bbox": [39, 585, 202, 665]}, {"label": "person", "confidence": 0.53, "bbox": [59, 580, 78, 611]}, {"label": "car", "confidence": 0.49, "bbox": [295, 579, 351, 614]}], "worker": 1, "ts": "2026-08-15T00:23:41"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 130, "queue_size": 67, "queue_capacity": 100, "queue_fullness": 0.67, "ts": "2026-08-15T00:23:41"}
-{"level": "METRIC", "camera_id": 4, "frame": 130, "worker": 1, "processing_lag_sec": 69.642, "ts": "2026-08-15T00:23:41"}
-{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 170, "queue_size": 66, "queue_capacity": 100, "queue_fullness": 0.66, "ts": "2026-08-15T00:23:41"}
-{"level": "METRIC", "camera_id": 3, "frame": 170, "worker": 1, "processing_lag_sec": 69.885, "ts": "2026-08-15T00:23:41"}
-{"level": "EVENT", "camera_id": 3, "frame": 170, "detections": [{"label": "car", "confidence": 0.79, "bbox": [8, 586, 184, 668]}], "worker": 1, "ts": "2026-08-15T00:23:42"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 135, "queue_size": 65, "queue_capacity": 100, "queue_fullness": 0.65, "ts": "2026-08-15T00:23:42"}
-{"level": "METRIC", "camera_id": 4, "frame": 135, "worker": 1, "processing_lag_sec": 70.137, "ts": "2026-08-15T00:23:42"}
-{"level": "METRIC", "worker": 1, "camera_id": 1, "frame": 15, "queue_size": 64, "queue_capacity": 100, "queue_fullness": 0.64, "ts": "2026-08-15T00:23:42"}
-{"level": "METRIC", "camera_id": 1, "frame": 15, "worker": 1, "processing_lag_sec": 70.322, "ts": "2026-08-15T00:23:42"}
-{"level": "EVENT", "camera_id": 1, "frame": 15, "detections": [{"label": "person", "confidence": 0.88, "bbox": [1, 1570, 322, 2700]}, {"label": "person", "confidence": 0.85, "bbox": [359, 1654, 715, 2679]}, {"label": "person", "confidence": 0.84, "bbox": [1169, 1646, 1400, 2359]}, {"label": "person", "confidence": 0.8, "bbox": [1754, 1684, 1947, 2131]}, {"label": "person", "confidence": 0.74, "bbox": [872, 1707, 1009, 2156]}, {"label": "person", "confidence": 0.69, "bbox": [690, 1701, 841, 2100]}, {"label": "person", "confidence": 0.67, "bbox": [1008, 1699, 1197, 2352]}, {"label": "person", "confidence": 0.56, "bbox": [1903, 1690, 1974, 1947]}, {"label": "backpack", "confidence": 0.51, "bbox": [1028, 1798, 1175, 2023]}, {"label": "backpack", "confidence": 0.47, "bbox": [1217, 1789, 1346, 2028]}, {"label": "person", "confidence": 0.41, "bbox": [1691, 1700, 1757, 1851]}, {"label": "backpack", "confidence": 0.35, "bbox": [1201, 1748, 1385, 2029]}, {"label": "person", "confidence": 0.31, "bbox": [224, 1706, 321, 1982]}], "worker": 1, "ts": "2026-08-15T00:23:42"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 140, "queue_size": 63, "queue_capacity": 100, "queue_fullness": 0.63, "ts": "2026-08-15T00:23:42"}
-{"level": "METRIC", "camera_id": 4, "frame": 140, "worker": 1, "processing_lag_sec": 70.853, "ts": "2026-08-15T00:23:42"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 145, "queue_size": 62, "queue_capacity": 100, "queue_fullness": 0.62, "ts": "2026-08-15T00:23:43"}
-{"level": "METRIC", "camera_id": 4, "frame": 145, "worker": 1, "processing_lag_sec": 71.083, "ts": "2026-08-15T00:23:43"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 150, "queue_size": 61, "queue_capacity": 100, "queue_fullness": 0.61, "ts": "2026-08-15T00:23:43"}
-{"level": "METRIC", "camera_id": 4, "frame": 150, "worker": 1, "processing_lag_sec": 71.288, "ts": "2026-08-15T00:23:43"}
-{"level": "EVENT", "camera_id": 4, "frame": 150, "detections": [{"label": "bird", "confidence": 0.33, "bbox": [57, 589, 88, 608]}], "worker": 1, "ts": "2026-08-15T00:23:43"}
-{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 15, "queue_size": 60, "queue_capacity": 100, "queue_fullness": 0.6, "ts": "2026-08-15T00:23:43"}
-{"level": "METRIC", "camera_id": 2, "frame": 15, "worker": 1, "processing_lag_sec": 71.473, "ts": "2026-08-15T00:23:43"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 155, "queue_size": 59, "queue_capacity": 100, "queue_fullness": 0.59, "ts": "2026-08-15T00:23:44"}
-{"level": "METRIC", "camera_id": 4, "frame": 155, "worker": 1, "processing_lag_sec": 71.82, "ts": "2026-08-15T00:23:44"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 160, "queue_size": 58, "queue_capacity": 100, "queue_fullness": 0.58, "ts": "2026-08-15T00:23:44"}
-{"level": "METRIC", "camera_id": 4, "frame": 160, "worker": 1, "processing_lag_sec": 72.197, "ts": "2026-08-15T00:23:44"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 165, "queue_size": 57, "queue_capacity": 100, "queue_fullness": 0.57, "ts": "2026-08-15T00:23:45"}
-{"level": "METRIC", "camera_id": 4, "frame": 165, "worker": 1, "processing_lag_sec": 72.701, "ts": "2026-08-15T00:23:45"}
-{"level": "EVENT", "camera_id": 4, "frame": 165, "detections": [{"label": "umbrella", "confidence": 0.31, "bbox": [656, 788, 717, 815]}], "worker": 1, "ts": "2026-08-15T00:23:45"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 170, "queue_size": 56, "queue_capacity": 100, "queue_fullness": 0.56, "ts": "2026-08-15T00:23:45"}
-{"level": "METRIC", "camera_id": 4, "frame": 170, "worker": 1, "processing_lag_sec": 73.004, "ts": "2026-08-15T00:23:45"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 175, "queue_size": 55, "queue_capacity": 100, "queue_fullness": 0.55, "ts": "2026-08-15T00:23:45"}
-{"level": "METRIC", "camera_id": 4, "frame": 175, "worker": 1, "processing_lag_sec": 73.235, "ts": "2026-08-15T00:23:45"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 180, "queue_size": 54, "queue_capacity": 100, "queue_fullness": 0.54, "ts": "2026-08-15T00:23:46"}
-{"level": "METRIC", "camera_id": 4, "frame": 180, "worker": 1, "processing_lag_sec": 73.47, "ts": "2026-08-15T00:23:46"}
-{"level": "METRIC", "worker": 1, "camera_id": 1, "frame": 20, "queue_size": 53, "queue_capacity": 100, "queue_fullness": 0.53, "ts": "2026-08-15T00:23:46"}
-{"level": "METRIC", "camera_id": 1, "frame": 20, "worker": 1, "processing_lag_sec": 73.744, "ts": "2026-08-15T00:23:46"}
-{"level": "EVENT", "camera_id": 1, "frame": 20, "detections": [{"label": "person", "confidence": 0.88, "bbox": [2, 1599, 376, 2782]}, {"label": "person", "confidence": 0.87, "bbox": [393, 1639, 750, 2647]}, {"label": "person", "confidence": 0.84, "bbox": [1182, 1663, 1409, 2401]}, {"label": "person", "confidence": 0.78, "bbox": [1782, 1689, 1971, 2139]}, {"label": "person", "confidence": 0.75, "bbox": [870, 1706, 1017, 2148]}, {"label": "person", "confidence": 0.75, "bbox": [682, 1695, 838, 2092]}, {"label": "person", "confidence": 0.7, "bbox": [1010, 1730, 1200, 2375]}, {"label": "backpack", "confidence": 0.58, "bbox": [1034, 1821, 1186, 2038]}, {"label": "backpack", "confidence": 0.54, "bbox": [1229, 1792, 1362, 2046]}, {"label": "person", "confidence": 0.44, "bbox": [1923, 1693, 1999, 1954]}, {"label": "person", "confidence": 0.44, "bbox": [356, 1676, 473, 1968]}], "worker": 1, "ts": "2026-08-15T00:23:47"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 185, "queue_size": 52, "queue_capacity": 100, "queue_fullness": 0.52, "ts": "2026-08-15T00:23:47"}
-{"level": "METRIC", "camera_id": 4, "frame": 185, "worker": 1, "processing_lag_sec": 74.14, "ts": "2026-08-15T00:23:47"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 190, "queue_size": 51, "queue_capacity": 100, "queue_fullness": 0.51, "ts": "2026-08-15T00:23:47"}
-{"level": "METRIC", "camera_id": 4, "frame": 190, "worker": 1, "processing_lag_sec": 74.359, "ts": "2026-08-15T00:23:47"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 195, "queue_size": 50, "queue_capacity": 100, "queue_fullness": 0.5, "ts": "2026-08-15T00:23:47"}
-{"level": "METRIC", "camera_id": 4, "frame": 195, "worker": 1, "processing_lag_sec": 74.596, "ts": "2026-08-15T00:23:47"}
-{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 20, "queue_size": 49, "queue_capacity": 100, "queue_fullness": 0.49, "ts": "2026-08-15T00:23:47"}
-{"level": "METRIC", "camera_id": 2, "frame": 20, "worker": 1, "processing_lag_sec": 74.91, "ts": "2026-08-15T00:23:47"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 200, "queue_size": 48, "queue_capacity": 100, "queue_fullness": 0.48, "ts": "2026-08-15T00:23:48"}
-{"level": "METRIC", "camera_id": 4, "frame": 200, "worker": 1, "processing_lag_sec": 75.329, "ts": "2026-08-15T00:23:48"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 205, "queue_size": 47, "queue_capacity": 100, "queue_fullness": 0.47, "ts": "2026-08-15T00:23:48"}
-{"level": "METRIC", "camera_id": 4, "frame": 205, "worker": 1, "processing_lag_sec": 75.687, "ts": "2026-08-15T00:23:48"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 210, "queue_size": 46, "queue_capacity": 100, "queue_fullness": 0.46, "ts": "2026-08-15T00:23:49"}
-{"level": "METRIC", "camera_id": 4, "frame": 210, "worker": 1, "processing_lag_sec": 75.965, "ts": "2026-08-15T00:23:49"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 215, "queue_size": 45, "queue_capacity": 100, "queue_fullness": 0.45, "ts": "2026-08-15T00:23:49"}
-{"level": "METRIC", "camera_id": 4, "frame": 215, "worker": 1, "processing_lag_sec": 76.222, "ts": "2026-08-15T00:23:49"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 220, "queue_size": 44, "queue_capacity": 100, "queue_fullness": 0.44, "ts": "2026-08-15T00:23:49"}
-{"level": "METRIC", "camera_id": 4, "frame": 220, "worker": 1, "processing_lag_sec": 76.356, "ts": "2026-08-15T00:23:49"}
-{"level": "METRIC", "worker": 1, "camera_id": 1, "frame": 25, "queue_size": 43, "queue_capacity": 100, "queue_fullness": 0.43, "ts": "2026-08-15T00:23:50"}
-{"level": "METRIC", "camera_id": 1, "frame": 25, "worker": 1, "processing_lag_sec": 76.471, "ts": "2026-08-15T00:23:50"}
-{"level": "EVENT", "camera_id": 1, "frame": 25, "detections": [{"label": "person", "confidence": 0.88, "bbox": [1, 1609, 386, 2781]}, {"label": "person", "confidence": 0.85, "bbox": [400, 1657, 760, 2712]}, {"label": "person", "confidence": 0.85, "bbox": [1199, 1663, 1425, 2402]}, {"label": "person", "confidence": 0.79, "bbox": [1784, 1685, 1997, 2128]}, {"label": "person", "confidence": 0.73, "bbox": [862, 1710, 1010, 2149]}, {"label": "person", "confidence": 0.72, "bbox": [1008, 1735, 1202, 2384]}, {"label": "person", "confidence": 0.62, "bbox": [680, 1696, 825, 2084]}, {"label": "backpack", "confidence": 0.59, "bbox": [1022, 1827, 1176, 2043]}, {"label": "backpack", "confidence": 0.52, "bbox": [1247, 1800, 1381, 2054]}, {"label": "person", "confidence": 0.5, "bbox": [349, 1708, 460, 2076]}, {"label": "person", "confidence": 0.45, "bbox": [1945, 1696, 2031, 1956]}, {"label": "backpack", "confidence": 0.41, "bbox": [1053, 1847, 1156, 2042]}, {"label": "backpack", "confidence": 0.37, "bbox": [1229, 1776, 1402, 2047]}], "worker": 1, "ts": "2026-08-15T00:23:50"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 225, "queue_size": 42, "queue_capacity": 100, "queue_fullness": 0.42, "ts": "2026-08-15T00:23:50"}
-{"level": "METRIC", "camera_id": 4, "frame": 225, "worker": 1, "processing_lag_sec": 76.889, "ts": "2026-08-15T00:23:50"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 230, "queue_size": 41, "queue_capacity": 100, "queue_fullness": 0.41, "ts": "2026-08-15T00:23:50"}
-{"level": "METRIC", "camera_id": 4, "frame": 230, "worker": 1, "processing_lag_sec": 77.232, "ts": "2026-08-15T00:23:50"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 235, "queue_size": 40, "queue_capacity": 100, "queue_fullness": 0.4, "ts": "2026-08-15T00:23:51"}
-{"level": "METRIC", "camera_id": 4, "frame": 235, "worker": 1, "processing_lag_sec": 77.376, "ts": "2026-08-15T00:23:51"}
-{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 25, "queue_size": 39, "queue_capacity": 100, "queue_fullness": 0.39, "ts": "2026-08-15T00:23:51"}
-{"level": "METRIC", "camera_id": 2, "frame": 25, "worker": 1, "processing_lag_sec": 77.588, "ts": "2026-08-15T00:23:51"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 240, "queue_size": 38, "queue_capacity": 100, "queue_fullness": 0.38, "ts": "2026-08-15T00:23:51"}
-{"level": "METRIC", "camera_id": 4, "frame": 240, "worker": 1, "processing_lag_sec": 77.806, "ts": "2026-08-15T00:23:51"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 245, "queue_size": 37, "queue_capacity": 100, "queue_fullness": 0.37, "ts": "2026-08-15T00:23:51"}
-{"level": "METRIC", "camera_id": 4, "frame": 245, "worker": 1, "processing_lag_sec": 77.92, "ts": "2026-08-15T00:23:51"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 250, "queue_size": 36, "queue_capacity": 100, "queue_fullness": 0.36, "ts": "2026-08-15T00:23:52"}
-{"level": "METRIC", "camera_id": 4, "frame": 250, "worker": 1, "processing_lag_sec": 78.136, "ts": "2026-08-15T00:23:52"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 255, "queue_size": 35, "queue_capacity": 100, "queue_fullness": 0.35, "ts": "2026-08-15T00:23:52"}
-{"level": "METRIC", "camera_id": 4, "frame": 255, "worker": 1, "processing_lag_sec": 78.27, "ts": "2026-08-15T00:23:52"}
-{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 260, "queue_size": 34, "queue_capacity": 100, "queue_fullness": 0.34, "ts": "2026-08-15T00:23:52"}
-{"level": "METRIC", "camera_id": 4, "frame": 260, "worker": 1, "processing_lag_sec": 78.409, "ts": "2026-08-15T00:23:52"}
-{"level": "METRIC", "worker": 1, "camera_id": 1, "frame": 65, "queue_size": 33, "queue_capacity": 100, "queue_fullness": 0.33, "ts": "2026-08-15T00:23:52"}
-{"level": "METRIC", "camera_id": 1, "frame": 65, "worker": 1, "processing_lag_sec": 72.28, "ts": "2026-08-15T00:23:52"}
-{"level": "EVENT", "camera_id": 1, "frame": 65, "detections": [{"label": "person", "confidence": 0.86, "bbox": [1283, 1632, 1517, 2370]}, {"label": "person", "confidence": 0.84, "bbox": [506, 1637, 821, 2593]}, {"label": "person", "confidence": 0.82, "bbox": [1991, 1654, 2156, 2108]}, {"label": "person", "confidence": 0.81, "bbox": [113, 1566, 476, 2616]}, {"label": "person", "confidence": 0.79, "bbox": [1059, 1709, 1257, 2345]}, {"label": "person", "confidence": 0.74, "bbox": [880, 1698, 1033, 2167]}, {"label": "person", "confidence": 0.69, "bbox": [710, 1667, 860, 2093]}, {"label": "person", "confidence": 0.64, "bbox": [344, 1602, 523, 2160]}, {"label": "backpack", "confidence": 0.62, "bbox": [1057, 1801, 1232, 2019]}, {"label": "person", "confidence": 0.55, "bbox": [1753, 1692, 1807, 1817]}, {"label": "backpack", "confidence": 0.53, "bbox": [1350, 1752, 1502, 2015]}, {"label": "person", "confidence": 0.52, "bbox": [1687, 1679, 1747, 1854]}, {"label": "person", "confidence": 0.44, "bbox": [1948, 1662, 1992, 1820]}, {"label": "person", "confidence": 0.43, "bbox": [1614, 1704, 1680, 1832]}, {"label": "person", "confidence": 0.32, "bbox": [1506, 1709, 1551, 1801]}, {"label": "person", "confidence": 0.31, "bbox": [0, 1691, 109, 2242]}], "worker": 1, "ts": "2026-08-15T00:23:53"}
-{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 245, "queue_size": 32, "queue_capacity": 100, "queue_fullness": 0.32, "ts": "2026-08-15T00:23:53"}
-{"level": "METRIC", "camera_id": 2, "frame": 245, "worker": 1, "processing_lag_sec": 44.04, "ts": "2026-08-15T00:23:53"}
-{"level": "EVENT", "camera_id": 2, "frame": 245, "detections": [{"label": "bus", "confidence": 0.47, "bbox": [1976, 2079, 2160, 2221]}, {"label": "person", "confidence": 0.33, "bbox": [1276, 2103, 1313, 2185]}], "worker": 1, "ts": "2026-08-15T00:23:53"}
-{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 255, "queue_size": 31, "queue_capacity": 100, "queue_fullness": 0.31, "ts": "2026-08-15T00:23:53"}
-{"level": "METRIC", "camera_id": 2, "frame": 255, "worker": 1, "processing_lag_sec": 42.722, "ts": "2026-08-15T00:23:53"}
-{"level": "EVENT", "camera_id": 2, "frame": 255, "detections": [{"label": "bus", "confidence": 0.5, "bbox": [1967, 2073, 2160, 2217]}, {"label": "car", "confidence": 0.36, "bbox": [1917, 2275, 2098, 2396]}], "worker": 1, "ts": "2026-08-15T00:23:53"}
-{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 265, "queue_size": 30, "queue_capacity": 100, "queue_fullness": 0.3, "ts": "2026-08-15T00:23:53"}
-{"level": "METRIC", "camera_id": 2, "frame": 265, "worker": 1, "processing_lag_sec": 41.13, "ts": "2026-08-15T00:23:53"}
-{"level": "EVENT", "camera_id": 2, "frame": 265, "detections": [{"label": "bus", "confidence": 0.56, "bbox": [1972, 2073, 2160, 2214]}, {"label": "car", "confidence": 0.4, "bbox": [1963, 2276, 2143, 2399]}, {"label": "truck", "confidence": 0.32, "bbox": [1966, 2073, 2159, 2217]}, {"label": "person", "confidence": 0.3, "bbox": [1279, 2136, 1316, 2220]}], "worker": 1, "ts": "2026-08-15T00:23:54"}
-{"level": "METRIC", "worker": 1, "camera_id": 1, "frame": 275, "queue_size": 29, "queue_capacity": 100, "queue_fullness": 0.29, "ts": "2026-08-15T00:23:54"}
-{"level": "METRIC", "camera_id": 1, "frame": 275, "worker": 1, "processing_lag_sec": 40.22, "ts": "2026-08-15T00:23:54"}
-{"level": "EVENT", "camera_id": 1, "frame": 275, "detections": [{"label": "person", "confidence": 0.89, "bbox": [1734, 1634, 2155, 2898]}, {"label": "person", "confidence": 0.86, "bbox": [628, 1711, 890, 2493]}, {"label": "person", "confidence": 0.86, "bbox": [2, 1610, 257, 2369]}, {"label": "person", "confidence": 0.8, "bbox": [214, 1649, 487, 2446]}, {"label": "person", "confidence": 0.79, "bbox": [424, 1667, 599, 2183]}, {"label": "person", "confidence": 0.67, "bbox": [1114, 1674, 1256, 2084]}, {"label": "person", "confidence": 0.63, "bbox": [1, 2280, 371, 3838]}, {"label": "person", "confidence": 0.61, "bbox": [1331, 1699, 1431, 2000]}, {"label": "person", "confidence": 0.56, "bbox": [1234, 1702, 1324, 2008]}, {"label": "backpack", "confidence": 0.46, "bbox": [1829, 1849, 2115, 2261]}, {"label": "person", "confidence": 0.42, "bbox": [1703, 1681, 1794, 1939]}, {"label": "person", "confidence": 0.38, "bbox": [804, 1717, 891, 1905]}, {"label": "bench", "confidence": 0.36, "bbox": [819, 1897, 1090, 2168]}, {"label": "person", "confidence": 0.33, "bbox": [1710, 1695, 1775, 1938]}], "worker": 1, "ts": "2026-08-15T00:23:54"}
-{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 280, "queue_size": 28, "queue_capacity": 100, "queue_fullness": 0.28, "ts": "2026-08-15T00:23:54"}
-{"level": "METRIC", "camera_id": 2, "frame": 280, "worker": 1, "processing_lag_sec": 39.69, "ts": "2026-08-15T00:23:54"}
-{"level": "EVENT", "camera_id": 2, "frame": 280, "detections": [{"label": "bus", "confidence": 0.47, "bbox": [1944, 2058, 2160, 2222]}, {"label": "truck", "confidence": 0.38, "bbox": [1946, 2057, 2160, 2226]}, {"label": "person", "confidence": 0.31, "bbox": [1276, 2145, 1325, 2231]}], "worker": 1, "ts": "2026-08-15T00:23:54"}
-{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 285, "queue_size": 27, "queue_capacity": 100, "queue_fullness": 0.27, "ts": "2026-08-15T00:23:54"}
-{"level": "METRIC", "camera_id": 2, "frame": 285, "worker": 1, "processing_lag_sec": 39.554, "ts": "2026-08-15T00:23:54"}
-{"level": "EVENT", "camera_id": 2, "frame": 285, "detections": [{"label": "car", "confidence": 0.35, "bbox": [2036, 2421, 2160, 2551]}, {"label": "truck", "confidence": 0.32, "bbox": [2042, 2266, 2160, 2372]}, {"label": "bus", "confidence": 0.31, "bbox": [1942, 2058, 2160, 2223]}], "worker": 1, "ts": "2026-08-15T00:23:54"}
-{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 295, "queue_size": 26, "queue_capacity": 100, "queue_fullness": 0.26, "ts": "2026-08-15T00:23:54"}
-{"level": "METRIC", "camera_id": 2, "frame": 295, "worker": 1, "processing_lag_sec": 39.066, "ts": "2026-08-15T00:23:54"}
-{"level": "EVENT", "camera_id": 2, "frame": 295, "detections": [{"label": "bus", "confidence": 0.39, "bbox": [1941, 2052, 2160, 2237]}, {"label": "car", "confidence": 0.34, "bbox": [1985, 2420, 2160, 2553]}], "worker": 1, "ts": "2026-08-15T00:23:55"}
-{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 300, "queue_size": 25, "queue_capacity": 100, "queue_fullness": 0.25, "ts": "2026-08-15T00:23:55"}
-{"level": "METRIC", "camera_id": 2, "frame": 300, "worker": 1, "processing_lag_sec": 38.937, "ts": "2026-08-15T00:23:55"}
-{"level": "EVENT", "camera_id": 2, "frame": 300, "detections": [{"label": "bus", "confidence": 0.36, "bbox": [1936, 2045, 2160, 2188]}], "worker": 1, "ts": "2026-08-15T00:23:55"}
-{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 310, "queue_size": 24, "queue_capacity": 100, "queue_fullness": 0.24, "ts": "2026-08-15T00:23:55"}
-{"level": "METRIC", "camera_id": 2, "frame": 310, "worker": 1, "processing_lag_sec": 38.332, "ts": "2026-08-15T00:23:55"}
-{"level": "EVENT", "camera_id": 2, "frame": 310, "detections": [{"label": "car", "confidence": 0.32, "bbox": [1168, 1868, 1229, 1920]}], "worker": 1, "ts": "2026-08-15T00:23:55"}
-{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 315, "queue_size": 23, "queue_capacity": 100, "queue_fullness": 0.23, "ts": "2026-08-15T00:23:55"}
-{"level": "METRIC", "camera_id": 2, "frame": 315, "worker": 1, "processing_lag_sec": 38.228, "ts": "2026-08-15T00:23:55"}
-{"level": "EVENT", "camera_id": 2, "frame": 315, "detections": [{"label": "bus", "confidence": 0.35, "bbox": [1927, 2036, 2160, 2195]}], "worker": 1, "ts": "2026-08-15T00:23:56"}
-{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 325, "queue_size": 22, "queue_capacity": 100, "queue_fullness": 0.22, "ts": "2026-08-15T00:23:56"}
-{"level": "METRIC", "camera_id": 2, "frame": 325, "worker": 1, "processing_lag_sec": 37.465, "ts": "2026-08-15T00:23:56"}
-{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 330, "queue_size": 21, "queue_capacity": 100, "queue_fullness": 0.21, "ts": "2026-08-15T00:23:56"}
-{"level": "METRIC", "camera_id": 2, "frame": 330, "worker": 1, "processing_lag_sec": 37.301, "ts": "2026-08-15T00:23:56"}
-{"level": "EVENT", "camera_id": 2, "frame": 330, "detections": [{"label": "car", "confidence": 0.39, "bbox": [2012, 2184, 2126, 2252]}, {"label": "bus", "confidence": 0.35, "bbox": [1933, 2034, 2160, 2181]}], "worker": 1, "ts": "2026-08-15T00:23:56"}
-{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 340, "queue_size": 20, "queue_capacity": 100, "queue_fullness": 0.2, "ts": "2026-08-15T00:23:56"}
-{"level": "METRIC", "camera_id": 2, "frame": 340, "worker": 1, "processing_lag_sec": 36.461, "ts": "2026-08-15T00:23:56"}
-{"level": "EVENT", "camera_id": 2, "frame": 340, "detections": [{"label": "bus", "confidence": 0.46, "bbox": [1930, 2030, 2160, 2185]}], "worker": 1, "ts": "2026-08-15T00:23:57"}
-{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 350, "queue_size": 19, "queue_capacity": 100, "queue_fullness": 0.19, "ts": "2026-08-15T00:23:57"}
-{"level": "METRIC", "camera_id": 2, "frame": 350, "worker": 1, "processing_lag_sec": 35.794, "ts": "2026-08-15T00:23:57"}
-{"level": "EVENT", "camera_id": 2, "frame": 350, "detections": [{"label": "bus", "confidence": 0.48, "bbox": [1931, 2029, 2160, 2175]}, {"label": "truck", "confidence": 0.34, "bbox": [1930, 2025, 2158, 2174]}], "worker": 1, "ts": "2026-08-15T00:23:57"}
-{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 360, "queue_size": 18, "queue_capacity": 100, "queue_fullness": 0.18, "ts": "2026-08-15T00:23:57"}
-{"level": "METRIC", "camera_id": 2, "frame": 360, "worker": 1, "processing_lag_sec": 34.714, "ts": "2026-08-15T00:23:57"}
-{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 365, "queue_size": 17, "queue_capacity": 100, "queue_fullness": 0.17, "ts": "2026-08-15T00:23:57"}
-{"level": "METRIC", "camera_id": 2, "frame": 365, "worker": 1, "processing_lag_sec": 34.404, "ts": "2026-08-15T00:23:57"}
-{"level": "EVENT", "camera_id": 2, "frame": 365, "detections": [{"label": "bus", "confidence": 0.33, "bbox": [1928, 2024, 2160, 2164]}, {"label": "car", "confidence": 0.32, "bbox": [902, 2108, 1051, 2200]}], "worker": 1, "ts": "2026-08-15T00:23:58"}
-{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 370, "queue_size": 16, "queue_capacity": 100, "queue_fullness": 0.16, "ts": "2026-08-15T00:23:58"}
-{"level": "METRIC", "camera_id": 2, "frame": 370, "worker": 1, "processing_lag_sec": 34.262, "ts": "2026-08-15T00:23:58"}
-{"level": "EVENT", "camera_id": 2, "frame": 370, "detections": [{"label": "bus", "confidence": 0.39, "bbox": [1930, 2017, 2160, 2165]}, {"label": "truck", "confidence": 0.36, "bbox": [1925, 2017, 2160, 2164]}], "worker": 1, "ts": "2026-08-15T00:23:58"}
-{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 380, "queue_size": 15, "queue_capacity": 100, "queue_fullness": 0.15, "ts": "2026-08-15T00:23:58"}
-{"level": "METRIC", "camera_id": 2, "frame": 380, "worker": 1, "processing_lag_sec": 33.611, "ts": "2026-08-15T00:23:58"}
-{"level": "EVENT", "camera_id": 2, "frame": 380, "detections": [{"label": "truck", "confidence": 0.4, "bbox": [1921, 2008, 2160, 2156]}, {"label": "car", "confidence": 0.36, "bbox": [937, 2108, 1089, 2200]}, {"label": "bus", "confidence": 0.32, "bbox": [1926, 2009, 2160, 2155]}], "worker": 1, "ts": "2026-08-15T00:23:58"}
-{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 390, "queue_size": 14, "queue_capacity": 100, "queue_fullness": 0.14, "ts": "2026-08-15T00:23:58"}
-{"level": "METRIC", "camera_id": 2, "frame": 390, "worker": 1, "processing_lag_sec": 33.194, "ts": "2026-08-15T00:23:58"}
-{"level": "EVENT", "camera_id": 2, "frame": 390, "detections": [{"label": "car", "confidence": 0.35, "bbox": [958, 2112, 1110, 2203]}], "worker": 1, "ts": "2026-08-15T00:23:58"}
-{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 395, "queue_size": 13, "queue_capacity": 100, "queue_fullness": 0.13, "ts": "2026-08-15T00:23:58"}
-{"level": "METRIC", "camera_id": 2, "frame": 395, "worker": 1, "processing_lag_sec": 33.161, "ts": "2026-08-15T00:23:58"}
-{"level": "EVENT", "camera_id": 2, "frame": 395, "detections": [{"label": "bus", "confidence": 0.4, "bbox": [1915, 2003, 2158, 2154]}, {"label": "truck", "confidence": 0.37, "bbox": [1916, 2001, 2160, 2153]}, {"label": "car", "confidence": 0.35, "bbox": [978, 2112, 1121, 2205]}], "worker": 1, "ts": "2026-08-15T00:23:59"}
-{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 410, "queue_size": 12, "queue_capacity": 100, "queue_fullness": 0.12, "ts": "2026-08-15T00:23:59"}
-{"level": "METRIC", "camera_id": 2, "frame": 410, "worker": 1, "processing_lag_sec": 32.513, "ts": "2026-08-15T00:23:59"}
-{"level": "EVENT", "camera_id": 2, "frame": 410, "detections": [{"label": "truck", "confidence": 0.47, "bbox": [1917, 1989, 2160, 2140]}, {"label": "bus", "confidence": 0.41, "bbox": [1917, 1991, 2160, 2141]}, {"label": "car", "confidence": 0.33, "bbox": [1013, 2118, 1168, 2207]}, {"label": "bus", "confidence": 0.33, "bbox": [1308, 1933, 1521, 2071]}], "worker": 1, "ts": "2026-08-15T00:23:59"}
-{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 415, "queue_size": 11, "queue_capacity": 100, "queue_fullness": 0.11, "ts": "2026-08-15T00:23:59"}
-{"level": "METRIC", "camera_id": 2, "frame": 415, "worker": 1, "processing_lag_sec": 32.396, "ts": "2026-08-15T00:23:59"}
-{"level": "EVENT", "camera_id": 2, "frame": 415, "detections": [{"label": "bus", "confidence": 0.54, "bbox": [1915, 1992, 2160, 2137]}, {"label": "bus", "confidence": 0.37, "bbox": [1308, 1933, 1521, 2070]}, {"label": "car", "confidence": 0.33, "bbox": [1036, 2121, 1187, 2212]}], "worker": 1, "ts": "2026-08-15T00:23:59"}
-{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 420, "queue_size": 10, "queue_capacity": 100, "queue_fullness": 0.1, "ts": "2026-08-15T00:23:59"}
-{"level": "METRIC", "camera_id": 2, "frame": 420, "worker": 1, "processing_lag_sec": 32.31, "ts": "2026-08-15T00:23:59"}
-{"level": "EVENT", "camera_id": 2, "frame": 420, "detections": [{"label": "bus", "confidence": 0.43, "bbox": [1913, 1988, 2159, 2135]}, {"label": "bus", "confidence": 0.34, "bbox": [1311, 1932, 1518, 2070]}], "worker": 1, "ts": "2026-08-15T00:24:00"}
-{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 430, "queue_size": 9, "queue_capacity": 100, "queue_fullness": 0.09, "ts": "2026-08-15T00:24:00"}
-{"level": "METRIC", "camera_id": 2, "frame": 430, "worker": 1, "processing_lag_sec": 31.909, "ts": "2026-08-15T00:24:00"}
-{"level": "EVENT", "camera_id": 2, "frame": 430, "detections": [{"label": "bus", "confidence": 0.59, "bbox": [1915, 1984, 2160, 2130]}, {"label": "truck", "confidence": 0.39, "bbox": [1913, 1986, 2160, 2130]}, {"label": "truck", "confidence": 0.34, "bbox": [1310, 1933, 1520, 2068]}, {"label": "bus", "confidence": 0.3, "bbox": [1312, 1931, 1519, 2069]}], "worker": 1, "ts": "2026-08-15T00:24:00"}
-{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 435, "queue_size": 8, "queue_capacity": 100, "queue_fullness": 0.08, "ts": "2026-08-15T00:24:00"}
-{"level": "METRIC", "camera_id": 2, "frame": 435, "worker": 1, "processing_lag_sec": 31.908, "ts": "2026-08-15T00:24:00"}
-{"level": "EVENT", "camera_id": 2, "frame": 435, "detections": [{"label": "bus", "confidence": 0.52, "bbox": [1912, 1984, 2160, 2127]}, {"label": "truck", "confidence": 0.4, "bbox": [1912, 1984, 2160, 2129]}, {"label": "car", "confidence": 0.37, "bbox": [1089, 2122, 1235, 2224]}, {"label": "car", "confidence": 0.33, "bbox": [2011, 2385, 2140, 2500]}, {"label": "bus", "confidence": 0.3, "bbox": [1318, 1930, 1520, 2068]}], "worker": 1, "ts": "2026-08-15T00:24:00"}
-{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 440, "queue_size": 7, "queue_capacity": 100, "queue_fullness": 0.07, "ts": "2026-08-15T00:24:00"}
-{"level": "METRIC", "camera_id": 2, "frame": 440, "worker": 1, "processing_lag_sec": 31.809, "ts": "2026-08-15T00:24:00"}
-{"level": "EVENT", "camera_id": 2, "frame": 440, "detections": [{"label": "bus", "confidence": 0.46, "bbox": [1911, 1980, 2158, 2125]}, {"label": "truck", "confidence": 0.35, "bbox": [1310, 1926, 1521, 2065]}, {"label": "person", "confidence": 0.32, "bbox": [1835, 2075, 1882, 2167]}], "worker": 1, "ts": "2026-08-15T00:24:01"}
-{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 450, "queue_size": 6, "queue_capacity": 100, "queue_fullness": 0.06, "ts": "2026-08-15T00:24:01"}
-{"level": "METRIC", "camera_id": 2, "frame": 450, "worker": 1, "processing_lag_sec": 31.226, "ts": "2026-08-15T00:24:01"}
-{"level": "EVENT", "camera_id": 2, "frame": 450, "detections": [{"label": "truck", "confidence": 0.38, "bbox": [1309, 1926, 1516, 2061]}], "worker": 1, "ts": "2026-08-15T00:24:01"}
-{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 455, "queue_size": 5, "queue_capacity": 100, "queue_fullness": 0.05, "ts": "2026-08-15T00:24:01"}
-{"level": "METRIC", "camera_id": 2, "frame": 455, "worker": 1, "processing_lag_sec": 31.114, "ts": "2026-08-15T00:24:01"}
-{"level": "EVENT", "camera_id": 2, "frame": 455, "detections": [{"label": "bus", "confidence": 0.33, "bbox": [1910, 1973, 2160, 2115]}, {"label": "truck", "confidence": 0.32, "bbox": [1307, 1923, 1516, 2065]}, {"label": "car", "confidence": 0.31, "bbox": [1147, 2126, 1297, 2223]}], "worker": 1, "ts": "2026-08-15T00:24:01"}
-{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 460, "queue_size": 4, "queue_capacity": 100, "queue_fullness": 0.04, "ts": "2026-08-15T00:24:01"}
-{"level": "METRIC", "camera_id": 2, "frame": 460, "worker": 1, "processing_lag_sec": 30.984, "ts": "2026-08-15T00:24:01"}
-{"level": "EVENT", "camera_id": 2, "frame": 460, "detections": [{"label": "person", "confidence": 0.37, "bbox": [1359, 2391, 1405, 2502]}], "worker": 1, "ts": "2026-08-15T00:24:01"}
-{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 470, "queue_size": 3, "queue_capacity": 100, "queue_fullness": 0.03, "ts": "2026-08-15T00:24:01"}
-{"level": "METRIC", "camera_id": 2, "frame": 470, "worker": 1, "processing_lag_sec": 30.41, "ts": "2026-08-15T00:24:01"}
-{"level": "EVENT", "camera_id": 2, "frame": 470, "detections": [{"label": "person", "confidence": 0.41, "bbox": [1517, 2413, 1550, 2513]}, {"label": "car", "confidence": 0.31, "bbox": [1173, 2130, 1339, 2231]}], "worker": 1, "ts": "2026-08-15T00:24:02"}
-{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 475, "queue_size": 2, "queue_capacity": 100, "queue_fullness": 0.02, "ts": "2026-08-15T00:24:02"}
-{"level": "METRIC", "camera_id": 2, "frame": 475, "worker": 1, "processing_lag_sec": 30.219, "ts": "2026-08-15T00:24:02"}
-{"level": "EVENT", "camera_id": 2, "frame": 475, "detections": [{"label": "car", "confidence": 0.34, "bbox": [1196, 2130, 1361, 2233]}, {"label": "person", "confidence": 0.33, "bbox": [1374, 2408, 1419, 2527]}, {"label": "person", "confidence": 0.32, "bbox": [1516, 2424, 1555, 2518]}], "worker": 1, "ts": "2026-08-15T00:24:02"}
-{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 480, "queue_size": 1, "queue_capacity": 100, "queue_fullness": 0.01, "ts": "2026-08-15T00:24:02"}
-{"level": "METRIC", "camera_id": 2, "frame": 480, "worker": 1, "processing_lag_sec": 29.939, "ts": "2026-08-15T00:24:02"}
-{"level": "EVENT", "camera_id": 2, "frame": 480, "detections": [{"label": "car", "confidence": 0.5, "bbox": [1223, 2128, 1374, 2231]}, {"label": "person", "confidence": 0.33, "bbox": [1518, 2429, 1557, 2514]}], "worker": 1, "ts": "2026-08-15T00:24:02"}
-{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 495, "queue_size": 0, "queue_capacity": 100, "queue_fullness": 0.0, "ts": "2026-08-15T00:24:02"}
-{"level": "METRIC", "camera_id": 2, "frame": 495, "worker": 1, "processing_lag_sec": 29.14, "ts": "2026-08-15T00:24:02"}
-{"level": "EVENT", "camera_id": 2, "frame": 495, "detections": [{"label": "car", "confidence": 0.33, "bbox": [1856, 2437, 1975, 2561]}, {"label": "bus", "confidence": 0.3, "bbox": [1304, 1923, 1514, 2050]}], "worker": 1, "ts": "2026-08-15T00:24:02"}
+{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 0, "queue_size": 0, "queue_capacity": 100, "queue_fullness": 0.0, "ts": "2026-08-17T14:39:03"}
+{"level": "METRIC", "camera_id": 3, "frame": 0, "worker": 1, "processing_lag_sec": 0.006, "ts": "2026-08-17T14:39:03"}
+{"level": "INFO", "camera_id": 3, "msg": "Stream ended or frame read failed", "ts": "2026-08-17T14:39:06"}
+{"level": "METRIC", "camera_id": 3, "frames_pushed": 35, "frames_dropped": 0, "total_sampled": 35, "frame_drop_rate": 0.0, "ts": "2026-08-17T14:39:06"}
+{"level": "METRIC", "camera_id": 4, "frame": 255, "frame_dropped": 1, "frames_dropped": 1, "queue_size": 100, "ts": "2026-08-17T14:39:10"}
+{"level": "METRIC", "camera_id": 4, "frame": 260, "frame_dropped": 1, "frames_dropped": 2, "queue_size": 100, "ts": "2026-08-17T14:39:10"}
+{"level": "METRIC", "camera_id": 1, "frame": 35, "frame_dropped": 1, "frames_dropped": 1, "queue_size": 100, "ts": "2026-08-17T14:39:10"}
+{"level": "METRIC", "camera_id": 4, "frame": 265, "frame_dropped": 1, "frames_dropped": 3, "queue_size": 100, "ts": "2026-08-17T14:39:10"}
+{"level": "METRIC", "camera_id": 4, "frame": 270, "frame_dropped": 1, "frames_dropped": 4, "queue_size": 100, "ts": "2026-08-17T14:39:10"}
+{"level": "METRIC", "camera_id": 2, "frame": 40, "frame_dropped": 1, "frames_dropped": 1, "queue_size": 100, "ts": "2026-08-17T14:39:10"}
+{"level": "METRIC", "camera_id": 4, "frame": 275, "frame_dropped": 1, "frames_dropped": 5, "queue_size": 100, "ts": "2026-08-17T14:39:10"}
+{"level": "METRIC", "camera_id": 4, "frame": 280, "frame_dropped": 1, "frames_dropped": 6, "queue_size": 100, "ts": "2026-08-17T14:39:10"}
+{"level": "METRIC", "camera_id": 4, "frame": 285, "frame_dropped": 1, "frames_dropped": 7, "queue_size": 100, "ts": "2026-08-17T14:39:11"}
+{"level": "METRIC", "camera_id": 4, "frame": 290, "frame_dropped": 1, "frames_dropped": 8, "queue_size": 100, "ts": "2026-08-17T14:39:11"}
+{"level": "METRIC", "camera_id": 4, "frame": 295, "frame_dropped": 1, "frames_dropped": 9, "queue_size": 100, "ts": "2026-08-17T14:39:11"}
+{"level": "METRIC", "camera_id": 1, "frame": 40, "frame_dropped": 1, "frames_dropped": 2, "queue_size": 100, "ts": "2026-08-17T14:39:11"}
+{"level": "METRIC", "camera_id": 4, "frame": 300, "frame_dropped": 1, "frames_dropped": 10, "queue_size": 100, "ts": "2026-08-17T14:39:11"}
+{"level": "METRIC", "camera_id": 4, "frame": 305, "frame_dropped": 1, "frames_dropped": 11, "queue_size": 100, "ts": "2026-08-17T14:39:11"}
+{"level": "METRIC", "camera_id": 2, "frame": 45, "frame_dropped": 1, "frames_dropped": 2, "queue_size": 100, "ts": "2026-08-17T14:39:11"}
+{"level": "METRIC", "camera_id": 4, "frame": 310, "frame_dropped": 1, "frames_dropped": 12, "queue_size": 100, "ts": "2026-08-17T14:39:11"}
+{"level": "METRIC", "camera_id": 4, "frame": 315, "frame_dropped": 1, "frames_dropped": 13, "queue_size": 100, "ts": "2026-08-17T14:39:11"}
+{"level": "METRIC", "camera_id": 4, "frame": 320, "frame_dropped": 1, "frames_dropped": 14, "queue_size": 100, "ts": "2026-08-17T14:39:12"}
+{"level": "METRIC", "camera_id": 4, "frame": 325, "frame_dropped": 1, "frames_dropped": 15, "queue_size": 100, "ts": "2026-08-17T14:39:12"}
+{"level": "METRIC", "camera_id": 4, "frame": 330, "frame_dropped": 1, "frames_dropped": 16, "queue_size": 100, "ts": "2026-08-17T14:39:12"}
+{"level": "METRIC", "camera_id": 1, "frame": 45, "frame_dropped": 1, "frames_dropped": 3, "queue_size": 100, "ts": "2026-08-17T14:39:12"}
+{"level": "METRIC", "camera_id": 4, "frame": 335, "frame_dropped": 1, "frames_dropped": 17, "queue_size": 100, "ts": "2026-08-17T14:39:12"}
+{"level": "METRIC", "camera_id": 2, "frame": 50, "frame_dropped": 1, "frames_dropped": 3, "queue_size": 100, "ts": "2026-08-17T14:39:12"}
+{"level": "METRIC", "camera_id": 4, "frame": 340, "frame_dropped": 1, "frames_dropped": 18, "queue_size": 100, "ts": "2026-08-17T14:39:12"}
+{"level": "METRIC", "camera_id": 4, "frame": 345, "frame_dropped": 1, "frames_dropped": 19, "queue_size": 100, "ts": "2026-08-17T14:39:12"}
+{"level": "METRIC", "camera_id": 4, "frame": 350, "frame_dropped": 1, "frames_dropped": 20, "queue_size": 100, "ts": "2026-08-17T14:39:13"}
+{"level": "METRIC", "camera_id": 1, "frame": 50, "frame_dropped": 1, "frames_dropped": 4, "queue_size": 100, "ts": "2026-08-17T14:39:13"}
+{"level": "METRIC", "camera_id": 4, "frame": 355, "frame_dropped": 1, "frames_dropped": 21, "queue_size": 100, "ts": "2026-08-17T14:39:13"}
+{"level": "METRIC", "camera_id": 4, "frame": 360, "frame_dropped": 1, "frames_dropped": 22, "queue_size": 100, "ts": "2026-08-17T14:39:13"}
+{"level": "METRIC", "camera_id": 2, "frame": 55, "frame_dropped": 1, "frames_dropped": 4, "queue_size": 100, "ts": "2026-08-17T14:39:13"}
+{"level": "METRIC", "camera_id": 4, "frame": 365, "frame_dropped": 1, "frames_dropped": 23, "queue_size": 100, "ts": "2026-08-17T14:39:13"}
+{"level": "METRIC", "camera_id": 4, "frame": 370, "frame_dropped": 1, "frames_dropped": 24, "queue_size": 100, "ts": "2026-08-17T14:39:13"}
+{"level": "METRIC", "camera_id": 1, "frame": 55, "frame_dropped": 1, "frames_dropped": 5, "queue_size": 100, "ts": "2026-08-17T14:39:13"}
+{"level": "METRIC", "camera_id": 4, "frame": 375, "frame_dropped": 1, "frames_dropped": 25, "queue_size": 100, "ts": "2026-08-17T14:39:13"}
+{"level": "METRIC", "camera_id": 2, "frame": 60, "frame_dropped": 1, "frames_dropped": 5, "queue_size": 100, "ts": "2026-08-17T14:39:13"}
+{"level": "METRIC", "camera_id": 4, "frame": 380, "frame_dropped": 1, "frames_dropped": 26, "queue_size": 100, "ts": "2026-08-17T14:39:14"}
+{"level": "METRIC", "camera_id": 4, "frame": 385, "frame_dropped": 1, "frames_dropped": 27, "queue_size": 100, "ts": "2026-08-17T14:39:14"}
+{"level": "METRIC", "camera_id": 1, "frame": 60, "frame_dropped": 1, "frames_dropped": 6, "queue_size": 100, "ts": "2026-08-17T14:39:14"}
+{"level": "METRIC", "camera_id": 4, "frame": 390, "frame_dropped": 1, "frames_dropped": 28, "queue_size": 100, "ts": "2026-08-17T14:39:14"}
+{"level": "METRIC", "camera_id": 2, "frame": 65, "frame_dropped": 1, "frames_dropped": 6, "queue_size": 100, "ts": "2026-08-17T14:39:14"}
+{"level": "METRIC", "camera_id": 4, "frame": 395, "frame_dropped": 1, "frames_dropped": 29, "queue_size": 100, "ts": "2026-08-17T14:39:14"}
+{"level": "METRIC", "camera_id": 1, "frame": 65, "frame_dropped": 1, "frames_dropped": 7, "queue_size": 100, "ts": "2026-08-17T14:39:15"}
+{"level": "METRIC", "camera_id": 4, "frame": 400, "frame_dropped": 1, "frames_dropped": 30, "queue_size": 100, "ts": "2026-08-17T14:39:15"}
+{"level": "INFO", "camera_id": 4, "msg": "Stream ended or frame read failed", "ts": "2026-08-17T14:39:15"}
+{"level": "METRIC", "camera_id": 4, "frames_pushed": 51, "frames_dropped": 30, "total_sampled": 81, "frame_drop_rate": 0.37, "ts": "2026-08-17T14:39:15"}
+{"level": "METRIC", "camera_id": 2, "frame": 70, "frame_dropped": 1, "frames_dropped": 7, "queue_size": 100, "ts": "2026-08-17T14:39:15"}
+{"level": "METRIC", "camera_id": 1, "frame": 70, "frame_dropped": 1, "frames_dropped": 8, "queue_size": 100, "ts": "2026-08-17T14:39:15"}
+{"level": "METRIC", "camera_id": 2, "frame": 75, "frame_dropped": 1, "frames_dropped": 8, "queue_size": 100, "ts": "2026-08-17T14:39:15"}
+{"level": "METRIC", "camera_id": 1, "frame": 75, "frame_dropped": 1, "frames_dropped": 9, "queue_size": 100, "ts": "2026-08-17T14:39:15"}
+{"level": "METRIC", "camera_id": 2, "frame": 80, "frame_dropped": 1, "frames_dropped": 9, "queue_size": 100, "ts": "2026-08-17T14:39:16"}
+{"level": "METRIC", "camera_id": 1, "frame": 80, "frame_dropped": 1, "frames_dropped": 10, "queue_size": 100, "ts": "2026-08-17T14:39:16"}
+{"level": "METRIC", "camera_id": 2, "frame": 85, "frame_dropped": 1, "frames_dropped": 10, "queue_size": 100, "ts": "2026-08-17T14:39:16"}
+{"level": "METRIC", "camera_id": 1, "frame": 85, "frame_dropped": 1, "frames_dropped": 11, "queue_size": 100, "ts": "2026-08-17T14:39:16"}
+{"level": "METRIC", "camera_id": 2, "frame": 90, "frame_dropped": 1, "frames_dropped": 11, "queue_size": 100, "ts": "2026-08-17T14:39:17"}
+{"level": "METRIC", "camera_id": 1, "frame": 90, "frame_dropped": 1, "frames_dropped": 12, "queue_size": 100, "ts": "2026-08-17T14:39:17"}
+{"level": "METRIC", "camera_id": 2, "frame": 95, "frame_dropped": 1, "frames_dropped": 12, "queue_size": 100, "ts": "2026-08-17T14:39:18"}
+{"level": "METRIC", "camera_id": 1, "frame": 95, "frame_dropped": 1, "frames_dropped": 13, "queue_size": 100, "ts": "2026-08-17T14:39:18"}
+{"level": "METRIC", "camera_id": 2, "frame": 100, "frame_dropped": 1, "frames_dropped": 13, "queue_size": 100, "ts": "2026-08-17T14:39:18"}
+{"level": "METRIC", "camera_id": 1, "frame": 100, "frame_dropped": 1, "frames_dropped": 14, "queue_size": 100, "ts": "2026-08-17T14:39:19"}
+{"level": "METRIC", "camera_id": 2, "frame": 105, "frame_dropped": 1, "frames_dropped": 14, "queue_size": 100, "ts": "2026-08-17T14:39:19"}
+{"level": "METRIC", "camera_id": 1, "frame": 105, "frame_dropped": 1, "frames_dropped": 15, "queue_size": 100, "ts": "2026-08-17T14:39:19"}
+{"level": "METRIC", "camera_id": 2, "frame": 110, "frame_dropped": 1, "frames_dropped": 15, "queue_size": 100, "ts": "2026-08-17T14:39:20"}
+{"level": "METRIC", "camera_id": 1, "frame": 110, "frame_dropped": 1, "frames_dropped": 16, "queue_size": 100, "ts": "2026-08-17T14:39:20"}
+{"level": "METRIC", "camera_id": 2, "frame": 115, "frame_dropped": 1, "frames_dropped": 16, "queue_size": 100, "ts": "2026-08-17T14:39:20"}
+{"level": "METRIC", "camera_id": 1, "frame": 115, "frame_dropped": 1, "frames_dropped": 17, "queue_size": 100, "ts": "2026-08-17T14:39:20"}
+{"level": "METRIC", "camera_id": 2, "frame": 120, "frame_dropped": 1, "frames_dropped": 17, "queue_size": 100, "ts": "2026-08-17T14:39:21"}
+{"level": "METRIC", "camera_id": 1, "frame": 120, "frame_dropped": 1, "frames_dropped": 18, "queue_size": 100, "ts": "2026-08-17T14:39:21"}
+{"level": "METRIC", "camera_id": 2, "frame": 125, "frame_dropped": 1, "frames_dropped": 18, "queue_size": 100, "ts": "2026-08-17T14:39:21"}
+{"level": "METRIC", "camera_id": 1, "frame": 125, "frame_dropped": 1, "frames_dropped": 19, "queue_size": 100, "ts": "2026-08-17T14:39:22"}
+{"level": "METRIC", "camera_id": 2, "frame": 130, "frame_dropped": 1, "frames_dropped": 19, "queue_size": 100, "ts": "2026-08-17T14:39:22"}
+{"level": "METRIC", "camera_id": 1, "frame": 130, "frame_dropped": 1, "frames_dropped": 20, "queue_size": 100, "ts": "2026-08-17T14:39:22"}
+{"level": "EVENT", "camera_id": 3, "frame": 0, "detections": [{"label": "bench", "confidence": 0.75, "bbox": [607, 636, 788, 720]}, {"label": "truck", "confidence": 0.64, "bbox": [7, 490, 216, 631]}, {"label": "car", "confidence": 0.5, "bbox": [0, 570, 81, 654]}], "worker": 1, "ts": "2026-08-17T14:39:22"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 0, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:22"}
+{"level": "METRIC", "camera_id": 4, "frame": 0, "worker": 1, "processing_lag_sec": 19.548, "ts": "2026-08-17T14:39:22"}
+{"level": "METRIC", "camera_id": 1, "frame": 135, "frame_dropped": 1, "frames_dropped": 21, "queue_size": 100, "ts": "2026-08-17T14:39:23"}
+{"level": "METRIC", "camera_id": 2, "frame": 140, "frame_dropped": 1, "frames_dropped": 20, "queue_size": 100, "ts": "2026-08-17T14:39:23"}
+{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 5, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:23"}
+{"level": "METRIC", "camera_id": 3, "frame": 5, "worker": 1, "processing_lag_sec": 20.402, "ts": "2026-08-17T14:39:23"}
+{"level": "METRIC", "camera_id": 2, "frame": 145, "frame_dropped": 1, "frames_dropped": 21, "queue_size": 100, "ts": "2026-08-17T14:39:23"}
+{"level": "EVENT", "camera_id": 3, "frame": 5, "detections": [{"label": "bench", "confidence": 0.65, "bbox": [608, 636, 789, 720]}, {"label": "car", "confidence": 0.55, "bbox": [212, 545, 307, 594]}, {"label": "truck", "confidence": 0.44, "bbox": [0, 490, 186, 640]}, {"label": "car", "confidence": 0.37, "bbox": [0, 577, 58, 655]}], "worker": 1, "ts": "2026-08-17T14:39:24"}
+{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 10, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:24"}
+{"level": "METRIC", "camera_id": 3, "frame": 10, "worker": 1, "processing_lag_sec": 21.094, "ts": "2026-08-17T14:39:24"}
+{"level": "METRIC", "camera_id": 2, "frame": 150, "frame_dropped": 1, "frames_dropped": 22, "queue_size": 100, "ts": "2026-08-17T14:39:24"}
+{"level": "METRIC", "camera_id": 2, "frame": 155, "frame_dropped": 1, "frames_dropped": 23, "queue_size": 100, "ts": "2026-08-17T14:39:25"}
+{"level": "METRIC", "camera_id": 1, "frame": 150, "frame_dropped": 1, "frames_dropped": 22, "queue_size": 100, "ts": "2026-08-17T14:39:25"}
+{"level": "EVENT", "camera_id": 3, "frame": 10, "detections": [{"label": "truck", "confidence": 0.83, "bbox": [0, 488, 164, 644]}, {"label": "bench", "confidence": 0.7, "bbox": [604, 634, 786, 719]}, {"label": "car", "confidence": 0.5, "bbox": [186, 545, 297, 595]}], "worker": 1, "ts": "2026-08-17T14:39:25"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 5, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:25"}
+{"level": "METRIC", "camera_id": 4, "frame": 5, "worker": 1, "processing_lag_sec": 21.924, "ts": "2026-08-17T14:39:25"}
+{"level": "METRIC", "camera_id": 2, "frame": 160, "frame_dropped": 1, "frames_dropped": 24, "queue_size": 100, "ts": "2026-08-17T14:39:25"}
+{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 15, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:26"}
+{"level": "METRIC", "camera_id": 3, "frame": 15, "worker": 1, "processing_lag_sec": 22.639, "ts": "2026-08-17T14:39:26"}
+{"level": "METRIC", "camera_id": 1, "frame": 160, "frame_dropped": 1, "frames_dropped": 23, "queue_size": 100, "ts": "2026-08-17T14:39:26"}
+{"level": "METRIC", "camera_id": 1, "frame": 165, "frame_dropped": 1, "frames_dropped": 24, "queue_size": 100, "ts": "2026-08-17T14:39:26"}
+{"level": "METRIC", "camera_id": 2, "frame": 170, "frame_dropped": 1, "frames_dropped": 25, "queue_size": 100, "ts": "2026-08-17T14:39:26"}
+{"level": "METRIC", "camera_id": 1, "frame": 170, "frame_dropped": 1, "frames_dropped": 25, "queue_size": 100, "ts": "2026-08-17T14:39:27"}
+{"level": "EVENT", "camera_id": 3, "frame": 15, "detections": [{"label": "truck", "confidence": 0.68, "bbox": [0, 485, 135, 651]}, {"label": "bench", "confidence": 0.61, "bbox": [596, 633, 778, 720]}, {"label": "bench", "confidence": 0.5, "bbox": [648, 634, 778, 719]}, {"label": "car", "confidence": 0.38, "bbox": [168, 545, 277, 598]}, {"label": "person", "confidence": 0.36, "bbox": [965, 433, 1000, 547]}], "worker": 1, "ts": "2026-08-17T14:39:27"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 10, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:27"}
+{"level": "METRIC", "camera_id": 4, "frame": 10, "worker": 1, "processing_lag_sec": 23.89, "ts": "2026-08-17T14:39:27"}
+{"level": "METRIC", "camera_id": 1, "frame": 175, "frame_dropped": 1, "frames_dropped": 26, "queue_size": 100, "ts": "2026-08-17T14:39:27"}
+{"level": "METRIC", "camera_id": 2, "frame": 180, "frame_dropped": 1, "frames_dropped": 26, "queue_size": 100, "ts": "2026-08-17T14:39:27"}
+{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 20, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:28"}
+{"level": "METRIC", "camera_id": 3, "frame": 20, "worker": 1, "processing_lag_sec": 24.816, "ts": "2026-08-17T14:39:28"}
+{"level": "METRIC", "camera_id": 1, "frame": 180, "frame_dropped": 1, "frames_dropped": 27, "queue_size": 100, "ts": "2026-08-17T14:39:28"}
+{"level": "METRIC", "camera_id": 2, "frame": 190, "frame_dropped": 1, "frames_dropped": 27, "queue_size": 100, "ts": "2026-08-17T14:39:29"}
+{"level": "METRIC", "camera_id": 1, "frame": 185, "frame_dropped": 1, "frames_dropped": 28, "queue_size": 100, "ts": "2026-08-17T14:39:29"}
+{"level": "METRIC", "camera_id": 2, "frame": 195, "frame_dropped": 1, "frames_dropped": 28, "queue_size": 100, "ts": "2026-08-17T14:39:29"}
+{"level": "EVENT", "camera_id": 3, "frame": 20, "detections": [{"label": "truck", "confidence": 0.83, "bbox": [0, 484, 109, 648]}, {"label": "bench", "confidence": 0.65, "bbox": [635, 633, 772, 720]}, {"label": "car", "confidence": 0.45, "bbox": [143, 546, 257, 602]}], "worker": 1, "ts": "2026-08-17T14:39:30"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 15, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:30"}
+{"level": "METRIC", "camera_id": 4, "frame": 15, "worker": 1, "processing_lag_sec": 26.606, "ts": "2026-08-17T14:39:30"}
+{"level": "METRIC", "camera_id": 2, "frame": 200, "frame_dropped": 1, "frames_dropped": 29, "queue_size": 100, "ts": "2026-08-17T14:39:30"}
+{"level": "METRIC", "camera_id": 1, "frame": 195, "frame_dropped": 1, "frames_dropped": 29, "queue_size": 100, "ts": "2026-08-17T14:39:30"}
+{"level": "METRIC", "camera_id": 2, "frame": 205, "frame_dropped": 1, "frames_dropped": 30, "queue_size": 100, "ts": "2026-08-17T14:39:31"}
+{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 25, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:31"}
+{"level": "METRIC", "camera_id": 3, "frame": 25, "worker": 1, "processing_lag_sec": 27.617, "ts": "2026-08-17T14:39:31"}
+{"level": "METRIC", "camera_id": 2, "frame": 210, "frame_dropped": 1, "frames_dropped": 31, "queue_size": 100, "ts": "2026-08-17T14:39:31"}
+{"level": "METRIC", "camera_id": 1, "frame": 205, "frame_dropped": 1, "frames_dropped": 30, "queue_size": 100, "ts": "2026-08-17T14:39:32"}
+{"level": "METRIC", "camera_id": 2, "frame": 215, "frame_dropped": 1, "frames_dropped": 32, "queue_size": 100, "ts": "2026-08-17T14:39:32"}
+{"level": "EVENT", "camera_id": 3, "frame": 25, "detections": [{"label": "bench", "confidence": 0.71, "bbox": [586, 635, 767, 720]}, {"label": "truck", "confidence": 0.65, "bbox": [0, 481, 82, 644]}, {"label": "car", "confidence": 0.5, "bbox": [128, 548, 242, 603]}, {"label": "person", "confidence": 0.36, "bbox": [952, 433, 989, 549]}, {"label": "bench", "confidence": 0.33, "bbox": [661, 664, 765, 719]}, {"label": "car", "confidence": 0.31, "bbox": [262, 543, 314, 579]}], "worker": 1, "ts": "2026-08-17T14:39:32"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 0, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:32"}
+{"level": "METRIC", "camera_id": 2, "frame": 0, "worker": 1, "processing_lag_sec": 28.791, "ts": "2026-08-17T14:39:32"}
+{"level": "METRIC", "camera_id": 1, "frame": 210, "frame_dropped": 1, "frames_dropped": 31, "queue_size": 100, "ts": "2026-08-17T14:39:32"}
+{"level": "METRIC", "camera_id": 2, "frame": 225, "frame_dropped": 1, "frames_dropped": 33, "queue_size": 100, "ts": "2026-08-17T14:39:33"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 20, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:33"}
+{"level": "METRIC", "camera_id": 4, "frame": 20, "worker": 1, "processing_lag_sec": 30.091, "ts": "2026-08-17T14:39:33"}
+{"level": "METRIC", "camera_id": 2, "frame": 230, "frame_dropped": 1, "frames_dropped": 34, "queue_size": 100, "ts": "2026-08-17T14:39:34"}
+{"level": "METRIC", "camera_id": 1, "frame": 220, "frame_dropped": 1, "frames_dropped": 32, "queue_size": 100, "ts": "2026-08-17T14:39:34"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 25, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:34"}
+{"level": "METRIC", "camera_id": 4, "frame": 25, "worker": 1, "processing_lag_sec": 30.879, "ts": "2026-08-17T14:39:34"}
+{"level": "METRIC", "camera_id": 2, "frame": 240, "frame_dropped": 1, "frames_dropped": 35, "queue_size": 100, "ts": "2026-08-17T14:39:35"}
+{"level": "METRIC", "camera_id": 1, "frame": 225, "frame_dropped": 1, "frames_dropped": 33, "queue_size": 100, "ts": "2026-08-17T14:39:35"}
+{"level": "METRIC", "camera_id": 2, "frame": 245, "frame_dropped": 1, "frames_dropped": 36, "queue_size": 100, "ts": "2026-08-17T14:39:35"}
+{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 30, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:36"}
+{"level": "METRIC", "camera_id": 3, "frame": 30, "worker": 1, "processing_lag_sec": 32.488, "ts": "2026-08-17T14:39:36"}
+{"level": "METRIC", "camera_id": 2, "frame": 250, "frame_dropped": 1, "frames_dropped": 37, "queue_size": 100, "ts": "2026-08-17T14:39:36"}
+{"level": "METRIC", "camera_id": 1, "frame": 235, "frame_dropped": 1, "frames_dropped": 34, "queue_size": 100, "ts": "2026-08-17T14:39:37"}
+{"level": "METRIC", "camera_id": 2, "frame": 255, "frame_dropped": 1, "frames_dropped": 38, "queue_size": 100, "ts": "2026-08-17T14:39:37"}
+{"level": "EVENT", "camera_id": 3, "frame": 30, "detections": [{"label": "bench", "confidence": 0.75, "bbox": [584, 637, 765, 720]}, {"label": "car", "confidence": 0.5, "bbox": [112, 550, 230, 611]}, {"label": "truck", "confidence": 0.34, "bbox": [0, 484, 55, 647]}], "worker": 1, "ts": "2026-08-17T14:39:37"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 30, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:37"}
+{"level": "METRIC", "camera_id": 4, "frame": 30, "worker": 1, "processing_lag_sec": 33.657, "ts": "2026-08-17T14:39:37"}
+{"level": "METRIC", "camera_id": 2, "frame": 260, "frame_dropped": 1, "frames_dropped": 39, "queue_size": 100, "ts": "2026-08-17T14:39:37"}
+{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 35, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:38"}
+{"level": "METRIC", "camera_id": 3, "frame": 35, "worker": 1, "processing_lag_sec": 34.542, "ts": "2026-08-17T14:39:38"}
+{"level": "METRIC", "camera_id": 1, "frame": 245, "frame_dropped": 1, "frames_dropped": 35, "queue_size": 100, "ts": "2026-08-17T14:39:38"}
+{"level": "METRIC", "camera_id": 2, "frame": 270, "frame_dropped": 1, "frames_dropped": 40, "queue_size": 100, "ts": "2026-08-17T14:39:38"}
+{"level": "METRIC", "camera_id": 1, "frame": 250, "frame_dropped": 1, "frames_dropped": 36, "queue_size": 100, "ts": "2026-08-17T14:39:39"}
+{"level": "EVENT", "camera_id": 3, "frame": 35, "detections": [{"label": "bench", "confidence": 0.65, "bbox": [604, 639, 769, 720]}, {"label": "car", "confidence": 0.62, "bbox": [100, 552, 225, 617]}, {"label": "car", "confidence": 0.43, "bbox": [242, 548, 312, 587]}], "worker": 1, "ts": "2026-08-17T14:39:39"}
+{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 40, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:39"}
+{"level": "METRIC", "camera_id": 3, "frame": 40, "worker": 1, "processing_lag_sec": 35.365, "ts": "2026-08-17T14:39:39"}
+{"level": "METRIC", "camera_id": 1, "frame": 255, "frame_dropped": 1, "frames_dropped": 37, "queue_size": 100, "ts": "2026-08-17T14:39:39"}
+{"level": "METRIC", "camera_id": 2, "frame": 280, "frame_dropped": 1, "frames_dropped": 41, "queue_size": 100, "ts": "2026-08-17T14:39:40"}
+{"level": "EVENT", "camera_id": 3, "frame": 40, "detections": [{"label": "car", "confidence": 0.6, "bbox": [93, 553, 219, 618]}, {"label": "car", "confidence": 0.57, "bbox": [239, 549, 314, 589]}, {"label": "bench", "confidence": 0.53, "bbox": [594, 640, 773, 720]}], "worker": 1, "ts": "2026-08-17T14:39:40"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 35, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:40"}
+{"level": "METRIC", "camera_id": 4, "frame": 35, "worker": 1, "processing_lag_sec": 36.262, "ts": "2026-08-17T14:39:40"}
+{"level": "METRIC", "camera_id": 2, "frame": 285, "frame_dropped": 1, "frames_dropped": 42, "queue_size": 100, "ts": "2026-08-17T14:39:40"}
+{"level": "METRIC", "camera_id": 1, "frame": 265, "frame_dropped": 1, "frames_dropped": 38, "queue_size": 100, "ts": "2026-08-17T14:39:40"}
+{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 45, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:40"}
+{"level": "METRIC", "camera_id": 3, "frame": 45, "worker": 1, "processing_lag_sec": 37.053, "ts": "2026-08-17T14:39:40"}
+{"level": "METRIC", "camera_id": 1, "frame": 270, "frame_dropped": 1, "frames_dropped": 39, "queue_size": 100, "ts": "2026-08-17T14:39:41"}
+{"level": "METRIC", "camera_id": 2, "frame": 295, "frame_dropped": 1, "frames_dropped": 43, "queue_size": 100, "ts": "2026-08-17T14:39:41"}
+{"level": "EVENT", "camera_id": 3, "frame": 45, "detections": [{"label": "bench", "confidence": 0.67, "bbox": [599, 641, 778, 720]}, {"label": "car", "confidence": 0.66, "bbox": [77, 553, 212, 619]}, {"label": "car", "confidence": 0.48, "bbox": [233, 550, 319, 590]}, {"label": "traffic light", "confidence": 0.4, "bbox": [0, 428, 13, 487]}], "worker": 1, "ts": "2026-08-17T14:39:41"}
+{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 50, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:41"}
+{"level": "METRIC", "camera_id": 3, "frame": 50, "worker": 1, "processing_lag_sec": 37.791, "ts": "2026-08-17T14:39:41"}
+{"level": "METRIC", "camera_id": 2, "frame": 300, "frame_dropped": 1, "frames_dropped": 44, "queue_size": 100, "ts": "2026-08-17T14:39:42"}
+{"level": "INFO", "camera_id": 1, "msg": "Stream ended or frame read failed", "ts": "2026-08-17T14:39:42"}
+{"level": "EVENT", "camera_id": 3, "frame": 50, "detections": [{"label": "bench", "confidence": 0.64, "bbox": [603, 639, 783, 720]}, {"label": "car", "confidence": 0.53, "bbox": [63, 553, 201, 629]}, {"label": "bus", "confidence": 0.34, "bbox": [0, 511, 284, 636]}], "worker": 1, "ts": "2026-08-17T14:39:42"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 40, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:42"}
+{"level": "METRIC", "camera_id": 4, "frame": 40, "worker": 1, "processing_lag_sec": 38.594, "ts": "2026-08-17T14:39:42"}
+{"level": "METRIC", "camera_id": 1, "frames_pushed": 17, "frames_dropped": 39, "total_sampled": 56, "frame_drop_rate": 0.696, "ts": "2026-08-17T14:39:42"}
+{"level": "METRIC", "camera_id": 2, "frame": 310, "frame_dropped": 1, "frames_dropped": 45, "queue_size": 100, "ts": "2026-08-17T14:39:43"}
+{"level": "METRIC", "worker": 1, "camera_id": 1, "frame": 0, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:43"}
+{"level": "METRIC", "camera_id": 1, "frame": 0, "worker": 1, "processing_lag_sec": 39.401, "ts": "2026-08-17T14:39:43"}
+{"level": "METRIC", "camera_id": 2, "frame": 320, "frame_dropped": 1, "frames_dropped": 46, "queue_size": 100, "ts": "2026-08-17T14:39:44"}
+{"level": "EVENT", "camera_id": 1, "frame": 0, "detections": [{"label": "person", "confidence": 0.88, "bbox": [331, 1638, 701, 2766]}, {"label": "person", "confidence": 0.84, "bbox": [0, 1558, 297, 2753]}, {"label": "person", "confidence": 0.84, "bbox": [1902, 1915, 2160, 3290]}, {"label": "person", "confidence": 0.81, "bbox": [1158, 1655, 1383, 2424]}, {"label": "person", "confidence": 0.8, "bbox": [1738, 1694, 1909, 2147]}, {"label": "person", "confidence": 0.77, "bbox": [982, 1710, 1175, 2370]}, {"label": "person", "confidence": 0.69, "bbox": [891, 1721, 1010, 2125]}, {"label": "person", "confidence": 0.65, "bbox": [709, 1703, 853, 2082]}, {"label": "backpack", "confidence": 0.56, "bbox": [999, 1816, 1157, 2029]}, {"label": "person", "confidence": 0.51, "bbox": [604, 1706, 709, 2039]}, {"label": "backpack", "confidence": 0.51, "bbox": [1221, 1771, 1357, 2041]}, {"label": "person", "confidence": 0.45, "bbox": [1858, 1706, 1920, 1923]}, {"label": "person", "confidence": 0.34, "bbox": [1660, 1720, 1709, 1853]}, {"label": "person", "confidence": 0.33, "bbox": [190, 1731, 340, 2138]}, {"label": "person", "confidence": 0.31, "bbox": [293, 1684, 395, 2113]}], "worker": 1, "ts": "2026-08-17T14:39:44"}
+{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 55, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:44"}
+{"level": "METRIC", "camera_id": 3, "frame": 55, "worker": 1, "processing_lag_sec": 40.219, "ts": "2026-08-17T14:39:44"}
+{"level": "METRIC", "camera_id": 2, "frame": 330, "frame_dropped": 1, "frames_dropped": 47, "queue_size": 100, "ts": "2026-08-17T14:39:45"}
+{"level": "EVENT", "camera_id": 3, "frame": 55, "detections": [{"label": "car", "confidence": 0.7, "bbox": [46, 550, 196, 633]}, {"label": "bench", "confidence": 0.67, "bbox": [607, 639, 787, 720]}, {"label": "bus", "confidence": 0.43, "bbox": [0, 510, 288, 641]}, {"label": "car", "confidence": 0.37, "bbox": [216, 549, 303, 591]}], "worker": 1, "ts": "2026-08-17T14:39:45"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 45, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:45"}
+{"level": "METRIC", "camera_id": 4, "frame": 45, "worker": 1, "processing_lag_sec": 40.832, "ts": "2026-08-17T14:39:45"}
+{"level": "METRIC", "camera_id": 2, "frame": 340, "frame_dropped": 1, "frames_dropped": 48, "queue_size": 100, "ts": "2026-08-17T14:39:45"}
+{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 60, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:45"}
+{"level": "METRIC", "camera_id": 3, "frame": 60, "worker": 1, "processing_lag_sec": 41.595, "ts": "2026-08-17T14:39:45"}
+{"level": "EVENT", "camera_id": 3, "frame": 60, "detections": [{"label": "car", "confidence": 0.66, "bbox": [28, 551, 185, 637]}, {"label": "bench", "confidence": 0.51, "bbox": [611, 639, 790, 720]}, {"label": "bus", "confidence": 0.41, "bbox": [0, 509, 280, 620]}, {"label": "car", "confidence": 0.4, "bbox": [204, 549, 300, 594]}], "worker": 1, "ts": "2026-08-17T14:39:46"}
+{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 65, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:46"}
+{"level": "METRIC", "camera_id": 3, "frame": 65, "worker": 1, "processing_lag_sec": 42.025, "ts": "2026-08-17T14:39:46"}
+{"level": "METRIC", "camera_id": 2, "frame": 355, "frame_dropped": 1, "frames_dropped": 49, "queue_size": 100, "ts": "2026-08-17T14:39:46"}
+{"level": "EVENT", "camera_id": 3, "frame": 65, "detections": [{"label": "bench", "confidence": 0.61, "bbox": [645, 641, 794, 719]}, {"label": "car", "confidence": 0.61, "bbox": [7, 551, 179, 642]}, {"label": "car", "confidence": 0.45, "bbox": [196, 550, 296, 597]}, {"label": "bus", "confidence": 0.33, "bbox": [2, 509, 286, 601]}], "worker": 1, "ts": "2026-08-17T14:39:46"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 50, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:46"}
+{"level": "METRIC", "camera_id": 4, "frame": 50, "worker": 1, "processing_lag_sec": 42.555, "ts": "2026-08-17T14:39:46"}
+{"level": "EVENT", "camera_id": 4, "frame": 50, "detections": [{"label": "cow", "confidence": 0.55, "bbox": [88, 519, 152, 563]}, {"label": "horse", "confidence": 0.43, "bbox": [87, 518, 153, 562]}, {"label": "bench", "confidence": 0.37, "bbox": [351, 476, 720, 978]}], "worker": 1, "ts": "2026-08-17T14:39:47"}
+{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 70, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:47"}
+{"level": "METRIC", "camera_id": 3, "frame": 70, "worker": 1, "processing_lag_sec": 43.014, "ts": "2026-08-17T14:39:47"}
+{"level": "EVENT", "camera_id": 3, "frame": 70, "detections": [{"label": "car", "confidence": 0.55, "bbox": [0, 552, 166, 643]}, {"label": "car", "confidence": 0.49, "bbox": [188, 551, 289, 600]}, {"label": "bench", "confidence": 0.43, "bbox": [617, 642, 797, 720]}], "worker": 1, "ts": "2026-08-17T14:39:47"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 5, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:47"}
+{"level": "METRIC", "camera_id": 2, "frame": 5, "worker": 1, "processing_lag_sec": 43.489, "ts": "2026-08-17T14:39:47"}
+{"level": "METRIC", "camera_id": 2, "frame": 375, "frame_dropped": 1, "frames_dropped": 50, "queue_size": 100, "ts": "2026-08-17T14:39:48"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 55, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:48"}
+{"level": "METRIC", "camera_id": 4, "frame": 55, "worker": 1, "processing_lag_sec": 43.971, "ts": "2026-08-17T14:39:48"}
+{"level": "EVENT", "camera_id": 4, "frame": 55, "detections": [{"label": "horse", "confidence": 0.43, "bbox": [96, 530, 162, 572]}, {"label": "cow", "confidence": 0.43, "bbox": [95, 529, 162, 571]}], "worker": 1, "ts": "2026-08-17T14:39:48"}
+{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 75, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:48"}
+{"level": "METRIC", "camera_id": 3, "frame": 75, "worker": 1, "processing_lag_sec": 44.404, "ts": "2026-08-17T14:39:48"}
+{"level": "METRIC", "camera_id": 2, "frame": 390, "frame_dropped": 1, "frames_dropped": 51, "queue_size": 100, "ts": "2026-08-17T14:39:49"}
+{"level": "EVENT", "camera_id": 3, "frame": 75, "detections": [{"label": "bench", "confidence": 0.75, "bbox": [620, 645, 802, 719]}, {"label": "car", "confidence": 0.62, "bbox": [177, 553, 284, 604]}, {"label": "car", "confidence": 0.36, "bbox": [0, 553, 155, 640]}], "worker": 1, "ts": "2026-08-17T14:39:49"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 60, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:49"}
+{"level": "METRIC", "camera_id": 4, "frame": 60, "worker": 1, "processing_lag_sec": 44.836, "ts": "2026-08-17T14:39:49"}
+{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 80, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:49"}
+{"level": "METRIC", "camera_id": 3, "frame": 80, "worker": 1, "processing_lag_sec": 45.314, "ts": "2026-08-17T14:39:49"}
+{"level": "EVENT", "camera_id": 3, "frame": 80, "detections": [{"label": "bench", "confidence": 0.77, "bbox": [622, 648, 804, 720]}, {"label": "car", "confidence": 0.61, "bbox": [164, 555, 275, 608]}, {"label": "car", "confidence": 0.32, "bbox": [0, 556, 120, 644]}], "worker": 1, "ts": "2026-08-17T14:39:50"}
+{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 85, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:50"}
+{"level": "METRIC", "camera_id": 3, "frame": 85, "worker": 1, "processing_lag_sec": 45.601, "ts": "2026-08-17T14:39:50"}
+{"level": "METRIC", "camera_id": 2, "frame": 410, "frame_dropped": 1, "frames_dropped": 52, "queue_size": 100, "ts": "2026-08-17T14:39:50"}
+{"level": "EVENT", "camera_id": 3, "frame": 85, "detections": [{"label": "car", "confidence": 0.65, "bbox": [150, 557, 264, 614]}, {"label": "bench", "confidence": 0.64, "bbox": [625, 649, 805, 720]}, {"label": "car", "confidence": 0.53, "bbox": [0, 558, 95, 647]}, {"label": "bus", "confidence": 0.49, "bbox": [0, 511, 246, 625]}, {"label": "car", "confidence": 0.36, "bbox": [308, 547, 359, 578]}], "worker": 1, "ts": "2026-08-17T14:39:50"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 65, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:50"}
+{"level": "METRIC", "camera_id": 4, "frame": 65, "worker": 1, "processing_lag_sec": 46.055, "ts": "2026-08-17T14:39:50"}
+{"level": "EVENT", "camera_id": 4, "frame": 65, "detections": [{"label": "train", "confidence": 0.41, "bbox": [340, 890, 720, 1088]}], "worker": 1, "ts": "2026-08-17T14:39:51"}
+{"level": "METRIC", "worker": 1, "camera_id": 1, "frame": 5, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:51"}
+{"level": "METRIC", "camera_id": 1, "frame": 5, "worker": 1, "processing_lag_sec": 46.513, "ts": "2026-08-17T14:39:51"}
+{"level": "METRIC", "camera_id": 2, "frame": 425, "frame_dropped": 1, "frames_dropped": 53, "queue_size": 100, "ts": "2026-08-17T14:39:51"}
+{"level": "METRIC", "camera_id": 2, "frame": 430, "frame_dropped": 1, "frames_dropped": 54, "queue_size": 100, "ts": "2026-08-17T14:39:52"}
+{"level": "EVENT", "camera_id": 1, "frame": 5, "detections": [{"label": "person", "confidence": 0.87, "bbox": [1744, 1707, 1929, 2153]}, {"label": "person", "confidence": 0.84, "bbox": [334, 1649, 687, 2698]}, {"label": "person", "confidence": 0.82, "bbox": [0, 1615, 325, 2612]}, {"label": "person", "confidence": 0.8, "bbox": [1151, 1676, 1377, 2446]}, {"label": "person", "confidence": 0.73, "bbox": [994, 1741, 1179, 2400]}, {"label": "person", "confidence": 0.72, "bbox": [881, 1725, 1012, 2135]}, {"label": "person", "confidence": 0.68, "bbox": [705, 1704, 851, 2089]}, {"label": "backpack", "confidence": 0.6, "bbox": [1004, 1827, 1164, 2053]}, {"label": "person", "confidence": 0.48, "bbox": [154, 1697, 346, 2151]}, {"label": "person", "confidence": 0.4, "bbox": [275, 1715, 366, 1968]}, {"label": "person", "confidence": 0.35, "bbox": [580, 1727, 683, 2051]}, {"label": "person", "confidence": 0.33, "bbox": [1882, 1693, 1949, 1828]}], "worker": 1, "ts": "2026-08-17T14:39:52"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 70, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:52"}
+{"level": "METRIC", "camera_id": 4, "frame": 70, "worker": 1, "processing_lag_sec": 47.417, "ts": "2026-08-17T14:39:52"}
+{"level": "EVENT", "camera_id": 4, "frame": 70, "detections": [{"label": "train", "confidence": 0.68, "bbox": [319, 894, 720, 1094]}], "worker": 1, "ts": "2026-08-17T14:39:52"}
+{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 90, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:52"}
+{"level": "METRIC", "camera_id": 3, "frame": 90, "worker": 1, "processing_lag_sec": 47.977, "ts": "2026-08-17T14:39:52"}
+{"level": "EVENT", "camera_id": 3, "frame": 90, "detections": [{"label": "bench", "confidence": 0.86, "bbox": [628, 652, 807, 720]}, {"label": "car", "confidence": 0.72, "bbox": [136, 557, 257, 614]}, {"label": "car", "confidence": 0.53, "bbox": [300, 549, 362, 584]}, {"label": "car", "confidence": 0.46, "bbox": [0, 558, 66, 655]}, {"label": "bus", "confidence": 0.38, "bbox": [0, 511, 238, 627]}], "worker": 1, "ts": "2026-08-17T14:39:53"}
+{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 95, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:53"}
+{"level": "METRIC", "camera_id": 3, "frame": 95, "worker": 1, "processing_lag_sec": 48.425, "ts": "2026-08-17T14:39:53"}
+{"level": "METRIC", "camera_id": 2, "frame": 450, "frame_dropped": 1, "frames_dropped": 55, "queue_size": 100, "ts": "2026-08-17T14:39:53"}
+{"level": "EVENT", "camera_id": 3, "frame": 95, "detections": [{"label": "bench", "confidence": 0.69, "bbox": [629, 653, 809, 720]}, {"label": "car", "confidence": 0.69, "bbox": [122, 558, 247, 615]}, {"label": "car", "confidence": 0.45, "bbox": [290, 549, 361, 586]}, {"label": "car", "confidence": 0.45, "bbox": [0, 556, 42, 647]}, {"label": "bus", "confidence": 0.33, "bbox": [0, 509, 235, 635]}], "worker": 1, "ts": "2026-08-17T14:39:54"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 75, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:54"}
+{"level": "METRIC", "camera_id": 4, "frame": 75, "worker": 1, "processing_lag_sec": 49.013, "ts": "2026-08-17T14:39:54"}
+{"level": "EVENT", "camera_id": 4, "frame": 75, "detections": [{"label": "train", "confidence": 0.83, "bbox": [301, 898, 720, 1107]}], "worker": 1, "ts": "2026-08-17T14:39:54"}
+{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 100, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:54"}
+{"level": "METRIC", "camera_id": 3, "frame": 100, "worker": 1, "processing_lag_sec": 49.436, "ts": "2026-08-17T14:39:54"}
+{"level": "METRIC", "camera_id": 2, "frame": 465, "frame_dropped": 1, "frames_dropped": 56, "queue_size": 100, "ts": "2026-08-17T14:39:55"}
+{"level": "EVENT", "camera_id": 3, "frame": 100, "detections": [{"label": "car", "confidence": 0.77, "bbox": [104, 558, 236, 617]}, {"label": "bench", "confidence": 0.76, "bbox": [631, 655, 810, 720]}, {"label": "car", "confidence": 0.43, "bbox": [276, 548, 355, 589]}, {"label": "traffic light", "confidence": 0.32, "bbox": [44, 423, 63, 482]}], "worker": 1, "ts": "2026-08-17T14:39:55"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 80, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:55"}
+{"level": "METRIC", "camera_id": 4, "frame": 80, "worker": 1, "processing_lag_sec": 50.111, "ts": "2026-08-17T14:39:55"}
+{"level": "METRIC", "camera_id": 2, "frame": 475, "frame_dropped": 1, "frames_dropped": 57, "queue_size": 100, "ts": "2026-08-17T14:39:56"}
+{"level": "EVENT", "camera_id": 4, "frame": 80, "detections": [{"label": "train", "confidence": 0.4, "bbox": [248, 889, 720, 1115]}, {"label": "train", "confidence": 0.31, "bbox": [36, 881, 720, 1117]}], "worker": 1, "ts": "2026-08-17T14:39:56"}
+{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 105, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:56"}
+{"level": "METRIC", "camera_id": 3, "frame": 105, "worker": 1, "processing_lag_sec": 50.958, "ts": "2026-08-17T14:39:56"}
+{"level": "EVENT", "camera_id": 3, "frame": 105, "detections": [{"label": "bench", "confidence": 0.73, "bbox": [633, 656, 812, 720]}, {"label": "car", "confidence": 0.71, "bbox": [85, 558, 225, 628]}, {"label": "bus", "confidence": 0.64, "bbox": [0, 509, 212, 641]}, {"label": "car", "confidence": 0.49, "bbox": [261, 550, 348, 591]}], "worker": 1, "ts": "2026-08-17T14:39:56"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 10, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:56"}
+{"level": "METRIC", "camera_id": 2, "frame": 10, "worker": 1, "processing_lag_sec": 51.467, "ts": "2026-08-17T14:39:56"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 85, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:57"}
+{"level": "METRIC", "camera_id": 4, "frame": 85, "worker": 1, "processing_lag_sec": 51.986, "ts": "2026-08-17T14:39:57"}
+{"level": "METRIC", "camera_id": 2, "frame": 495, "frame_dropped": 1, "frames_dropped": 58, "queue_size": 100, "ts": "2026-08-17T14:39:57"}
+{"level": "EVENT", "camera_id": 4, "frame": 85, "detections": [{"label": "train", "confidence": 0.7, "bbox": [243, 897, 720, 1121]}], "worker": 1, "ts": "2026-08-17T14:39:57"}
+{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 110, "queue_size": 99, "queue_capacity": 100, "queue_fullness": 0.99, "ts": "2026-08-17T14:39:57"}
+{"level": "METRIC", "camera_id": 3, "frame": 110, "worker": 1, "processing_lag_sec": 52.532, "ts": "2026-08-17T14:39:57"}
+{"level": "METRIC", "camera_id": 2, "frames_pushed": 42, "frames_dropped": 58, "total_sampled": 100, "frame_drop_rate": 0.58, "ts": "2026-08-17T14:39:58"}
+{"level": "EVENT", "camera_id": 3, "frame": 110, "detections": [{"label": "bench", "confidence": 0.63, "bbox": [634, 657, 813, 720]}, {"label": "car", "confidence": 0.61, "bbox": [65, 558, 212, 630]}, {"label": "bus", "confidence": 0.46, "bbox": [0, 509, 192, 637]}, {"label": "car", "confidence": 0.45, "bbox": [249, 552, 342, 592]}], "worker": 1, "ts": "2026-08-17T14:39:58"}
+{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 115, "queue_size": 98, "queue_capacity": 100, "queue_fullness": 0.98, "ts": "2026-08-17T14:39:58"}
+{"level": "METRIC", "camera_id": 3, "frame": 115, "worker": 1, "processing_lag_sec": 52.879, "ts": "2026-08-17T14:39:58"}
+{"level": "EVENT", "camera_id": 3, "frame": 115, "detections": [{"label": "car", "confidence": 0.61, "bbox": [42, 559, 197, 636]}, {"label": "bench", "confidence": 0.52, "bbox": [637, 660, 818, 720]}, {"label": "car", "confidence": 0.38, "bbox": [235, 552, 341, 594]}], "worker": 1, "ts": "2026-08-17T14:39:58"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 90, "queue_size": 97, "queue_capacity": 100, "queue_fullness": 0.97, "ts": "2026-08-17T14:39:58"}
+{"level": "METRIC", "camera_id": 4, "frame": 90, "worker": 1, "processing_lag_sec": 53.26, "ts": "2026-08-17T14:39:58"}
+{"level": "EVENT", "camera_id": 4, "frame": 90, "detections": [{"label": "train", "confidence": 0.7, "bbox": [208, 899, 720, 1124]}], "worker": 1, "ts": "2026-08-17T14:39:59"}
+{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 120, "queue_size": 96, "queue_capacity": 100, "queue_fullness": 0.96, "ts": "2026-08-17T14:39:59"}
+{"level": "METRIC", "camera_id": 3, "frame": 120, "worker": 1, "processing_lag_sec": 53.541, "ts": "2026-08-17T14:39:59"}
+{"level": "EVENT", "camera_id": 3, "frame": 120, "detections": [{"label": "bench", "confidence": 0.73, "bbox": [638, 662, 817, 720]}, {"label": "car", "confidence": 0.67, "bbox": [17, 561, 180, 639]}, {"label": "car", "confidence": 0.41, "bbox": [218, 553, 313, 602]}], "worker": 1, "ts": "2026-08-17T14:39:59"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 95, "queue_size": 95, "queue_capacity": 100, "queue_fullness": 0.95, "ts": "2026-08-17T14:39:59"}
+{"level": "METRIC", "camera_id": 4, "frame": 95, "worker": 1, "processing_lag_sec": 53.83, "ts": "2026-08-17T14:39:59"}
+{"level": "EVENT", "camera_id": 4, "frame": 95, "detections": [{"label": "train", "confidence": 0.82, "bbox": [186, 901, 719, 1132]}], "worker": 1, "ts": "2026-08-17T14:39:59"}
+{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 125, "queue_size": 94, "queue_capacity": 100, "queue_fullness": 0.94, "ts": "2026-08-17T14:39:59"}
+{"level": "METRIC", "camera_id": 3, "frame": 125, "worker": 1, "processing_lag_sec": 54.189, "ts": "2026-08-17T14:39:59"}
+{"level": "EVENT", "camera_id": 3, "frame": 125, "detections": [{"label": "car", "confidence": 0.62, "bbox": [0, 563, 162, 642]}, {"label": "car", "confidence": 0.46, "bbox": [205, 555, 303, 604]}, {"label": "bench", "confidence": 0.31, "bbox": [637, 664, 818, 719]}], "worker": 1, "ts": "2026-08-17T14:40:00"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 100, "queue_size": 93, "queue_capacity": 100, "queue_fullness": 0.93, "ts": "2026-08-17T14:40:00"}
+{"level": "METRIC", "camera_id": 4, "frame": 100, "worker": 1, "processing_lag_sec": 54.71, "ts": "2026-08-17T14:40:00"}
+{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 130, "queue_size": 92, "queue_capacity": 100, "queue_fullness": 0.92, "ts": "2026-08-17T14:40:00"}
+{"level": "METRIC", "camera_id": 3, "frame": 130, "worker": 1, "processing_lag_sec": 55.025, "ts": "2026-08-17T14:40:00"}
+{"level": "EVENT", "camera_id": 3, "frame": 130, "detections": [{"label": "car", "confidence": 0.6, "bbox": [0, 568, 136, 648]}, {"label": "car", "confidence": 0.52, "bbox": [185, 559, 292, 613]}], "worker": 1, "ts": "2026-08-17T14:40:01"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 105, "queue_size": 91, "queue_capacity": 100, "queue_fullness": 0.91, "ts": "2026-08-17T14:40:01"}
+{"level": "METRIC", "camera_id": 4, "frame": 105, "worker": 1, "processing_lag_sec": 55.493, "ts": "2026-08-17T14:40:01"}
+{"level": "METRIC", "worker": 1, "camera_id": 1, "frame": 10, "queue_size": 90, "queue_capacity": 100, "queue_fullness": 0.9, "ts": "2026-08-17T14:40:01"}
+{"level": "METRIC", "camera_id": 1, "frame": 10, "worker": 1, "processing_lag_sec": 55.955, "ts": "2026-08-17T14:40:01"}
+{"level": "EVENT", "camera_id": 1, "frame": 10, "detections": [{"label": "person", "confidence": 0.85, "bbox": [0, 1592, 294, 2654]}, {"label": "person", "confidence": 0.84, "bbox": [1154, 1656, 1390, 2394]}, {"label": "person", "confidence": 0.83, "bbox": [1747, 1700, 1931, 2130]}, {"label": "person", "confidence": 0.8, "bbox": [335, 1666, 703, 2758]}, {"label": "person", "confidence": 0.77, "bbox": [695, 1703, 850, 2097]}, {"label": "person", "confidence": 0.73, "bbox": [874, 1723, 1008, 2138]}, {"label": "person", "confidence": 0.69, "bbox": [998, 1727, 1188, 2375]}, {"label": "backpack", "confidence": 0.57, "bbox": [1013, 1822, 1161, 2045]}, {"label": "person", "confidence": 0.39, "bbox": [256, 1709, 344, 1973]}, {"label": "handbag", "confidence": 0.36, "bbox": [666, 1910, 735, 2040]}, {"label": "person", "confidence": 0.36, "bbox": [1892, 1689, 1962, 1841]}, {"label": "person", "confidence": 0.31, "bbox": [349, 1701, 469, 2114]}, {"label": "backpack", "confidence": 0.31, "bbox": [1215, 1777, 1341, 2041]}], "worker": 1, "ts": "2026-08-17T14:40:02"}
+{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 135, "queue_size": 89, "queue_capacity": 100, "queue_fullness": 0.89, "ts": "2026-08-17T14:40:02"}
+{"level": "METRIC", "camera_id": 3, "frame": 135, "worker": 1, "processing_lag_sec": 56.406, "ts": "2026-08-17T14:40:02"}
+{"level": "EVENT", "camera_id": 3, "frame": 135, "detections": [{"label": "car", "confidence": 0.68, "bbox": [0, 570, 114, 653]}, {"label": "car", "confidence": 0.54, "bbox": [169, 563, 277, 617]}, {"label": "bench", "confidence": 0.43, "bbox": [638, 668, 742, 719]}], "worker": 1, "ts": "2026-08-17T14:40:02"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 110, "queue_size": 88, "queue_capacity": 100, "queue_fullness": 0.88, "ts": "2026-08-17T14:40:02"}
+{"level": "METRIC", "camera_id": 4, "frame": 110, "worker": 1, "processing_lag_sec": 56.727, "ts": "2026-08-17T14:40:02"}
+{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 140, "queue_size": 87, "queue_capacity": 100, "queue_fullness": 0.87, "ts": "2026-08-17T14:40:03"}
+{"level": "METRIC", "camera_id": 3, "frame": 140, "worker": 1, "processing_lag_sec": 57.143, "ts": "2026-08-17T14:40:03"}
+{"level": "EVENT", "camera_id": 3, "frame": 140, "detections": [{"label": "car", "confidence": 0.64, "bbox": [0, 576, 94, 653]}, {"label": "car", "confidence": 0.56, "bbox": [148, 567, 270, 623]}, {"label": "bench", "confidence": 0.37, "bbox": [639, 672, 744, 719]}], "worker": 1, "ts": "2026-08-17T14:40:03"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 115, "queue_size": 86, "queue_capacity": 100, "queue_fullness": 0.86, "ts": "2026-08-17T14:40:03"}
+{"level": "METRIC", "camera_id": 4, "frame": 115, "worker": 1, "processing_lag_sec": 57.4, "ts": "2026-08-17T14:40:03"}
+{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 145, "queue_size": 85, "queue_capacity": 100, "queue_fullness": 0.85, "ts": "2026-08-17T14:40:03"}
+{"level": "METRIC", "camera_id": 3, "frame": 145, "worker": 1, "processing_lag_sec": 57.711, "ts": "2026-08-17T14:40:03"}
+{"level": "EVENT", "camera_id": 3, "frame": 145, "detections": [{"label": "car", "confidence": 0.72, "bbox": [130, 570, 258, 633]}, {"label": "car", "confidence": 0.66, "bbox": [0, 581, 63, 666]}, {"label": "bench", "confidence": 0.38, "bbox": [642, 675, 742, 720]}], "worker": 1, "ts": "2026-08-17T14:40:04"}
+{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 150, "queue_size": 84, "queue_capacity": 100, "queue_fullness": 0.84, "ts": "2026-08-17T14:40:04"}
+{"level": "METRIC", "camera_id": 3, "frame": 150, "worker": 1, "processing_lag_sec": 57.921, "ts": "2026-08-17T14:40:04"}
+{"level": "EVENT", "camera_id": 3, "frame": 150, "detections": [{"label": "car", "confidence": 0.82, "bbox": [109, 575, 246, 648]}, {"label": "car", "confidence": 0.62, "bbox": [0, 578, 41, 664]}], "worker": 1, "ts": "2026-08-17T14:40:04"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 120, "queue_size": 83, "queue_capacity": 100, "queue_fullness": 0.83, "ts": "2026-08-17T14:40:04"}
+{"level": "METRIC", "camera_id": 4, "frame": 120, "worker": 1, "processing_lag_sec": 58.205, "ts": "2026-08-17T14:40:04"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 15, "queue_size": 82, "queue_capacity": 100, "queue_fullness": 0.82, "ts": "2026-08-17T14:40:04"}
+{"level": "METRIC", "camera_id": 2, "frame": 15, "worker": 1, "processing_lag_sec": 58.42, "ts": "2026-08-17T14:40:04"}
+{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 155, "queue_size": 81, "queue_capacity": 100, "queue_fullness": 0.81, "ts": "2026-08-17T14:40:05"}
+{"level": "METRIC", "camera_id": 3, "frame": 155, "worker": 1, "processing_lag_sec": 58.874, "ts": "2026-08-17T14:40:05"}
+{"level": "EVENT", "camera_id": 3, "frame": 155, "detections": [{"label": "car", "confidence": 0.77, "bbox": [89, 579, 233, 648]}, {"label": "person", "confidence": 0.68, "bbox": [42, 577, 64, 624]}], "worker": 1, "ts": "2026-08-17T14:40:05"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 125, "queue_size": 80, "queue_capacity": 100, "queue_fullness": 0.8, "ts": "2026-08-17T14:40:05"}
+{"level": "METRIC", "camera_id": 4, "frame": 125, "worker": 1, "processing_lag_sec": 59.19, "ts": "2026-08-17T14:40:05"}
+{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 160, "queue_size": 79, "queue_capacity": 100, "queue_fullness": 0.79, "ts": "2026-08-17T14:40:05"}
+{"level": "METRIC", "camera_id": 3, "frame": 160, "worker": 1, "processing_lag_sec": 59.4, "ts": "2026-08-17T14:40:05"}
+{"level": "EVENT", "camera_id": 3, "frame": 160, "detections": [{"label": "car", "confidence": 0.76, "bbox": [66, 581, 221, 659]}, {"label": "person", "confidence": 0.58, "bbox": [51, 576, 73, 625]}], "worker": 1, "ts": "2026-08-17T14:40:06"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 130, "queue_size": 78, "queue_capacity": 100, "queue_fullness": 0.78, "ts": "2026-08-17T14:40:06"}
+{"level": "METRIC", "camera_id": 4, "frame": 130, "worker": 1, "processing_lag_sec": 59.779, "ts": "2026-08-17T14:40:06"}
+{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 165, "queue_size": 77, "queue_capacity": 100, "queue_fullness": 0.77, "ts": "2026-08-17T14:40:06"}
+{"level": "METRIC", "camera_id": 3, "frame": 165, "worker": 1, "processing_lag_sec": 59.984, "ts": "2026-08-17T14:40:06"}
+{"level": "EVENT", "camera_id": 3, "frame": 165, "detections": [{"label": "car", "confidence": 0.76, "bbox": [39, 585, 202, 665]}, {"label": "person", "confidence": 0.53, "bbox": [59, 580, 78, 611]}, {"label": "car", "confidence": 0.49, "bbox": [295, 579, 351, 614]}], "worker": 1, "ts": "2026-08-17T14:40:06"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 135, "queue_size": 76, "queue_capacity": 100, "queue_fullness": 0.76, "ts": "2026-08-17T14:40:06"}
+{"level": "METRIC", "camera_id": 4, "frame": 135, "worker": 1, "processing_lag_sec": 60.241, "ts": "2026-08-17T14:40:06"}
+{"level": "METRIC", "worker": 1, "camera_id": 3, "frame": 170, "queue_size": 75, "queue_capacity": 100, "queue_fullness": 0.75, "ts": "2026-08-17T14:40:07"}
+{"level": "METRIC", "camera_id": 3, "frame": 170, "worker": 1, "processing_lag_sec": 60.479, "ts": "2026-08-17T14:40:07"}
+{"level": "EVENT", "camera_id": 3, "frame": 170, "detections": [{"label": "car", "confidence": 0.79, "bbox": [8, 586, 184, 668]}], "worker": 1, "ts": "2026-08-17T14:40:07"}
+{"level": "METRIC", "worker": 1, "camera_id": 1, "frame": 15, "queue_size": 74, "queue_capacity": 100, "queue_fullness": 0.74, "ts": "2026-08-17T14:40:07"}
+{"level": "METRIC", "camera_id": 1, "frame": 15, "worker": 1, "processing_lag_sec": 60.572, "ts": "2026-08-17T14:40:07"}
+{"level": "EVENT", "camera_id": 1, "frame": 15, "detections": [{"label": "person", "confidence": 0.88, "bbox": [1, 1570, 322, 2700]}, {"label": "person", "confidence": 0.85, "bbox": [359, 1654, 715, 2679]}, {"label": "person", "confidence": 0.84, "bbox": [1169, 1646, 1400, 2359]}, {"label": "person", "confidence": 0.8, "bbox": [1754, 1684, 1947, 2131]}, {"label": "person", "confidence": 0.74, "bbox": [872, 1707, 1009, 2156]}, {"label": "person", "confidence": 0.69, "bbox": [690, 1701, 841, 2100]}, {"label": "person", "confidence": 0.67, "bbox": [1008, 1699, 1197, 2352]}, {"label": "person", "confidence": 0.56, "bbox": [1903, 1690, 1974, 1947]}, {"label": "backpack", "confidence": 0.51, "bbox": [1028, 1798, 1175, 2023]}, {"label": "backpack", "confidence": 0.47, "bbox": [1217, 1789, 1346, 2028]}, {"label": "person", "confidence": 0.41, "bbox": [1691, 1700, 1757, 1851]}, {"label": "backpack", "confidence": 0.35, "bbox": [1201, 1748, 1385, 2029]}, {"label": "person", "confidence": 0.31, "bbox": [224, 1706, 321, 1982]}], "worker": 1, "ts": "2026-08-17T14:40:07"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 140, "queue_size": 73, "queue_capacity": 100, "queue_fullness": 0.73, "ts": "2026-08-17T14:40:07"}
+{"level": "METRIC", "camera_id": 4, "frame": 140, "worker": 1, "processing_lag_sec": 60.944, "ts": "2026-08-17T14:40:07"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 145, "queue_size": 72, "queue_capacity": 100, "queue_fullness": 0.72, "ts": "2026-08-17T14:40:08"}
+{"level": "METRIC", "camera_id": 4, "frame": 145, "worker": 1, "processing_lag_sec": 60.998, "ts": "2026-08-17T14:40:08"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 150, "queue_size": 71, "queue_capacity": 100, "queue_fullness": 0.71, "ts": "2026-08-17T14:40:08"}
+{"level": "METRIC", "camera_id": 4, "frame": 150, "worker": 1, "processing_lag_sec": 61.15, "ts": "2026-08-17T14:40:08"}
+{"level": "EVENT", "camera_id": 4, "frame": 150, "detections": [{"label": "bird", "confidence": 0.33, "bbox": [57, 589, 88, 608]}], "worker": 1, "ts": "2026-08-17T14:40:08"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 20, "queue_size": 70, "queue_capacity": 100, "queue_fullness": 0.7, "ts": "2026-08-17T14:40:08"}
+{"level": "METRIC", "camera_id": 2, "frame": 20, "worker": 1, "processing_lag_sec": 61.422, "ts": "2026-08-17T14:40:08"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 155, "queue_size": 69, "queue_capacity": 100, "queue_fullness": 0.69, "ts": "2026-08-17T14:40:09"}
+{"level": "METRIC", "camera_id": 4, "frame": 155, "worker": 1, "processing_lag_sec": 61.624, "ts": "2026-08-17T14:40:09"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 160, "queue_size": 68, "queue_capacity": 100, "queue_fullness": 0.68, "ts": "2026-08-17T14:40:09"}
+{"level": "METRIC", "camera_id": 4, "frame": 160, "worker": 1, "processing_lag_sec": 61.763, "ts": "2026-08-17T14:40:09"}
+{"level": "METRIC", "worker": 1, "camera_id": 1, "frame": 20, "queue_size": 67, "queue_capacity": 100, "queue_fullness": 0.67, "ts": "2026-08-17T14:40:09"}
+{"level": "METRIC", "camera_id": 1, "frame": 20, "worker": 1, "processing_lag_sec": 61.954, "ts": "2026-08-17T14:40:09"}
+{"level": "EVENT", "camera_id": 1, "frame": 20, "detections": [{"label": "person", "confidence": 0.88, "bbox": [2, 1599, 376, 2782]}, {"label": "person", "confidence": 0.87, "bbox": [393, 1639, 750, 2647]}, {"label": "person", "confidence": 0.84, "bbox": [1182, 1663, 1409, 2401]}, {"label": "person", "confidence": 0.78, "bbox": [1782, 1689, 1971, 2139]}, {"label": "person", "confidence": 0.75, "bbox": [870, 1706, 1017, 2148]}, {"label": "person", "confidence": 0.75, "bbox": [682, 1695, 838, 2092]}, {"label": "person", "confidence": 0.7, "bbox": [1010, 1730, 1200, 2375]}, {"label": "backpack", "confidence": 0.58, "bbox": [1034, 1821, 1186, 2038]}, {"label": "backpack", "confidence": 0.54, "bbox": [1229, 1792, 1362, 2046]}, {"label": "person", "confidence": 0.44, "bbox": [1923, 1693, 1999, 1954]}, {"label": "person", "confidence": 0.44, "bbox": [356, 1676, 473, 1968]}], "worker": 1, "ts": "2026-08-17T14:40:10"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 165, "queue_size": 66, "queue_capacity": 100, "queue_fullness": 0.66, "ts": "2026-08-17T14:40:10"}
+{"level": "METRIC", "camera_id": 4, "frame": 165, "worker": 1, "processing_lag_sec": 62.443, "ts": "2026-08-17T14:40:10"}
+{"level": "EVENT", "camera_id": 4, "frame": 165, "detections": [{"label": "umbrella", "confidence": 0.31, "bbox": [656, 788, 717, 815]}], "worker": 1, "ts": "2026-08-17T14:40:10"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 170, "queue_size": 65, "queue_capacity": 100, "queue_fullness": 0.65, "ts": "2026-08-17T14:40:10"}
+{"level": "METRIC", "camera_id": 4, "frame": 170, "worker": 1, "processing_lag_sec": 62.6, "ts": "2026-08-17T14:40:10"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 175, "queue_size": 64, "queue_capacity": 100, "queue_fullness": 0.64, "ts": "2026-08-17T14:40:10"}
+{"level": "METRIC", "camera_id": 4, "frame": 175, "worker": 1, "processing_lag_sec": 62.742, "ts": "2026-08-17T14:40:10"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 180, "queue_size": 63, "queue_capacity": 100, "queue_fullness": 0.63, "ts": "2026-08-17T14:40:11"}
+{"level": "METRIC", "camera_id": 4, "frame": 180, "worker": 1, "processing_lag_sec": 62.824, "ts": "2026-08-17T14:40:11"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 25, "queue_size": 62, "queue_capacity": 100, "queue_fullness": 0.62, "ts": "2026-08-17T14:40:11"}
+{"level": "METRIC", "camera_id": 2, "frame": 25, "worker": 1, "processing_lag_sec": 63.039, "ts": "2026-08-17T14:40:11"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 185, "queue_size": 61, "queue_capacity": 100, "queue_fullness": 0.61, "ts": "2026-08-17T14:40:11"}
+{"level": "METRIC", "camera_id": 4, "frame": 185, "worker": 1, "processing_lag_sec": 63.409, "ts": "2026-08-17T14:40:11"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 190, "queue_size": 60, "queue_capacity": 100, "queue_fullness": 0.6, "ts": "2026-08-17T14:40:12"}
+{"level": "METRIC", "camera_id": 4, "frame": 190, "worker": 1, "processing_lag_sec": 63.583, "ts": "2026-08-17T14:40:12"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 195, "queue_size": 59, "queue_capacity": 100, "queue_fullness": 0.59, "ts": "2026-08-17T14:40:12"}
+{"level": "METRIC", "camera_id": 4, "frame": 195, "worker": 1, "processing_lag_sec": 63.713, "ts": "2026-08-17T14:40:12"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 200, "queue_size": 58, "queue_capacity": 100, "queue_fullness": 0.58, "ts": "2026-08-17T14:40:12"}
+{"level": "METRIC", "camera_id": 4, "frame": 200, "worker": 1, "processing_lag_sec": 63.835, "ts": "2026-08-17T14:40:12"}
+{"level": "METRIC", "worker": 1, "camera_id": 1, "frame": 25, "queue_size": 57, "queue_capacity": 100, "queue_fullness": 0.57, "ts": "2026-08-17T14:40:12"}
+{"level": "METRIC", "camera_id": 1, "frame": 25, "worker": 1, "processing_lag_sec": 63.959, "ts": "2026-08-17T14:40:12"}
+{"level": "EVENT", "camera_id": 1, "frame": 25, "detections": [{"label": "person", "confidence": 0.88, "bbox": [1, 1609, 386, 2781]}, {"label": "person", "confidence": 0.85, "bbox": [400, 1657, 760, 2712]}, {"label": "person", "confidence": 0.85, "bbox": [1199, 1663, 1425, 2402]}, {"label": "person", "confidence": 0.79, "bbox": [1784, 1685, 1997, 2128]}, {"label": "person", "confidence": 0.73, "bbox": [862, 1710, 1010, 2149]}, {"label": "person", "confidence": 0.72, "bbox": [1008, 1735, 1202, 2384]}, {"label": "person", "confidence": 0.62, "bbox": [680, 1696, 825, 2084]}, {"label": "backpack", "confidence": 0.59, "bbox": [1022, 1827, 1176, 2043]}, {"label": "backpack", "confidence": 0.52, "bbox": [1247, 1800, 1381, 2054]}, {"label": "person", "confidence": 0.5, "bbox": [349, 1708, 460, 2076]}, {"label": "person", "confidence": 0.45, "bbox": [1945, 1696, 2031, 1956]}, {"label": "backpack", "confidence": 0.41, "bbox": [1053, 1847, 1156, 2042]}, {"label": "backpack", "confidence": 0.37, "bbox": [1229, 1776, 1402, 2047]}], "worker": 1, "ts": "2026-08-17T14:40:13"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 205, "queue_size": 56, "queue_capacity": 100, "queue_fullness": 0.56, "ts": "2026-08-17T14:40:13"}
+{"level": "METRIC", "camera_id": 4, "frame": 205, "worker": 1, "processing_lag_sec": 64.302, "ts": "2026-08-17T14:40:13"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 210, "queue_size": 55, "queue_capacity": 100, "queue_fullness": 0.55, "ts": "2026-08-17T14:40:13"}
+{"level": "METRIC", "camera_id": 4, "frame": 210, "worker": 1, "processing_lag_sec": 64.438, "ts": "2026-08-17T14:40:13"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 30, "queue_size": 54, "queue_capacity": 100, "queue_fullness": 0.54, "ts": "2026-08-17T14:40:13"}
+{"level": "METRIC", "camera_id": 2, "frame": 30, "worker": 1, "processing_lag_sec": 64.631, "ts": "2026-08-17T14:40:13"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 215, "queue_size": 53, "queue_capacity": 100, "queue_fullness": 0.53, "ts": "2026-08-17T14:40:14"}
+{"level": "METRIC", "camera_id": 4, "frame": 215, "worker": 1, "processing_lag_sec": 64.901, "ts": "2026-08-17T14:40:14"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 220, "queue_size": 52, "queue_capacity": 100, "queue_fullness": 0.52, "ts": "2026-08-17T14:40:14"}
+{"level": "METRIC", "camera_id": 4, "frame": 220, "worker": 1, "processing_lag_sec": 65.041, "ts": "2026-08-17T14:40:14"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 225, "queue_size": 51, "queue_capacity": 100, "queue_fullness": 0.51, "ts": "2026-08-17T14:40:14"}
+{"level": "METRIC", "camera_id": 4, "frame": 225, "worker": 1, "processing_lag_sec": 65.23, "ts": "2026-08-17T14:40:14"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 230, "queue_size": 50, "queue_capacity": 100, "queue_fullness": 0.5, "ts": "2026-08-17T14:40:15"}
+{"level": "METRIC", "camera_id": 4, "frame": 230, "worker": 1, "processing_lag_sec": 65.336, "ts": "2026-08-17T14:40:15"}
+{"level": "METRIC", "worker": 1, "camera_id": 1, "frame": 30, "queue_size": 49, "queue_capacity": 100, "queue_fullness": 0.49, "ts": "2026-08-17T14:40:15"}
+{"level": "METRIC", "camera_id": 1, "frame": 30, "worker": 1, "processing_lag_sec": 65.515, "ts": "2026-08-17T14:40:15"}
+{"level": "EVENT", "camera_id": 1, "frame": 30, "detections": [{"label": "person", "confidence": 0.89, "bbox": [2, 1572, 323, 2664]}, {"label": "person", "confidence": 0.87, "bbox": [1203, 1645, 1435, 2387]}, {"label": "person", "confidence": 0.86, "bbox": [1835, 1683, 2014, 2132]}, {"label": "person", "confidence": 0.85, "bbox": [396, 1649, 757, 2721]}, {"label": "person", "confidence": 0.77, "bbox": [1003, 1707, 1201, 2338]}, {"label": "person", "confidence": 0.74, "bbox": [854, 1701, 1004, 2153]}, {"label": "person", "confidence": 0.65, "bbox": [1974, 1685, 2062, 1951]}, {"label": "person", "confidence": 0.62, "bbox": [676, 1696, 824, 2082]}, {"label": "backpack", "confidence": 0.52, "bbox": [1010, 1803, 1165, 2008]}, {"label": "backpack", "confidence": 0.47, "bbox": [1243, 1749, 1403, 2030]}, {"label": "person", "confidence": 0.42, "bbox": [327, 1725, 434, 2090]}, {"label": "person", "confidence": 0.42, "bbox": [320, 1726, 401, 2066]}], "worker": 1, "ts": "2026-08-17T14:40:15"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 235, "queue_size": 48, "queue_capacity": 100, "queue_fullness": 0.48, "ts": "2026-08-17T14:40:15"}
+{"level": "METRIC", "camera_id": 4, "frame": 235, "worker": 1, "processing_lag_sec": 65.793, "ts": "2026-08-17T14:40:15"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 240, "queue_size": 47, "queue_capacity": 100, "queue_fullness": 0.47, "ts": "2026-08-17T14:40:15"}
+{"level": "METRIC", "camera_id": 4, "frame": 240, "worker": 1, "processing_lag_sec": 65.942, "ts": "2026-08-17T14:40:15"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 35, "queue_size": 46, "queue_capacity": 100, "queue_fullness": 0.46, "ts": "2026-08-17T14:40:16"}
+{"level": "METRIC", "camera_id": 2, "frame": 35, "worker": 1, "processing_lag_sec": 66.179, "ts": "2026-08-17T14:40:16"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 245, "queue_size": 45, "queue_capacity": 100, "queue_fullness": 0.45, "ts": "2026-08-17T14:40:16"}
+{"level": "METRIC", "camera_id": 4, "frame": 245, "worker": 1, "processing_lag_sec": 66.471, "ts": "2026-08-17T14:40:16"}
+{"level": "METRIC", "worker": 1, "camera_id": 4, "frame": 250, "queue_size": 44, "queue_capacity": 100, "queue_fullness": 0.44, "ts": "2026-08-17T14:40:16"}
+{"level": "METRIC", "camera_id": 4, "frame": 250, "worker": 1, "processing_lag_sec": 66.629, "ts": "2026-08-17T14:40:16"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 135, "queue_size": 43, "queue_capacity": 100, "queue_fullness": 0.43, "ts": "2026-08-17T14:40:17"}
+{"level": "METRIC", "camera_id": 2, "frame": 135, "worker": 1, "processing_lag_sec": 54.665, "ts": "2026-08-17T14:40:17"}
+{"level": "METRIC", "worker": 1, "camera_id": 1, "frame": 140, "queue_size": 42, "queue_capacity": 100, "queue_fullness": 0.42, "ts": "2026-08-17T14:40:17"}
+{"level": "METRIC", "camera_id": 1, "frame": 140, "worker": 1, "processing_lag_sec": 54.016, "ts": "2026-08-17T14:40:17"}
+{"level": "EVENT", "camera_id": 1, "frame": 140, "detections": [{"label": "person", "confidence": 0.86, "bbox": [1372, 1582, 1603, 2353]}, {"label": "person", "confidence": 0.84, "bbox": [503, 1610, 792, 2508]}, {"label": "person", "confidence": 0.81, "bbox": [203, 1555, 568, 2590]}, {"label": "person", "confidence": 0.76, "bbox": [1231, 1645, 1395, 2296]}, {"label": "person", "confidence": 0.7, "bbox": [929, 1654, 1104, 2237]}, {"label": "person", "confidence": 0.69, "bbox": [83, 1629, 284, 2406]}, {"label": "person", "confidence": 0.66, "bbox": [1073, 1639, 1192, 2038]}, {"label": "person", "confidence": 0.63, "bbox": [1, 1615, 112, 2342]}, {"label": "person", "confidence": 0.54, "bbox": [869, 1653, 982, 2041]}, {"label": "backpack", "confidence": 0.53, "bbox": [1431, 1705, 1593, 1977]}, {"label": "person", "confidence": 0.43, "bbox": [1607, 1663, 1661, 1791]}, {"label": "dog", "confidence": 0.4, "bbox": [731, 2087, 859, 2328]}, {"label": "person", "confidence": 0.4, "bbox": [794, 1660, 873, 1886]}, {"label": "person", "confidence": 0.4, "bbox": [1183, 1658, 1280, 1990]}, {"label": "handbag", "confidence": 0.37, "bbox": [200, 1895, 272, 2050]}], "worker": 1, "ts": "2026-08-17T14:40:18"}
+{"level": "METRIC", "worker": 1, "camera_id": 1, "frame": 145, "queue_size": 41, "queue_capacity": 100, "queue_fullness": 0.41, "ts": "2026-08-17T14:40:18"}
+{"level": "METRIC", "camera_id": 1, "frame": 145, "worker": 1, "processing_lag_sec": 53.945, "ts": "2026-08-17T14:40:18"}
+{"level": "EVENT", "camera_id": 1, "frame": 145, "detections": [{"label": "person", "confidence": 0.83, "bbox": [219, 1549, 538, 2579]}, {"label": "person", "confidence": 0.82, "bbox": [1371, 1602, 1607, 2398]}, {"label": "person", "confidence": 0.82, "bbox": [2, 1621, 279, 2492]}, {"label": "person", "confidence": 0.79, "bbox": [507, 1610, 787, 2470]}, {"label": "backpack", "confidence": 0.69, "bbox": [1422, 1717, 1580, 1998]}, {"label": "handbag", "confidence": 0.68, "bbox": [82, 1879, 269, 2090]}, {"label": "person", "confidence": 0.68, "bbox": [1223, 1664, 1392, 2289]}, {"label": "person", "confidence": 0.68, "bbox": [921, 1664, 1099, 2254]}, {"label": "person", "confidence": 0.64, "bbox": [1073, 1642, 1191, 2023]}, {"label": "person", "confidence": 0.53, "bbox": [787, 1657, 871, 1898]}, {"label": "person", "confidence": 0.53, "bbox": [866, 1662, 988, 2018]}, {"label": "person", "confidence": 0.48, "bbox": [2038, 1617, 2100, 1797]}, {"label": "person", "confidence": 0.43, "bbox": [1605, 1674, 1663, 1795]}, {"label": "person", "confidence": 0.36, "bbox": [2103, 1617, 2157, 1795]}, {"label": "handbag", "confidence": 0.35, "bbox": [82, 1760, 267, 2096]}, {"label": "backpack", "confidence": 0.33, "bbox": [1259, 1770, 1379, 1981]}, {"label": "person", "confidence": 0.32, "bbox": [1183, 1655, 1241, 2000]}, {"label": "person", "confidence": 0.32, "bbox": [1188, 1664, 1292, 1994]}], "worker": 1, "ts": "2026-08-17T14:40:18"}
+{"level": "METRIC", "worker": 1, "camera_id": 1, "frame": 155, "queue_size": 40, "queue_capacity": 100, "queue_fullness": 0.4, "ts": "2026-08-17T14:40:18"}
+{"level": "METRIC", "camera_id": 1, "frame": 155, "worker": 1, "processing_lag_sec": 53.235, "ts": "2026-08-17T14:40:18"}
+{"level": "EVENT", "camera_id": 1, "frame": 155, "detections": [{"label": "person", "confidence": 0.89, "bbox": [182, 1553, 544, 2594]}, {"label": "person", "confidence": 0.83, "bbox": [1362, 1583, 1609, 2365]}, {"label": "person", "confidence": 0.78, "bbox": [483, 1600, 768, 2500]}, {"label": "person", "confidence": 0.75, "bbox": [1213, 1646, 1393, 2290]}, {"label": "person", "confidence": 0.73, "bbox": [914, 1649, 1107, 2246]}, {"label": "person", "confidence": 0.68, "bbox": [1097, 1646, 1228, 2025]}, {"label": "person", "confidence": 0.62, "bbox": [847, 1654, 972, 2035]}, {"label": "person", "confidence": 0.52, "bbox": [771, 1668, 860, 1902]}, {"label": "backpack", "confidence": 0.47, "bbox": [1434, 1714, 1573, 1981]}, {"label": "handbag", "confidence": 0.47, "bbox": [2, 1942, 115, 2115]}, {"label": "person", "confidence": 0.45, "bbox": [1557, 1687, 1690, 2113]}, {"label": "person", "confidence": 0.39, "bbox": [624, 1644, 781, 2089]}, {"label": "backpack", "confidence": 0.37, "bbox": [1247, 1764, 1372, 1965]}, {"label": "person", "confidence": 0.31, "bbox": [2030, 1621, 2099, 1799]}, {"label": "person", "confidence": 0.3, "bbox": [1, 1763, 116, 2264]}], "worker": 1, "ts": "2026-08-17T14:40:19"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 165, "queue_size": 39, "queue_capacity": 100, "queue_fullness": 0.39, "ts": "2026-08-17T14:40:19"}
+{"level": "METRIC", "camera_id": 2, "frame": 165, "worker": 1, "processing_lag_sec": 53.051, "ts": "2026-08-17T14:40:19"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 175, "queue_size": 38, "queue_capacity": 100, "queue_fullness": 0.38, "ts": "2026-08-17T14:40:19"}
+{"level": "METRIC", "camera_id": 2, "frame": 175, "worker": 1, "processing_lag_sec": 52.071, "ts": "2026-08-17T14:40:19"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 185, "queue_size": 37, "queue_capacity": 100, "queue_fullness": 0.37, "ts": "2026-08-17T14:40:19"}
+{"level": "METRIC", "camera_id": 2, "frame": 185, "worker": 1, "processing_lag_sec": 51.28, "ts": "2026-08-17T14:40:19"}
+{"level": "METRIC", "worker": 1, "camera_id": 1, "frame": 190, "queue_size": 36, "queue_capacity": 100, "queue_fullness": 0.36, "ts": "2026-08-17T14:40:20"}
+{"level": "METRIC", "camera_id": 1, "frame": 190, "worker": 1, "processing_lag_sec": 49.977, "ts": "2026-08-17T14:40:20"}
+{"level": "EVENT", "camera_id": 1, "frame": 190, "detections": [{"label": "person", "confidence": 0.88, "bbox": [0, 1590, 414, 2597]}, {"label": "person", "confidence": 0.82, "bbox": [1387, 1606, 1635, 2383]}, {"label": "person", "confidence": 0.8, "bbox": [897, 1676, 1111, 2348]}, {"label": "person", "confidence": 0.76, "bbox": [400, 1640, 697, 2502]}, {"label": "person", "confidence": 0.75, "bbox": [1251, 1682, 1418, 2333]}, {"label": "person", "confidence": 0.68, "bbox": [1639, 1656, 1917, 2440]}, {"label": "person", "confidence": 0.65, "bbox": [1872, 1689, 2134, 2454]}, {"label": "person", "confidence": 0.61, "bbox": [811, 1674, 937, 2076]}, {"label": "person", "confidence": 0.58, "bbox": [585, 1663, 735, 2152]}, {"label": "person", "confidence": 0.58, "bbox": [761, 1678, 836, 1925]}, {"label": "person", "confidence": 0.57, "bbox": [1194, 1662, 1309, 2066]}, {"label": "backpack", "confidence": 0.51, "bbox": [1427, 1727, 1596, 2010]}, {"label": "person", "confidence": 0.45, "bbox": [265, 1653, 416, 2154]}, {"label": "handbag", "confidence": 0.37, "bbox": [1635, 2002, 1730, 2153]}, {"label": "person", "confidence": 0.35, "bbox": [2095, 1631, 2156, 1822]}, {"label": "person", "confidence": 0.31, "bbox": [1661, 1688, 1717, 1819]}], "worker": 1, "ts": "2026-08-17T14:40:20"}
+{"level": "METRIC", "worker": 1, "camera_id": 1, "frame": 200, "queue_size": 35, "queue_capacity": 100, "queue_fullness": 0.35, "ts": "2026-08-17T14:40:20"}
+{"level": "METRIC", "camera_id": 1, "frame": 200, "worker": 1, "processing_lag_sec": 48.881, "ts": "2026-08-17T14:40:20"}
+{"level": "EVENT", "camera_id": 1, "frame": 200, "detections": [{"label": "person", "confidence": 0.87, "bbox": [16, 1584, 372, 2540]}, {"label": "person", "confidence": 0.84, "bbox": [382, 1637, 660, 2448]}, {"label": "person", "confidence": 0.84, "bbox": [1442, 1634, 1679, 2428]}, {"label": "person", "confidence": 0.83, "bbox": [907, 1692, 1131, 2383]}, {"label": "person", "confidence": 0.78, "bbox": [1784, 1645, 2119, 2608]}, {"label": "person", "confidence": 0.76, "bbox": [1266, 1688, 1442, 2389]}, {"label": "person", "confidence": 0.7, "bbox": [801, 1685, 936, 2096]}, {"label": "person", "confidence": 0.64, "bbox": [564, 1673, 724, 2172]}, {"label": "person", "confidence": 0.47, "bbox": [0, 1697, 109, 2253]}, {"label": "handbag", "confidence": 0.42, "bbox": [1790, 2088, 1886, 2267]}, {"label": "person", "confidence": 0.41, "bbox": [745, 1688, 823, 1926]}, {"label": "person", "confidence": 0.39, "bbox": [1218, 1674, 1337, 2028]}, {"label": "backpack", "confidence": 0.35, "bbox": [1510, 1760, 1651, 2048]}, {"label": "person", "confidence": 0.31, "bbox": [1143, 1707, 1233, 1947]}], "worker": 1, "ts": "2026-08-17T14:40:20"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 220, "queue_size": 34, "queue_capacity": 100, "queue_fullness": 0.34, "ts": "2026-08-17T14:40:20"}
+{"level": "METRIC", "camera_id": 2, "frame": 220, "worker": 1, "processing_lag_sec": 47.833, "ts": "2026-08-17T14:40:20"}
+{"level": "METRIC", "worker": 1, "camera_id": 1, "frame": 215, "queue_size": 33, "queue_capacity": 100, "queue_fullness": 0.33, "ts": "2026-08-17T14:40:21"}
+{"level": "METRIC", "camera_id": 1, "frame": 215, "worker": 1, "processing_lag_sec": 47.256, "ts": "2026-08-17T14:40:21"}
+{"level": "EVENT", "camera_id": 1, "frame": 215, "detections": [{"label": "person", "confidence": 0.85, "bbox": [45, 1587, 374, 2501]}, {"label": "person", "confidence": 0.85, "bbox": [1498, 1615, 1786, 2457]}, {"label": "person", "confidence": 0.82, "bbox": [918, 1696, 1125, 2445]}, {"label": "person", "confidence": 0.81, "bbox": [370, 1642, 643, 2444]}, {"label": "person", "confidence": 0.81, "bbox": [1287, 1679, 1469, 2466]}, {"label": "person", "confidence": 0.76, "bbox": [771, 1678, 930, 2093]}, {"label": "person", "confidence": 0.67, "bbox": [531, 1672, 694, 2166]}, {"label": "backpack", "confidence": 0.67, "bbox": [1501, 1733, 1686, 2040]}, {"label": "handbag", "confidence": 0.64, "bbox": [2045, 2190, 2159, 2534]}, {"label": "handbag", "confidence": 0.61, "bbox": [1708, 1919, 1796, 2082]}, {"label": "person", "confidence": 0.6, "bbox": [2084, 1747, 2158, 2186]}, {"label": "person", "confidence": 0.57, "bbox": [1220, 1675, 1350, 2064]}, {"label": "person", "confidence": 0.48, "bbox": [12, 1667, 112, 2377]}, {"label": "person", "confidence": 0.41, "bbox": [2020, 1743, 2156, 2855]}, {"label": "handbag", "confidence": 0.41, "bbox": [562, 2082, 701, 2326]}, {"label": "person", "confidence": 0.35, "bbox": [2073, 1734, 2158, 2853]}, {"label": "person", "confidence": 0.35, "bbox": [321, 1717, 398, 2105]}, {"label": "person", "confidence": 0.33, "bbox": [1146, 1708, 1232, 1956]}], "worker": 1, "ts": "2026-08-17T14:40:21"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 235, "queue_size": 32, "queue_capacity": 100, "queue_fullness": 0.32, "ts": "2026-08-17T14:40:21"}
+{"level": "METRIC", "camera_id": 2, "frame": 235, "worker": 1, "processing_lag_sec": 46.674, "ts": "2026-08-17T14:40:21"}
+{"level": "EVENT", "camera_id": 2, "frame": 235, "detections": [{"label": "boat", "confidence": 0.46, "bbox": [1827, 2268, 2015, 2405]}, {"label": "train", "confidence": 0.33, "bbox": [506, 2226, 1143, 2741]}], "worker": 1, "ts": "2026-08-17T14:40:21"}
+{"level": "METRIC", "worker": 1, "camera_id": 1, "frame": 230, "queue_size": 31, "queue_capacity": 100, "queue_fullness": 0.31, "ts": "2026-08-17T14:40:21"}
+{"level": "METRIC", "camera_id": 1, "frame": 230, "worker": 1, "processing_lag_sec": 45.322, "ts": "2026-08-17T14:40:21"}
+{"level": "EVENT", "camera_id": 1, "frame": 230, "detections": [{"label": "person", "confidence": 0.9, "bbox": [53, 1598, 384, 2524]}, {"label": "person", "confidence": 0.81, "bbox": [890, 1675, 1082, 2585]}, {"label": "person", "confidence": 0.8, "bbox": [1339, 1665, 1566, 2580]}, {"label": "person", "confidence": 0.79, "bbox": [1593, 1598, 1872, 2482]}, {"label": "person", "confidence": 0.78, "bbox": [755, 1688, 897, 2089]}, {"label": "person", "confidence": 0.77, "bbox": [384, 1646, 650, 2431]}, {"label": "person", "confidence": 0.75, "bbox": [2051, 1630, 2159, 2312]}, {"label": "person", "confidence": 0.63, "bbox": [552, 1672, 708, 2172]}, {"label": "person", "confidence": 0.59, "bbox": [1209, 1677, 1342, 2089]}, {"label": "person", "confidence": 0.53, "bbox": [1150, 1707, 1230, 1962]}, {"label": "backpack", "confidence": 0.51, "bbox": [1577, 1725, 1725, 2030]}, {"label": "handbag", "confidence": 0.44, "bbox": [1761, 1840, 1880, 2103]}, {"label": "backpack", "confidence": 0.41, "bbox": [1313, 1813, 1471, 2103]}, {"label": "person", "confidence": 0.4, "bbox": [291, 1660, 408, 2116]}, {"label": "handbag", "confidence": 0.37, "bbox": [1312, 1919, 1435, 2100]}], "worker": 1, "ts": "2026-08-17T14:40:22"}
+{"level": "METRIC", "worker": 1, "camera_id": 1, "frame": 240, "queue_size": 30, "queue_capacity": 100, "queue_fullness": 0.3, "ts": "2026-08-17T14:40:22"}
+{"level": "METRIC", "camera_id": 1, "frame": 240, "worker": 1, "processing_lag_sec": 44.244, "ts": "2026-08-17T14:40:22"}
+{"level": "EVENT", "camera_id": 1, "frame": 240, "detections": [{"label": "person", "confidence": 0.87, "bbox": [789, 1685, 1143, 2696]}, {"label": "person", "confidence": 0.86, "bbox": [63, 1614, 386, 2516]}, {"label": "person", "confidence": 0.85, "bbox": [1661, 1605, 1964, 2523]}, {"label": "person", "confidence": 0.83, "bbox": [384, 1642, 656, 2445]}, {"label": "person", "confidence": 0.82, "bbox": [1390, 1680, 1668, 2694]}, {"label": "person", "confidence": 0.81, "bbox": [1913, 1625, 2158, 2315]}, {"label": "backpack", "confidence": 0.73, "bbox": [1652, 1743, 1832, 2062]}, {"label": "person", "confidence": 0.67, "bbox": [1339, 1710, 1439, 2015]}, {"label": "person", "confidence": 0.66, "bbox": [1212, 1682, 1338, 2074]}, {"label": "dog", "confidence": 0.61, "bbox": [619, 2087, 713, 2288]}, {"label": "person", "confidence": 0.55, "bbox": [753, 1689, 877, 2266]}, {"label": "person", "confidence": 0.5, "bbox": [749, 1697, 872, 2044]}, {"label": "person", "confidence": 0.46, "bbox": [1152, 1709, 1228, 1973]}, {"label": "person", "confidence": 0.45, "bbox": [551, 1683, 689, 2176]}, {"label": "handbag", "confidence": 0.42, "bbox": [11, 1959, 107, 2115]}, {"label": "person", "confidence": 0.41, "bbox": [236, 1655, 381, 2132]}, {"label": "backpack", "confidence": 0.4, "bbox": [1389, 1842, 1591, 2163]}], "worker": 1, "ts": "2026-08-17T14:40:22"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 265, "queue_size": 29, "queue_capacity": 100, "queue_fullness": 0.29, "ts": "2026-08-17T14:40:22"}
+{"level": "METRIC", "camera_id": 2, "frame": 265, "worker": 1, "processing_lag_sec": 43.99, "ts": "2026-08-17T14:40:22"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 275, "queue_size": 28, "queue_capacity": 100, "queue_fullness": 0.28, "ts": "2026-08-17T14:40:22"}
+{"level": "METRIC", "camera_id": 2, "frame": 275, "worker": 1, "processing_lag_sec": 43.267, "ts": "2026-08-17T14:40:22"}
+{"level": "METRIC", "worker": 1, "camera_id": 1, "frame": 260, "queue_size": 27, "queue_capacity": 100, "queue_fullness": 0.27, "ts": "2026-08-17T14:40:23"}
+{"level": "METRIC", "camera_id": 1, "frame": 260, "worker": 1, "processing_lag_sec": 42.776, "ts": "2026-08-17T14:40:23"}
+{"level": "EVENT", "camera_id": 1, "frame": 260, "detections": [{"label": "person", "confidence": 0.93, "bbox": [404, 1604, 1153, 3446]}, {"label": "person", "confidence": 0.87, "bbox": [1545, 1657, 1908, 2786]}, {"label": "person", "confidence": 0.85, "bbox": [258, 1646, 519, 2457]}, {"label": "person", "confidence": 0.81, "bbox": [1815, 1581, 2137, 2608]}, {"label": "person", "confidence": 0.8, "bbox": [0, 1617, 282, 2500]}, {"label": "backpack", "confidence": 0.79, "bbox": [1556, 1844, 1807, 2212]}, {"label": "person", "confidence": 0.69, "bbox": [1131, 1669, 1275, 2078]}, {"label": "person", "confidence": 0.63, "bbox": [1338, 1706, 1453, 2007]}, {"label": "person", "confidence": 0.6, "bbox": [1254, 1701, 1341, 1998]}, {"label": "person", "confidence": 0.5, "bbox": [2046, 1657, 2150, 2263]}, {"label": "handbag", "confidence": 0.49, "bbox": [279, 1967, 472, 2109]}, {"label": "person", "confidence": 0.45, "bbox": [458, 1670, 585, 1923]}, {"label": "person", "confidence": 0.43, "bbox": [747, 1699, 862, 1901]}, {"label": "person", "confidence": 0.36, "bbox": [885, 1712, 952, 1896]}, {"label": "person", "confidence": 0.36, "bbox": [0, 1665, 96, 2211]}, {"label": "person", "confidence": 0.32, "bbox": [849, 1710, 952, 1898]}, {"label": "bench", "confidence": 0.3, "bbox": [856, 1897, 1114, 2135]}, {"label": "person", "confidence": 0.3, "bbox": [973, 1696, 1032, 1826]}], "worker": 1, "ts": "2026-08-17T14:40:23"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 290, "queue_size": 26, "queue_capacity": 100, "queue_fullness": 0.26, "ts": "2026-08-17T14:40:23"}
+{"level": "METRIC", "camera_id": 2, "frame": 290, "worker": 1, "processing_lag_sec": 42.168, "ts": "2026-08-17T14:40:23"}
+{"level": "METRIC", "worker": 1, "camera_id": 1, "frame": 275, "queue_size": 25, "queue_capacity": 100, "queue_fullness": 0.25, "ts": "2026-08-17T14:40:23"}
+{"level": "METRIC", "camera_id": 1, "frame": 275, "worker": 1, "processing_lag_sec": 41.553, "ts": "2026-08-17T14:40:23"}
+{"level": "EVENT", "camera_id": 1, "frame": 275, "detections": [{"label": "person", "confidence": 0.89, "bbox": [1734, 1634, 2155, 2898]}, {"label": "person", "confidence": 0.86, "bbox": [628, 1711, 890, 2493]}, {"label": "person", "confidence": 0.86, "bbox": [2, 1610, 257, 2369]}, {"label": "person", "confidence": 0.8, "bbox": [214, 1649, 487, 2446]}, {"label": "person", "confidence": 0.79, "bbox": [424, 1667, 599, 2183]}, {"label": "person", "confidence": 0.67, "bbox": [1114, 1674, 1256, 2084]}, {"label": "person", "confidence": 0.63, "bbox": [1, 2280, 371, 3838]}, {"label": "person", "confidence": 0.61, "bbox": [1331, 1699, 1431, 2000]}, {"label": "person", "confidence": 0.56, "bbox": [1234, 1702, 1324, 2008]}, {"label": "backpack", "confidence": 0.46, "bbox": [1829, 1849, 2115, 2261]}, {"label": "person", "confidence": 0.42, "bbox": [1703, 1681, 1794, 1939]}, {"label": "person", "confidence": 0.38, "bbox": [804, 1717, 891, 1905]}, {"label": "bench", "confidence": 0.36, "bbox": [819, 1897, 1090, 2168]}, {"label": "person", "confidence": 0.33, "bbox": [1710, 1695, 1775, 1938]}], "worker": 1, "ts": "2026-08-17T14:40:24"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 305, "queue_size": 24, "queue_capacity": 100, "queue_fullness": 0.24, "ts": "2026-08-17T14:40:24"}
+{"level": "METRIC", "camera_id": 2, "frame": 305, "worker": 1, "processing_lag_sec": 41.246, "ts": "2026-08-17T14:40:24"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 315, "queue_size": 23, "queue_capacity": 100, "queue_fullness": 0.23, "ts": "2026-08-17T14:40:24"}
+{"level": "METRIC", "camera_id": 2, "frame": 315, "worker": 1, "processing_lag_sec": 40.671, "ts": "2026-08-17T14:40:24"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 325, "queue_size": 22, "queue_capacity": 100, "queue_fullness": 0.22, "ts": "2026-08-17T14:40:24"}
+{"level": "METRIC", "camera_id": 2, "frame": 325, "worker": 1, "processing_lag_sec": 40.037, "ts": "2026-08-17T14:40:24"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 335, "queue_size": 21, "queue_capacity": 100, "queue_fullness": 0.21, "ts": "2026-08-17T14:40:24"}
+{"level": "METRIC", "camera_id": 2, "frame": 335, "worker": 1, "processing_lag_sec": 39.565, "ts": "2026-08-17T14:40:24"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 345, "queue_size": 20, "queue_capacity": 100, "queue_fullness": 0.2, "ts": "2026-08-17T14:40:25"}
+{"level": "METRIC", "camera_id": 2, "frame": 345, "worker": 1, "processing_lag_sec": 39.036, "ts": "2026-08-17T14:40:25"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 350, "queue_size": 19, "queue_capacity": 100, "queue_fullness": 0.19, "ts": "2026-08-17T14:40:25"}
+{"level": "METRIC", "camera_id": 2, "frame": 350, "worker": 1, "processing_lag_sec": 38.87, "ts": "2026-08-17T14:40:25"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 360, "queue_size": 18, "queue_capacity": 100, "queue_fullness": 0.18, "ts": "2026-08-17T14:40:25"}
+{"level": "METRIC", "camera_id": 2, "frame": 360, "worker": 1, "processing_lag_sec": 38.36, "ts": "2026-08-17T14:40:25"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 365, "queue_size": 17, "queue_capacity": 100, "queue_fullness": 0.17, "ts": "2026-08-17T14:40:25"}
+{"level": "METRIC", "camera_id": 2, "frame": 365, "worker": 1, "processing_lag_sec": 38.217, "ts": "2026-08-17T14:40:25"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 370, "queue_size": 16, "queue_capacity": 100, "queue_fullness": 0.16, "ts": "2026-08-17T14:40:26"}
+{"level": "METRIC", "camera_id": 2, "frame": 370, "worker": 1, "processing_lag_sec": 38.097, "ts": "2026-08-17T14:40:26"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 380, "queue_size": 15, "queue_capacity": 100, "queue_fullness": 0.15, "ts": "2026-08-17T14:40:26"}
+{"level": "METRIC", "camera_id": 2, "frame": 380, "worker": 1, "processing_lag_sec": 37.665, "ts": "2026-08-17T14:40:26"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 385, "queue_size": 14, "queue_capacity": 100, "queue_fullness": 0.14, "ts": "2026-08-17T14:40:26"}
+{"level": "METRIC", "camera_id": 2, "frame": 385, "worker": 1, "processing_lag_sec": 37.64, "ts": "2026-08-17T14:40:26"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 395, "queue_size": 13, "queue_capacity": 100, "queue_fullness": 0.13, "ts": "2026-08-17T14:40:26"}
+{"level": "METRIC", "camera_id": 2, "frame": 395, "worker": 1, "processing_lag_sec": 37.12, "ts": "2026-08-17T14:40:26"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 400, "queue_size": 12, "queue_capacity": 100, "queue_fullness": 0.12, "ts": "2026-08-17T14:40:27"}
+{"level": "METRIC", "camera_id": 2, "frame": 400, "worker": 1, "processing_lag_sec": 36.923, "ts": "2026-08-17T14:40:27"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 405, "queue_size": 11, "queue_capacity": 100, "queue_fullness": 0.11, "ts": "2026-08-17T14:40:27"}
+{"level": "METRIC", "camera_id": 2, "frame": 405, "worker": 1, "processing_lag_sec": 36.831, "ts": "2026-08-17T14:40:27"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 415, "queue_size": 10, "queue_capacity": 100, "queue_fullness": 0.1, "ts": "2026-08-17T14:40:27"}
+{"level": "METRIC", "camera_id": 2, "frame": 415, "worker": 1, "processing_lag_sec": 36.364, "ts": "2026-08-17T14:40:27"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 420, "queue_size": 9, "queue_capacity": 100, "queue_fullness": 0.09, "ts": "2026-08-17T14:40:27"}
+{"level": "METRIC", "camera_id": 2, "frame": 420, "worker": 1, "processing_lag_sec": 36.304, "ts": "2026-08-17T14:40:27"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 435, "queue_size": 8, "queue_capacity": 100, "queue_fullness": 0.08, "ts": "2026-08-17T14:40:28"}
+{"level": "METRIC", "camera_id": 2, "frame": 435, "worker": 1, "processing_lag_sec": 35.331, "ts": "2026-08-17T14:40:28"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 440, "queue_size": 7, "queue_capacity": 100, "queue_fullness": 0.07, "ts": "2026-08-17T14:40:28"}
+{"level": "METRIC", "camera_id": 2, "frame": 440, "worker": 1, "processing_lag_sec": 35.199, "ts": "2026-08-17T14:40:28"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 445, "queue_size": 6, "queue_capacity": 100, "queue_fullness": 0.06, "ts": "2026-08-17T14:40:28"}
+{"level": "METRIC", "camera_id": 2, "frame": 445, "worker": 1, "processing_lag_sec": 35.099, "ts": "2026-08-17T14:40:28"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 455, "queue_size": 5, "queue_capacity": 100, "queue_fullness": 0.05, "ts": "2026-08-17T14:40:28"}
+{"level": "METRIC", "camera_id": 2, "frame": 455, "worker": 1, "processing_lag_sec": 34.517, "ts": "2026-08-17T14:40:28"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 460, "queue_size": 4, "queue_capacity": 100, "queue_fullness": 0.04, "ts": "2026-08-17T14:40:29"}
+{"level": "METRIC", "camera_id": 2, "frame": 460, "worker": 1, "processing_lag_sec": 34.478, "ts": "2026-08-17T14:40:29"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 470, "queue_size": 3, "queue_capacity": 100, "queue_fullness": 0.03, "ts": "2026-08-17T14:40:29"}
+{"level": "METRIC", "camera_id": 2, "frame": 470, "worker": 1, "processing_lag_sec": 33.97, "ts": "2026-08-17T14:40:29"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 480, "queue_size": 2, "queue_capacity": 100, "queue_fullness": 0.02, "ts": "2026-08-17T14:40:29"}
+{"level": "METRIC", "camera_id": 2, "frame": 480, "worker": 1, "processing_lag_sec": 33.189, "ts": "2026-08-17T14:40:29"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 485, "queue_size": 1, "queue_capacity": 100, "queue_fullness": 0.01, "ts": "2026-08-17T14:40:30"}
+{"level": "METRIC", "camera_id": 2, "frame": 485, "worker": 1, "processing_lag_sec": 32.978, "ts": "2026-08-17T14:40:30"}
+{"level": "EVENT", "camera_id": 2, "frame": 485, "detections": [{"label": "car", "confidence": 0.34, "bbox": [1238, 2129, 1387, 2232]}], "worker": 1, "ts": "2026-08-17T14:40:30"}
+{"level": "METRIC", "worker": 1, "camera_id": 2, "frame": 490, "queue_size": 0, "queue_capacity": 100, "queue_fullness": 0.0, "ts": "2026-08-17T14:40:30"}
+{"level": "METRIC", "camera_id": 2, "frame": 490, "worker": 1, "processing_lag_sec": 33.026, "ts": "2026-08-17T14:40:30"}

@@ -24,6 +24,6 @@
     "input": {
         "mode": "auto",
         "video_dir": "videos",
-        "camera_indices": [1]
+        "camera_indices": [0]
     }
 }
